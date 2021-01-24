@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CL | CANAL 13 *FHD">
+    <display-name lang="es">CL | CANAL 13 *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CL | CHV *FHD">
+    <display-name lang="es">CL | CHV *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CL | MEGA *FHD">
+    <display-name lang="es">CL | MEGA *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CL | LA RED *FHD">
+    <display-name lang="es">CL | LA RED *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CL | TV CHILE *FHD">
+    <display-name lang="es">CL | TVN CHILE *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TNT *FHD">
+    <display-name lang="es">TNT *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="AXN *FHD">
+    <display-name lang="es">AXN *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA *FHD">
+    <display-name lang="es">CINEMA *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210124004000 -0300" stop="20210124014500 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">9-1-1 Lone Star</title>
+  </programme>
+  <programme start="20210124014500 -0300" stop="20210124073000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210124073000 -0300" stop="20210124080000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210124080000 -0300" stop="20210124090000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Ranki</title>
+  </programme>
+  <programme start="20210124090000 -0300" stop="20210124100000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20210124100000 -0300" stop="20210124110000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210124110000 -0300" stop="20210124130000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Mesa central</title>
+  </programme>
+  <programme start="20210124130000 -0300" stop="20210124150000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210124150000 -0300" stop="20210124180000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Día de la Independencia</title>
+  </programme>
+  <programme start="20210124180000 -0300" stop="20210124191000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">El transiberiano</title>
+  </programme>
+  <programme start="20210124191000 -0300" stop="20210124200000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20210124200000 -0300" stop="20210124210000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20210124210000 -0300" stop="20210124223000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210124223000 -0300" stop="20210124223500 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210124223500 -0300" stop="20210124234500 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Los Carcamales</title>
+  </programme>
+  <programme start="20210124234500 -0300" stop="20210125004500 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Lo Mejor de Machos</title>
+  </programme>
+  <programme start="20210125004500 -0300" stop="20210125023000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Soltera otra vez</title>
+  </programme>
+  <programme start="20210125023000 -0300" stop="20210125063000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210125063000 -0300" stop="20210125080000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210125080000 -0300" stop="20210125120000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Bienvenidos, Cada Uno Cuenta</title>
+  </programme>
+  <programme start="20210125120000 -0300" stop="20210125130000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Juego contra Fuego</title>
+  </programme>
+  <programme start="20210125130000 -0300" stop="20210125143000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210125143000 -0300" stop="20210125143500 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">El tiempo tarde</title>
+  </programme>
+  <programme start="20210125143500 -0300" stop="20210125155500 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Machos</title>
+  </programme>
+  <programme start="20210125155500 -0300" stop="20210125164000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Yeter</title>
+  </programme>
+  <programme start="20210125164000 -0300" stop="20210125182000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210125182000 -0300" stop="20210125200000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Aquí somos todos</title>
+  </programme>
+  <programme start="20210125200000 -0300" stop="20210125210000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Los 80</title>
+  </programme>
+  <programme start="20210125223500 -0300" stop="20210125233000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Soltera otra vez</title>
+  </programme>
+  <programme start="20210125233000 -0300" stop="20210126003000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Sigamos de largo - Estelar</title>
+  </programme>
+  <programme start="20210126003000 -0300" stop="20210126011500 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Pacto de sangre</title>
+  </programme>
+  <programme start="20210126011500 -0300" stop="20210126021500 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Bones</title>
+  </programme>
+  <programme start="20210126021500 -0300" stop="20210126063000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210126063000 -0300" stop="20210126080000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210126080000 -0300" stop="20210126120000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Bienvenidos, Cada Uno Cuenta</title>
+  </programme>
+  <programme start="20210126120000 -0300" stop="20210126130000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Juego contra Fuego</title>
+  </programme>
+  <programme start="20210126130000 -0300" stop="20210126143000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210126143000 -0300" stop="20210126143500 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">El tiempo tarde</title>
+  </programme>
+  <programme start="20210126143500 -0300" stop="20210126155500 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Machos</title>
+  </programme>
+  <programme start="20210126155500 -0300" stop="20210126164000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Yeter</title>
+  </programme>
+  <programme start="20210126164000 -0300" stop="20210126182000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210126182000 -0300" stop="20210126200000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Aquí somos todos</title>
+  </programme>
+  <programme start="20210126200000 -0300" stop="20210126210000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Los 80</title>
+  </programme>
+  <programme start="20210126210000 -0300" stop="20210126223000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210126223000 -0300" stop="20210126223500 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210126223500 -0300" stop="20210126233000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Soltera otra vez</title>
+  </programme>
+  <programme start="20210126233000 -0300" stop="20210127003000 -0300" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Sigamos de largo - Estelar</title>
+  </programme>
+</tv>
