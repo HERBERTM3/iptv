@@ -16,8 +16,8 @@
     <display-name lang="es">CL | LA RED *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="CL | TVN CHILE *FHD">
-    <display-name lang="es">CL | TVN CHILE *FHD</display-name>
+  <channel id="CL | TV CHILE *FHD">
+    <display-name lang="es">CL | TV CHILE *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20210124004000 -0300" stop="20210124014500 -0300" channel="CL | CANAL 13 *FHD">
@@ -497,259 +497,259 @@
   <programme start="20210128050000 -0300" stop="20210128063000 -0300" channel="CL | LA RED *FHD">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20210124013000 -0300" stop="20210124030000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124013000 -0300" stop="20210124030000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Retro</title>
   </programme>
-  <programme start="20210124030000 -0300" stop="20210124040000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124030000 -0300" stop="20210124040000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">La Ruta de Chile</title>
   </programme>
-  <programme start="20210124040000 -0300" stop="20210124043000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124040000 -0300" stop="20210124043000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Maestros</title>
   </programme>
-  <programme start="20210124043000 -0300" stop="20210124050000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124043000 -0300" stop="20210124050000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Doremix</title>
   </programme>
-  <programme start="20210124050000 -0300" stop="20210124060000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124050000 -0300" stop="20210124060000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Bichos raros</title>
   </programme>
-  <programme start="20210124060000 -0300" stop="20210124070000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124060000 -0300" stop="20210124070000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Bichos raros</title>
   </programme>
-  <programme start="20210124070000 -0300" stop="20210124073000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124070000 -0300" stop="20210124073000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Exploradores</title>
   </programme>
-  <programme start="20210124073000 -0300" stop="20210124080000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124073000 -0300" stop="20210124080000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210124080000 -0300" stop="20210124083000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124080000 -0300" stop="20210124083000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210124083000 -0300" stop="20210124090000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124083000 -0300" stop="20210124090000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210124090000 -0300" stop="20210124100000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124090000 -0300" stop="20210124100000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Congreso futuro</title>
   </programme>
-  <programme start="20210124100000 -0300" stop="20210124130000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124100000 -0300" stop="20210124130000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">24 Horas a la Hora</title>
   </programme>
-  <programme start="20210124130000 -0300" stop="20210124143000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124130000 -0300" stop="20210124143000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">24 Tarde</title>
   </programme>
-  <programme start="20210124143000 -0300" stop="20210124150000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124143000 -0300" stop="20210124150000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210124150000 -0300" stop="20210124153000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124150000 -0300" stop="20210124153000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210124153000 -0300" stop="20210124160000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124153000 -0300" stop="20210124160000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Maestros</title>
   </programme>
-  <programme start="20210124160000 -0300" stop="20210124163000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124160000 -0300" stop="20210124163000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Doremix</title>
   </programme>
-  <programme start="20210124163000 -0300" stop="20210124173000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124163000 -0300" stop="20210124173000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Congreso futuro</title>
   </programme>
-  <programme start="20210124173000 -0300" stop="20210124193000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124173000 -0300" stop="20210124193000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Conectados</title>
   </programme>
-  <programme start="20210124193000 -0300" stop="20210124210000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124193000 -0300" stop="20210124210000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Esperanza</title>
   </programme>
-  <programme start="20210124210000 -0300" stop="20210124223000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124210000 -0300" stop="20210124223000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">24 Horas Central</title>
   </programme>
-  <programme start="20210124223000 -0300" stop="20210125000000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210124223000 -0300" stop="20210125000000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Festivales de selección</title>
   </programme>
-  <programme start="20210125000000 -0300" stop="20210125010000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125000000 -0300" stop="20210125010000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">La Ruta de Chile</title>
   </programme>
-  <programme start="20210125010000 -0300" stop="20210125030000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125010000 -0300" stop="20210125030000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Conectados</title>
   </programme>
-  <programme start="20210125030000 -0300" stop="20210125044500 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125030000 -0300" stop="20210125044500 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Zoom: Grandes momentos del deporte</title>
   </programme>
-  <programme start="20210125044500 -0300" stop="20210125063000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125044500 -0300" stop="20210125063000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Festivales de selección</title>
   </programme>
-  <programme start="20210125063000 -0300" stop="20210125070000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125063000 -0300" stop="20210125070000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Sesiones 24H</title>
   </programme>
-  <programme start="20210125070000 -0300" stop="20210125083000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125070000 -0300" stop="20210125083000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">24 AM</title>
   </programme>
-  <programme start="20210125083000 -0300" stop="20210125114500 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125083000 -0300" stop="20210125114500 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Buenos Días a Todos</title>
   </programme>
-  <programme start="20210125114500 -0300" stop="20210125153000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125114500 -0300" stop="20210125153000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">24 Tarde</title>
   </programme>
-  <programme start="20210125153000 -0300" stop="20210125163000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125153000 -0300" stop="20210125163000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Conectados</title>
   </programme>
-  <programme start="20210125163000 -0300" stop="20210125170000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125163000 -0300" stop="20210125170000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210125170000 -0300" stop="20210125173000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125170000 -0300" stop="20210125173000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210125173000 -0300" stop="20210125190000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125173000 -0300" stop="20210125190000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Carmen Gloria a tu servicio</title>
   </programme>
-  <programme start="20210125190000 -0300" stop="20210125194000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125190000 -0300" stop="20210125194000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Noticias 24</title>
   </programme>
-  <programme start="20210125194000 -0300" stop="20210125201500 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125194000 -0300" stop="20210125201500 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Esperanza</title>
   </programme>
-  <programme start="20210125201500 -0300" stop="20210125204500 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125201500 -0300" stop="20210125204500 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">El Regreso</title>
   </programme>
-  <programme start="20210125204500 -0300" stop="20210125224000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125204500 -0300" stop="20210125224000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">24 Horas Central</title>
   </programme>
-  <programme start="20210125224000 -0300" stop="20210125235000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125224000 -0300" stop="20210125235000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">La Ruta de Chile</title>
   </programme>
-  <programme start="20210125235000 -0300" stop="20210126004500 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210125235000 -0300" stop="20210126004500 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Esperanza</title>
   </programme>
-  <programme start="20210126235000 -0300" stop="20210127004500 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210126235000 -0300" stop="20210127004500 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Esperanza</title>
   </programme>
-  <programme start="20210127004500 -0300" stop="20210127013000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127004500 -0300" stop="20210127013000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">El Regreso</title>
   </programme>
-  <programme start="20210127013000 -0300" stop="20210127023000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127013000 -0300" stop="20210127023000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Conectados</title>
   </programme>
-  <programme start="20210127023000 -0300" stop="20210127030000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127023000 -0300" stop="20210127030000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Medianoche</title>
   </programme>
-  <programme start="20210127030000 -0300" stop="20210127034500 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127030000 -0300" stop="20210127034500 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Carmen Gloria a tu servicio</title>
   </programme>
-  <programme start="20210127034500 -0300" stop="20210127044500 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127034500 -0300" stop="20210127044500 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">La Ruta de Chile</title>
   </programme>
-  <programme start="20210127044500 -0300" stop="20210127060000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127044500 -0300" stop="20210127060000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">El Regreso</title>
   </programme>
-  <programme start="20210127060000 -0300" stop="20210127070000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127060000 -0300" stop="20210127070000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Conectados</title>
   </programme>
-  <programme start="20210127070000 -0300" stop="20210127083000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127070000 -0300" stop="20210127083000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">24 AM</title>
   </programme>
-  <programme start="20210127083000 -0300" stop="20210127130000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127083000 -0300" stop="20210127130000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Buenos Días a Todos</title>
   </programme>
-  <programme start="20210127130000 -0300" stop="20210127153000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127130000 -0300" stop="20210127153000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">24 Tarde</title>
   </programme>
-  <programme start="20210127153000 -0300" stop="20210127163000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127153000 -0300" stop="20210127163000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Conectados</title>
   </programme>
-  <programme start="20210127163000 -0300" stop="20210127170000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127163000 -0300" stop="20210127170000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210127170000 -0300" stop="20210127173000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127170000 -0300" stop="20210127173000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210127173000 -0300" stop="20210127190000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127173000 -0300" stop="20210127190000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Carmen Gloria a tu servicio</title>
   </programme>
-  <programme start="20210127190000 -0300" stop="20210127194000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127190000 -0300" stop="20210127194000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Noticias 24</title>
   </programme>
-  <programme start="20210127194000 -0300" stop="20210127201500 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127194000 -0300" stop="20210127201500 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Esperanza</title>
   </programme>
-  <programme start="20210127201500 -0300" stop="20210127204500 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127201500 -0300" stop="20210127204500 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">El Regreso</title>
   </programme>
-  <programme start="20210127204500 -0300" stop="20210127224000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127204500 -0300" stop="20210127224000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">24 Horas Central</title>
   </programme>
-  <programme start="20210127224000 -0300" stop="20210127231000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127224000 -0300" stop="20210127231000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Maestros</title>
   </programme>
-  <programme start="20210127231000 -0300" stop="20210127235000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210127231000 -0300" stop="20210127235000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Doremix</title>
   </programme>
-  <programme start="20210128030000 -0300" stop="20210128040000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210128030000 -0300" stop="20210128040000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Carmen Gloria a tu servicio</title>
   </programme>
-  <programme start="20210128050000 -0300" stop="20210128060000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210128050000 -0300" stop="20210128060000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">El Regreso</title>
   </programme>
-  <programme start="20210128060000 -0300" stop="20210128070000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210128060000 -0300" stop="20210128070000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Conectados</title>
   </programme>
-  <programme start="20210128083000 -0300" stop="20210128130000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210128083000 -0300" stop="20210128130000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Buenos Días a Todos</title>
   </programme>
-  <programme start="20210128130000 -0300" stop="20210128153000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210128130000 -0300" stop="20210128153000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">24 Tarde</title>
   </programme>
-  <programme start="20210128194000 -0300" stop="20210128200000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210128194000 -0300" stop="20210128200000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Esperanza</title>
   </programme>
-  <programme start="20210128200000 -0300" stop="20210128204500 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210128200000 -0300" stop="20210128204500 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">El Regreso</title>
   </programme>
-  <programme start="20210128224000 -0300" stop="20210128235000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210128224000 -0300" stop="20210128235000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Fruto Del País</title>
   </programme>
-  <programme start="20210129040000 -0300" stop="20210129050000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210129040000 -0300" stop="20210129050000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Fruto Del País</title>
   </programme>
-  <programme start="20210129050000 -0300" stop="20210129060000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210129050000 -0300" stop="20210129060000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">El Regreso</title>
   </programme>
-  <programme start="20210129194000 -0300" stop="20210129200000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210129194000 -0300" stop="20210129200000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Esperanza</title>
   </programme>
-  <programme start="20210129200000 -0300" stop="20210129204500 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210129200000 -0300" stop="20210129204500 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">El Regreso</title>
   </programme>
-  <programme start="20210129224000 -0300" stop="20210129235000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210129224000 -0300" stop="20210129235000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Chilenos de selección</title>
   </programme>
-  <programme start="20210129235000 -0300" stop="20210130000000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210129235000 -0300" stop="20210130000000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Esperanza</title>
   </programme>
-  <programme start="20210130000000 -0300" stop="20210130004500 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210130000000 -0300" stop="20210130004500 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Esperanza</title>
   </programme>
-  <programme start="20210130040000 -0300" stop="20210130053000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210130040000 -0300" stop="20210130053000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Chilenos de selección</title>
   </programme>
-  <programme start="20210130053000 -0300" stop="20210130063000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210130053000 -0300" stop="20210130063000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Conectados</title>
   </programme>
-  <programme start="20210130063000 -0300" stop="20210130080000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210130063000 -0300" stop="20210130080000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">24 AM</title>
   </programme>
-  <programme start="20210130080000 -0300" stop="20210130130000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210130080000 -0300" stop="20210130130000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Buenos Días a Todos</title>
   </programme>
-  <programme start="20210130200000 -0300" stop="20210130210000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210130200000 -0300" stop="20210130210000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">El Regreso</title>
   </programme>
-  <programme start="20210130210000 -0300" stop="20210130224000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210130210000 -0300" stop="20210130224000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">24 Horas Central</title>
   </programme>
-  <programme start="20210130224000 -0300" stop="20210130235000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210130224000 -0300" stop="20210130235000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Retro</title>
   </programme>
-  <programme start="20210130235000 -0300" stop="20210131013000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210130235000 -0300" stop="20210131013000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Esperanza</title>
   </programme>
-  <programme start="20210131235000 -0300" stop="20210201013000 -0300" channel="CL | TVN CHILE *FHD">
+  <programme start="20210131235000 -0300" stop="20210201013000 -0300" channel="CL | TV CHILE *FHD">
     <title lang="es">Esperanza</title>
   </programme>
 </tv>
