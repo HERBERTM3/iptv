@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CL: Canal 13 Full HD">
+    <display-name lang="es">CL: Canal 13 Full HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210124004000 -0600" stop="20210124014500 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">9-1-1 Lone Star</title>
+  </programme>
+  <programme start="20210124014500 -0600" stop="20210124073000 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210124073000 -0600" stop="20210124080000 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210124080000 -0600" stop="20210124090000 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">Ranki</title>
+  </programme>
+  <programme start="20210124090000 -0600" stop="20210124100000 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20210124100000 -0600" stop="20210124110000 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210124110000 -0600" stop="20210124130000 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">Mesa central</title>
+  </programme>
+  <programme start="20210124130000 -0600" stop="20210124150000 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210124150000 -0600" stop="20210124180000 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">Día de la Independencia</title>
+  </programme>
+  <programme start="20210124180000 -0600" stop="20210124191000 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">El transiberiano</title>
+  </programme>
+  <programme start="20210124191000 -0600" stop="20210124200000 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20210124200000 -0600" stop="20210124210000 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20210124210000 -0600" stop="20210124223000 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210124223000 -0600" stop="20210124223500 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210124223500 -0600" stop="20210124234500 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">Los Carcamales</title>
+  </programme>
+  <programme start="20210124234500 -0600" stop="20210125004500 -0600" channel="CL: Canal 13 Full HD">
+    <title lang="es">Lo Mejor de Machos</title>
+  </programme>
+</tv>
