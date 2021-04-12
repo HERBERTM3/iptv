@@ -12,3 +12,9 @@ https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/way71f4yp5a3.m3u8?s=6qGz_W2Bnslaq
 #
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-nTbnsQWvGv0/YHP0jBBF4uI/AAAAAAAAACw/j0mVU-fF9MAA2OAode09LfjM2GwXQXcHACLcBGAsYHQ/h120/HBO.png" group-title="HBO" , HBO 
 https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/lbqtn3.m3u8?s=PqrzAcGam0nHWoKMsMLjqA&e=1618233349
+#
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s86a1480785a470a0/image/iac17db91818c088c/version/1615268876/image.jpg" group-title="WARNER" , WARNER 
+https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/j5uwhfb7w5c.m3u8?s=WIqD_Ar_rJgvi8pTNF1LqA&e=1618233722
+#
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/s86a1480785a470a0/image/iab12be5213e6caf0/version/1615361831/image.png" group-title="FOX" , FOX 
+https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/0e733j.m3u8?s=VisJOQe5eoI0eOH8RBxqaw&e=1618233927
