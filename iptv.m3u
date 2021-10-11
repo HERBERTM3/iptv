@@ -1,29 +1,53 @@
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=296x10000:format=jpg/path/s86a1480785a470a0/image/i228aa9d3af4cd0b4/version/1468206296/image.jpg" group-title="CMD Perù" , CMD Perù 
-https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/u8sutdeb.m3u8?s=Lpgbb8JwHmahAHN0ViqAvw&e=1618228488
-#
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-N0-a8Ra8KXQ/YWPrTlEAs6I/AAAAAAAAADs/60oiUqw2hL0rGW6GCDKgSYpjuqiFOixqACLcBGAsYHQ/h120/logo_TVPE_PLAY_.png" group-title="TVPE Perù" , TVPE Perù 
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/s86a1480785a470a0/image/i784f3e51ab91dca8/version/1614362642/image.png" group-title="EXITOSA Perù" , EXITOSA Perù 
-https://b-hls-03.stripst.com/hls/51803696/51803696.m3u8
-#
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=560x10000:format=png/path/s86a1480785a470a0/image/i7a4a93857a7d88ef/version/1615437307/image.png" group-title="HBO XTREME" , HBO XTREME 
-https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/way71f4yp5a3.m3u8?s=6qGz_W2Bnslaql-E9hv-og&e=1618233037
-#
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-nTbnsQWvGv0/YHP0jBBF4uI/AAAAAAAAACw/j0mVU-fF9MAA2OAode09LfjM2GwXQXcHACLcBGAsYHQ/h120/HBO.png" group-title="HBO" , HBO 
-https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/lbqtn3.m3u8?s=PqrzAcGam0nHWoKMsMLjqA&e=1618233349
-#
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s86a1480785a470a0/image/iac17db91818c088c/version/1615268876/image.jpg" group-title="WARNER" , WARNER 
-https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/j5uwhfb7w5c.m3u8?s=WIqD_Ar_rJgvi8pTNF1LqA&e=1618233722
-#
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/s86a1480785a470a0/image/iab12be5213e6caf0/version/1615361831/image.png" group-title="FOX" , FOX 
-https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/0e733j.m3u8?s=VisJOQe5eoI0eOH8RBxqaw&e=1618233927
-#
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s86a1480785a470a0/image/i3e52b99e2a4b858a/version/1615268158/image.png" group-title="UNIVERSAL" , UNIVERSAL 
-https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/d77wqro8917ua5z.m3u8?s=v28MzWBSLZTIBvelnPs6mA&e=1618234808
-#
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=266x10000:format=png/path/s86a1480785a470a0/image/ia066dc71c43d13d7/version/1615268587/image.png" group-title="TNT" , TNT 
-https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/glaldsq.m3u8?s=f1SWj7EWC-pyJZJ8zJfqZw&e=1618234992
-#
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=290x10000:format=png/path/s86a1480785a470a0/image/i9696444fd8cbaccb/version/1615267200/image.png" group-title="PARAMOUNT" , PARAMOUNT 
-https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/vwchy5d.m3u8?s=hK53T-f-0o-jRe7cXpptnA&e=1618235155
+#EXTM3U
+#EXTINF:-1 group-title="CINE" tvg-logo="https://i.imgur.com/30HzeQe.png",CONTRATA HOY TVPREMIUMHD.COM
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://igx.4sqi.net/img/general/200x200/27679561_G1AdkrWJvY8Vn4MTPtLWhdvidYwIbTrPu04DFZx2gPw.png",ENTRETENIMINETO: Canal 26
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.imgur.com/30HzeQe.png",ENTRETENIMINETO: Chicos IPE
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://3.bp.blogspot.com/-gDfpykQXiAY/TtedvKOo74I/AAAAAAAARQ4/p6pXiwKtz08/s1600/tlx.png",ENTRETENIMINETO: TLX
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w015627id3435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://i.imgur.com/QLnei6w.png",ITALIA: TELECHIARA OPT 1
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://i.imgur.com/QLnei6w.png",ITALIA: TELECITTA NEW
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=213.187.12.18/live/tv1.m3u8
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://i.imgur.com/QLnei6w.png",ITALIA: TELEMOLISE NEW
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://www.dvdsreleasedates.com/posters/800/K/Kevin-Hart-Let-Me-Explain-2013-movie-poster.jpg",Kevin Hart: Let Me Explain (2013)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=www.deadlyblogger.com/NewRelease/kevin.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FIz0UOPXaUXEEz_370_a/Kick-Ass-2.jpg",Kick-Ass 2 (2013)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=www.deadlyblogger.com/NewRelease/kickass2.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://pbs.twimg.com/media/BMUtIJxCUAE_Vsv.jpg",Killing Season (2013)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=www.deadlyblogger.com/NewRelease/killings.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="http://www.wearemoviegeeks.com/wp-content/uploads/248158id1f_lastvegas_1sht.jpg",Last Vegas (2013)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=www.deadlyblogger.com/NewRelease/lastvegas2013.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://a.ltrbxd.com/resized/film-poster/3/1/4/3/2/9/314329-lego-star-wars-the-yoda-chronicles-episode-iii-attack-of--0-230-0-345-crop.jpg",Lego Star Wars: The Yoda Chronicles (2013)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=www.deadlyblogger.com/NewRelease/legoyoda1.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://film.geourdu.com/wp-content/uploads/2015/02/Man-of-Steel-2013.jpg",Man of Steel (2013)*
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=www.deadlyblogger.com/NewRelease/steel.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.ytimg.com/vi/qX6fvPqvsLg/movieposter.jpg",Man of Tai Chi (2013)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=www.deadlyblogger.com/NewRelease/tai.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://www.dvdsreleasedates.com/posters/800/M/Monsters-University-2013-movie-poster.jpg",Monsters University (2013)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=www.deadlyblogger.com/NewRelease/monsters2.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://www.movietard.com/wp-content/uploads/2015/03/Watch-Now-You-See-Me-2013-online.jpg",Now You See Me (2013)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=www.deadlyblogger.com/NewRelease/nowyouseeme.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="http://movienews.ro/reviews/wp-content/uploads/2013/03/olympus_has_fallen_ver10.jpg",Olympus Has Fallen (2013)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=www.deadlyblogger.com/NewRelease/fallen1.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://static1.squarespace.com/static/5483f2a1e4b069cf1af24d9f/5493625fe4b07d6cfb04e8c2/549788b1e4b0385fffd71f44/1419919242596/prisoners_ver9_xxlg.jpg",Prisoners (2013)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=www.deadlyblogger.com/NewRelease/prisoners.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="http://i.imgur.com/jVQzuIJ.jpg",Pup (2013)
+http://tvpremiumhd.club/lista-gratuita/180709/on/lives.php?id=archive.org/download/TorrentPopular.comPup20131080p1080p/Pup.2013.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.ytimg.com/vi/BvsB0V9K7GQ/movieposter.jpg",Repentance (2013)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=www.deadlyblogger.com/NewRelease/repentance.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/4d/32/93/4d3293648811a005d173233f83d7ed05.jpg",Horror Express (1972)
+http://tvpremiumhd.club/lista-gratuita/180709/on/lives.php?id=archive.org/download/Horror_Express_WebM/horror_express_512kb.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="http://leglesscorpse.us/wp-content/uploads/2014/06/Moon_of_the_Wolf.jpg",Moon of the Wolf (1972)
+http://tvpremiumhd.club/lista-gratuita/180709/on/lives.php?id=archive.org/download/MoonOfTheWolf1972/MoonOfTheWolf1972MadeForTv1_512kb.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Santa_and_the_Ice_Cream_Bunny_FilmPoster.jpeg/220px-Santa_and_the_Ice_Cream_Bunny_FilmPoster.jpeg",Santa and the Ice Cream Bunny (1972)
+http://tvpremiumhd.club/lista-gratuita/180709/on/lives.php?id=archive.org/download/SantaAndTheIceCreamBunny1972FullFilm/Santa%20and%20the%20Ice%20Cream%20Bunny%20(1972)%20full%20film.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.pinimg.com/originals/c3/bc/1c/c3bc1c4c8bee430470100f57e0af7658.jpg",The Asphyx (1972)
+http://tvpremiumhd.club/lista-gratuita/180709/on/lives.php?id=archive.org/download/ASPHYX1972/ASPHYX%20%201972.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-godfather-1972/large_d4KNaTrltq6bpkFS01pYtyXa09m.jpg",The Godfather (1972)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=www.deadlyblogger.com/NewRelease/godfather1.mp4
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="http://worldworthwatching.com/wp-content/uploads/2013/08/The_Proud_And_The_Damned1.jpg",The Proud and the Damned (1972)
+http://tvpremiumhd.club/lista-gratuita/180709/on/lives.php?id=archive.org/download/TheProudAndTheDamned/ClaCinOnl_TheProudandtheDamned_512kb.mp4
