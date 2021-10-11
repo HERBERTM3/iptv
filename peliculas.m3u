@@ -1,3 +1,100 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://i.imgur.com/30HzeQe.png",CONTRATA HOY TVPREMIUMHD.COM
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://i2.wp.com/somewhatnerdy.com/wp-content/uploads/2017/03/The-Evil-Within-Movie-Poster.jpg",The Evil Within (2019)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://zapodaj.net/images/c25c2d5584bf4.jpg",Angry Birds (2019)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://sarahblogger94.files.wordpress.com/2016/08/purge_poster.jpg",The Purge (2013)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="http://104.236.196.111/imdb//media/poster_movies/or8E43rNKVBLhMtDnwFkjSNgHNr.jpg",Under the Sea 3D (2009)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/U0011080pDual/U-001-1080p%20Dual.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="http://horror.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/childs-play-2-poster.jpg",Child's Play 2 (1990)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://i.jeded.com/i/back-to-the-future-part-ll.12429.jpg",Back to the Future Part II (1989)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/childs-play-1988/large_6r9MOdGpOpSTH4jCQemyhPOHbZn.jpg",Child's Play (1988)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://image.tmdb.org/t/p/w500/kK9a9VBIjmh7L2uJvR01RUfS4eT.jpg",Porky's Revenge (1985)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://i.imgur.com/4hnOzaz.png",Vacaciones en Acapulco (1977)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://ringostrack.com/bundles/soundtrackindex/img/cover/28971_la-presidenta-municipal.jpg",La Presidenta Municipal (1975)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801503.us.archive.org/11/items/LaIndiaMariaLaPresidentaMunicipal/La%20India%20Maria%20La%20Presidenta%20Municipal.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/dM4R0r1.jpg",El Libro de Piedra (1969)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801507.us.archive.org/16/items/ElLibroDePiedra/el%20libro%20de%20piedra.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/kpaLtXk.jpg",Caperucita y Pulgarcito Contra los Monstruos (1960)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801504.us.archive.org/9/items/CaperusitaYPulgarcitoContraLosLobos/Caperusita%20y%20pulgarcito%20contra%20los%20lobos.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/fc/El_dolor_de_pagar_la_renta.jpg/200px-El_dolor_de_pagar_la_renta.jpg",El Dolor de Pagar la Renta (1960)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801501.us.archive.org/0/items/CAPULINAELDOLORDEPAGARLARENTA/CAPULINA%20EL%20DOLOR%20DE%20%20PAGAR%20LA%20RENTA.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/U9RiSMD.jpg",Macario (1960)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801503.us.archive.org/17/items/tecnotv_201709/Macario.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg",Your Name
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg",Jhonny English 3.0
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg",Volver al Futuro
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg",Next Gen
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/n3xSRR3610/n3xSRR3610.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg",Tragedy Girls
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg",La Fuerza De La Ilusion
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg",Cuando nos Conocimos
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg",La Forma del Agua SUBTITULADO
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg",Nosotros Los Nobles
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg",Terminus
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg",Deadpool
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg",Intensamente
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg",JIGSAW VIII
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg",Redada Asesina
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg",SAW VIII SUBTITULADO
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://pics.filmaffinity.com/angelitos_del_trapecio-167118603-mmed.jpg",Angelitos del Trapecio (1959)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801508.us.archive.org/29/items/AngelitosDeTrapecio/Angelitos%20de%20trapecio.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/e4BzmDB.jpg",Yo Soy Muy Macho (1953)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801502.us.archive.org/32/items/YoSoyMuyMachoSilviaPinal/Yo%20Soy%20Muy%20Macho%20-%20Silvia%20Pinal.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/gVCnp2P.jpg",El Bello Durmiente (1952)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801504.us.archive.org/10/items/TinTanElBelloDurmiente/Tin%20Tan%2C%20El%20Bello%20Durmiente.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://pics.filmaffinity.com/Ac_las_tortas-914464527-large.jpg",Aca las Tortas (1951)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801500.us.archive.org/22/items/AcaLasTortas/aca%20las%20tortas.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/OOGQjcp.jpg",Simbad el Mareado (1950)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801502.us.archive.org/1/items/SimbadElMareado/Simbad%20el%20mareado.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/lzZMzXw.jpg",La Familia Perez (1949)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801507.us.archive.org/20/items/LaFamiliaPerez_201709/La%20familia%20Perez.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://i.pinimg.com/736x/55/28/90/55289097b4c3f039f619362357ecdbdc--watches.jpg",Una Familia de Tantas (1949)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia601503.us.archive.org/13/items/UNAFAMILIADETANTAS/uNA%20FAMILIA%20DE%20TANTAS.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/JzyYqis.jpg",Los Tres Huastecos (1948)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801500.us.archive.org/31/items/LosTresHuaztecos/Los%20tres%20huaztecos.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/aOy8B0T.jpg",Nosotros - los Pobres (1948)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia801505.us.archive.org/34/items/NosotrosLosPobres/Nosotros%20los%20pobres.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/9ZOU6Hq.jpg",Si Adelita se Fuera con Otro (1948)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=ia601506.us.archive.org/6/items/SiAdelitaSeFueraConOtro/Si%20Adelita%20Se%20Fuera%20Con%20Otro.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg",Prometeus HD
+http://tvpremiumhd.club/lista-gratuita/180709/on/lives.php?id=archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://i.imgur.com/30HzeQe.png",ESTRENOS: Sandy Wexler (2017)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=bit.ly/MRAQCSAND
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://i.imgur.com/30HzeQe.png",ESTRENOS: THE MINE (2017)
+http://tvpremiumhd.club/lista-gratuita/180709/on/live.php?id=bit.ly/THEMINE
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Mine_2016_film.jpg",LA MINA
+http://tvpremiumhd.club/lista-gratuita/180709/on/lives.php?id=ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="http://filmakias.gr/wp-content/uploads/2018/02/sahara-netflix-2017-poster2.jpg",SAHARA
+http://tvpremiumhd.club/lista-gratuita/180709/on/lives.php?id=ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://4.bp.blogspot.com/-0dx-Z5jsVyw/Ws5bDjzstgI/AAAAAAAAoq0/Cbhps_UNSJQN_dBN7i16qSUUuH2PWjiMQCLcBGAs/s1600/Anon_Poster_UK_JPosters.jpg",Anon
+http://tvpremiumhd.club/lista-gratuita/180709/on/bi.php?id=2KXck0P
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://static1.squarespace.com/static/592f3443db29d6c96a19b5dc/t/59f10287b7411c32b423485c/1508967068270/Samson.png",Samson
+http://tvpremiumhd.club/lista-gratuita/180709/on/bi.php?id=2rzf9gr
+#EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://4.bp.blogspot.com/-C2P_LCyOn6Q/WjJGd2Z-JZI/AAAAAAAAaiU/RU9mzczQwWgHFqvl__LPSRH9gn5yYsW4ACLcBGAs/s1600/1517%2Btres%2Ba%2Bparis.jpg",15:17 Tren a Paris
+http://tvpremiumhd.club/lista-gratuita/180709/on/bi.php?id=2rEKfm9
 #EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://i.imgur.com/30HzeQe.png",De caza con papá(2017)
 http://tvpremiumhd.club/lista-gratuita/180709/on/vod.php?cid=0D553182CDED17DF&resid=D553182CDED17DF%21105&authkey=AD-ABah3S_yIiKE
 #EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://i.imgur.com/30HzeQe.png",El stand de los besos(2018)
