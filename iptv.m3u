@@ -1,29 +1,29 @@
-#EXTINF: -1 tvg-logo = "https://image.jimcdn.com/app/cms/image/transf/dimension=296x10000:format=jpg/path/s86a1480785a470a0/image/i228aa9d3af4cd0b4/version/1468206296/image. jpg "group-title =" CMD Perú ", CMD Perú 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=296x10000:format=jpg/path/s86a1480785a470a0/image/i228aa9d3af4cd0b4/version/1468206296/image.jpg" group-title="CMD Perù" , CMD Perù 
 https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/u8sutdeb.m3u8?s=Lpgbb8JwHmahAHN0ViqAvw&e=1618228488
 #
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-N0-a8Ra8KXQ/YWPrTlEAs6I/AAAAAAAAADs/60oiUqw2hL0rGW6GCDKgSYpjuqiFOixqACLcBGAsYHQ/h120/logo_TVPE_PLAY_.png" group-title = "TVPE Perú", TVPE Perú 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-N0-a8Ra8KXQ/YWPrTlEAs6I/AAAAAAAAADs/60oiUqw2hL0rGW6GCDKgSYpjuqiFOixqACLcBGAsYHQ/h120/logo_TVPE_PLAY_.png" group-title="TVPE Perù" , TVPE Perù 
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #
-#EXTINF: -1 tvg-logo = "https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/s86a1480785a470a0/image/i784f3e51ab91dca8/version/1614362642/image. png "group-title =" EXITOSA Perù ", EXITOSA Perù 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/s86a1480785a470a0/image/i784f3e51ab91dca8/version/1614362642/image.png" group-title="EXITOSA Perù" , EXITOSA Perù 
 https://b-hls-03.stripst.com/hls/51803696/51803696.m3u8
 #
-#EXTINF: -1 tvg-logo = "https://image.jimcdn.com/app/cms/image/transf/dimension=560x10000:format=png/path/s86a1480785a470a0/image/i7a4a93857a7d88ef/version/1615437307/image. png "group-title =" HBO XTREME ", HBO XTREME 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=560x10000:format=png/path/s86a1480785a470a0/image/i7a4a93857a7d88ef/version/1615437307/image.png" group-title="HBO XTREME" , HBO XTREME 
 https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/way71f4yp5a3.m3u8?s=6qGz_W2Bnslaql-E9hv-og&e=1618233037
 #
-#HEXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-nTbnsQWvGv0/YHP0jBBF4uI/AAAAAAAAACw/j0mVU-fF9MAA2OAode09LfjM2GwXQXcHACLc.png" HBO "grupo", título / título / grupo "HGGA" HBO " 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-nTbnsQWvGv0/YHP0jBBF4uI/AAAAAAAAACw/j0mVU-fF9MAA2OAode09LfjM2GwXQXcHACLcBGAsYHQ/h120/HBO.png" group-title="HBO" , HBO 
 https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/lbqtn3.m3u8?s=PqrzAcGam0nHWoKMsMLjqA&e=1618233349
 #
-#EXTINF: -1 tvg-logo = "https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s86a1480785a470a0/image/iac17db91818c088c/version/1615268876/image. jpg "título-grupo =" WARNER ", WARNER 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s86a1480785a470a0/image/iac17db91818c088c/version/1615268876/image.jpg" group-title="WARNER" , WARNER 
 https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/j5uwhfb7w5c.m3u8?s=WIqD_Ar_rJgvi8pTNF1LqA&e=1618233722
 #
-#EXTINF: -1 tvg-logo = "https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/s86a1480785a470a0/image/iab12be5213e6caf0/version/1615361831/image. png "group-title =" FOX ", FOX 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/s86a1480785a470a0/image/iab12be5213e6caf0/version/1615361831/image.png" group-title="FOX" , FOX 
 https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/0e733j.m3u8?s=VisJOQe5eoI0eOH8RBxqaw&e=1618233927
 #
-#EXTINF: -1 tvg-logo = "https://image.jimcdn.com/app/cms/image/transf/none/path/s86a1480785a470a0/image/i3e52b99e2a4b858a/version/1615268158/image.png" group-title = "UNIVERSAL", UNIVERSAL 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s86a1480785a470a0/image/i3e52b99e2a4b858a/version/1615268158/image.png" group-title="UNIVERSAL" , UNIVERSAL 
 https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/d77wqro8917ua5z.m3u8?s=v28MzWBSLZTIBvelnPs6mA&e=1618234808
 #
-#EXTINF: -1 tvg-logo = "https://image.jimcdn.com/app/cms/image/transf/dimension=266x10000:format=png/path/s86a1480785a470a0/image/ia066dc71c43d13d7/version/1615268587/image. png "título de grupo =" TNT ", TNT 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=266x10000:format=png/path/s86a1480785a470a0/image/ia066dc71c43d13d7/version/1615268587/image.png" group-title="TNT" , TNT 
 https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/glaldsq.m3u8?s=f1SWj7EWC-pyJZJ8zJfqZw&e=1618234992
 #
-#EXTINF: -1 tvg-logo = "https://image.jimcdn.com/app/cms/image/transf/dimension=290x10000:format=png/path/s86a1480785a470a0/image/i9696444fd8cbaccb/version/1615267200/image. png "group-title =" PARAMOUNT ", PARAMOUNT 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=290x10000:format=png/path/s86a1480785a470a0/image/i9696444fd8cbaccb/version/1615267200/image.png" group-title="PARAMOUNT" , PARAMOUNT 
 https://9mw4ua963u8dcjdq.ezcdn383.net:8443/hls/vwchy5d.m3u8?s=hK53T-f-0o-jRe7cXpptnA&e=1618235155
