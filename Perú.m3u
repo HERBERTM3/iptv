@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 ,Anime Zone TV
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png",4 peru - canal Frecuencia Latina hd | PE
+https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
+#EXTINF:-1  tvg-logo="https://mds.rpp-noticias.io/static/img/rpp_player.svg",9 peru - canal RPP Noticias | PE
+https://us-b4-p-e-by2-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=610b02265491ed33_323774_4ihC79FS__0000000YWQC&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=zKDqQL8d2rH3t59m5IyC7pEnIAg1gOp2&sid=CcCmDAng4CFKDMFT929gEPKRd4Gr8laV&pid=ugJy2SyAvvB2LEra6LYp9iLceBCEb7t4&ref=rpp.pe&es=us-b4-p-e-by2-audio.cdn.mdstrm.com&ote=1628521410657&ot=QspvCeWRFrSoCa95fpqhRA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.158
+#EXTINF:-1  tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/header/canalipe.svg",11 peru - canal Ipe | PE
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png",12 peru - canal Ipe 2 | PE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1  tvg-logo="http://zoetv.peru15.com/media/k2/items/cache/3749aaa8ee129d7e919bddcc7e09cd36_S.jpg",14 peru - canal Cultura 24 TV | PE
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1392996552_b564000_sles.m3u8
+#EXTINF:-1  tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg",18 peru - canal Bhtv HD | PE
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w1998067169.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/690_JN19.png",19 peru - canal JN19 Evangelico  | PE
+https://mediastreamm.com:3149/live/jn19tvlive.m3u8
+#EXTINF:-1  tvg-logo="http://zoetv.peru15.com/media/k2/items/cache/e2bf3b11df0b872112757f1c2fee6e32_S.jpg",20 peru - canal Pax TV Evangelico | PE
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/698_Monterrico_TV.png",21 peru - canal Monterrico TV | PE
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="http://zoetv.peru15.com/media/k2/items/cache/ccb4e23c8aa216f1e96d31ab209c036b_S.jpg",22 peru - canal Ovacion | PE
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/chunklist_w1565290423.m3u8
+#EXTINF:-1  tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png",24 peru - canal Best Cable TV | PE
+https://tv.siete.us:19360/bestcable/bestcable/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png",25 peru - canal Best Cable Music | PE
+https://tv.siete.us:19360/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png",26 peru - canal Best Cable Cumbia Tv | PE
+https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/41_Hatun_TV.jpg",27 peru - canal Best Cable Hatun Tv | PE
+https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://www.jssor.com/andre89/tv-antares.png",29 peru - canal AntaresTV Music | PE
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/689_Mega_TV.png",30 peru - canal Mega TV Music | PE
+https://media2.cdnlayer.biz:8081/8008/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/40_Mas_Cumbia.png",32 peru - canal Mas Cumbia | PE
+https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/35_TOP_Latino_TV.png",33 peru - canal TOP Latino TV | PE
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1861318767.m3u8
+#EXTINF:-1  tvg-logo="http://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png",34 peru - canal TVperuanisima Music | PE
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/chunklist_w1876556398.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png",35 peru - canal Turbo Mix TV | PE
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1  tvg-logo="https://assets-global.website-files.com/60467fdad665324c974b586c/6047d83ae30053f65575f203_zpm-typelogo%20(1).svg",37 peru - canal Zapping Music | PE
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tvcosmos.pe/wp-content/uploads/2020/06/tv-cosmos-jun20.png",39 peru - canal TV Cosmos Digital 15.1 | PE
+https://59d39900ebfb8.streamlock.net/str15live/str15live/chunklist_w1854674283.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/702_Unitel.png",40 peru - canal Unitel | PE
+https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png",41 peru - canal HispanTV | IR
+https://live.presstv.ir/live/smil:live.smil/hispan.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/HL08w1jd/logo.png",42 peru - canal Via Television Tarapoto Noticia  | PE
+https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/chunklist_w832476582.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/684_UCI_Noticias_1.jpg",43 peru - canal UCI Noticias | PE
+https://mediastreamm.com:3449/live/mlecaroslive.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/687_Vision_Noticias_Peru.png",44 peru - canal Cable Vision Noticias Peru | PE
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/704_Central_TV_Chosica.png",47 peru - canal Central TV Chosica Pelicula  | PE
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://zoetv.peru15.com/media/k2/items/cache/85b62d4a27ea43297eb1ab349b6e06c6_S.jpg",48 peru - canal Hechisera Dibujo | PE
+https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w1782043380.m3u8
