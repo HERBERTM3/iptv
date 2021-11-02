@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="H3RT" tvg-logo="https://noticiasnrt.com/wp-content/themes/nrt_theme-main/img/logo.png",NRT MEXICO
+https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w1850664946.m3u8
+https://noticiasnrt.com/en-vivo/
+
 #EXTINF:-1 group-title="H3RT" tvg-logo="https://static.dw.com/image/47222941_304.png",DW NOTICIAS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://www.dw.com/es/multimedia/tv-en-vivo/s-100837
