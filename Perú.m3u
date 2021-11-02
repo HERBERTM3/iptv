@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="H3RT" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/featuredImage.jpg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75",SERIES RETRO
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&app_name=web&clientDeviceType=0&clientID=e87d1d05-8407-47c7-9d71-fd9183d83e64&clientModelNumber=1.0.0&country=CL&deviceDNT=false&deviceId=e87d1d05-8407-47c7-9d71-fd9183d83e64&deviceLat=-33.4513&deviceLon=-70.6653&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=95.0.4638&marketingRegion=VE&serverSideAds=true&sessionID=a675aa71-3b64-11ec-8a19-0242ac110003&sid=a675aa71-3b64-11ec-8a19-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZWIzOTdhLTkyN2ItNGJjMy1iMjM2LTZmYTJmNGYzNTg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhNjc1YWE3MS0zYjY0LTExZWMtOGExOS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE4MS43Mi4yMC4yNDciLCJjaXR5IjoiU2FudGlhZ28iLCJwb3N0YWxDb2RlIjoiIiwiY291bnRyeSI6IkNMIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMzLjQ1MTMsImRldmljZUxvbiI6LTcwLjY2NTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6Ijk1LjAuNDYzOCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNS4xMDUuMC1iNjJhNTRhMWNlNTMyYzkyOTFiMDU3OTc3OWYwYjE5MjIxZTZkOWZjIiwiY2xpZW50SUQiOiJlODdkMWQwNS04NDA3LTQ3YzctOWQ3MS1mZDkxODNkODNlNjQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9TYW50aWFnbyIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzU4MzUyMDksImp0aSI6ImJiOTMzZWFkLWE4MWQtNDdmNS05YWUwLTEzZDQ2MjIwZTE2OCIsImlhdCI6MTYzNTgwNjQwOSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOlpUZzNaREZrTURVdE9EUXdOeTAwTjJNM0xUbGtOekV0Wm1RNU1UZ3paRGd6WlRZMCJ9.eGiih11z4oyUsxOSVKuhupTAvInM31mhkEHq7FwdU8s&masterJWTPassthrough=true
-
-#EXTINF:-1 group-title="H3RT" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/featuredImage.jpg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75",SOUTH PARK
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&app_name=web&clientDeviceType=0&clientID=e87d1d05-8407-47c7-9d71-fd9183d83e64&clientModelNumber=1.0.0&country=CL&deviceDNT=false&deviceId=e87d1d05-8407-47c7-9d71-fd9183d83e64&deviceLat=-33.4513&deviceLon=-70.6653&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=95.0.4638&marketingRegion=VE&serverSideAds=true&sessionID=9b856446-3b66-11ec-81ec-0242ac110003&sid=9b856446-3b66-11ec-81ec-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZWIzOTdhLTkyN2ItNGJjMy1iMjM2LTZmYTJmNGYzNTg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI5Yjg1NjQ0Ni0zYjY2LTExZWMtODFlYy0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE4MS43Mi4yMC4yNDciLCJjaXR5IjoiU2FudGlhZ28iLCJwb3N0YWxDb2RlIjoiIiwiY291bnRyeSI6IkNMIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMzLjQ1MTMsImRldmljZUxvbiI6LTcwLjY2NTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6Ijk1LjAuNDYzOCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNS4xMDUuMC1iNjJhNTRhMWNlNTMyYzkyOTFiMDU3OTc3OWYwYjE5MjIxZTZkOWZjIiwiY2xpZW50SUQiOiJlODdkMWQwNS04NDA3LTQ3YzctOWQ3MS1mZDkxODNkODNlNjQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9TYW50aWFnbyIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzU4MzYwNDIsImp0aSI6ImZhODAyMjVjLTU5MTUtNDliNy04NDc5LWE4MjQzYTNhOTIxMiIsImlhdCI6MTYzNTgwNzI0MiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOlpUZzNaREZrTURVdE9EUXdOeTAwTjJNM0xUbGtOekV0Wm1RNU1UZ3paRGd6WlRZMCJ9.WFe3Fw3IP1G-h2Trof4IWEb26zOi8N_jpBjGgTZnAmE&masterJWTPassthrough=true
-
 
 #EXTINF:-1 group-title="H3RT" tvg-logo="https://static.dw.com/image/47222941_304.png",DW NOTICIAS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -17,6 +11,38 @@ https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA
 
 #EXTINF:-1 group-title="H3RT" tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png",CHILEVISION
 https://cl-a7-i-e-nq1.cdn.mdstrm.com/live-stream-secure/5c928b7f6d6f41084bdae898/publish/media_2500.m3u8?aid=598861d8cc3c169b2236f987&uid=N2MV6vV5F6h111L0FXTtwCVi8HCK3rlb&sid=L05HjT2JB4SDCJJUQFsk19N5lfT5fp0L&pid=IhTdieYQtsYtYBFNrBP4iALkfKakiDju&ref=&without_cookies=false&dnt=true&access_token=q7JaapAZJuSItRs0z049vdaMVw8XeMxDssKCxXB7nCLroYw84kr034PT1F4tryCQTraIaP79tnr&es=cl-a7-i-e-nq1.cdn.mdstrm.com&ote=1635896255555&ot=JgXK0hDWh5kKXFfXMsHrDQ&proto=https&pz=cl
+
+
+#EXTINF:-1 group-title="H3RT" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png",TVPERÚ
+https://cdnh75.iblups.com/hls/R9WtilpKKB.m3u8
+https://www.tvperu.gob.pe/play
+
+#EXTINF:-1 group-title="H3RT" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png",TVPERÚ NOTICIAS
+https://cdnh77.iblups.com/hls/RMuwrdk7M9.m3u8
+https://www.tvperu.gob.pe/noticias/play
+
+#EXTINF:-1 group-title="H3RT" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_INTERNACIONAL_PLAY.png",TVPERÚ INTERNACIONAL
+https://cdnh8.iblups.com/hls/irtp.m3u8
+https://www.tvperu.gob.pe/internacional/play
+
+#EXTINF:-1 group-title="H3RT" tvg-logo="https://exitosanoticias.pe/v1/wp-content/uploads/2020/10/exitosa.jpg",TV EXITOSA
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+https://exitosanoticias.pe/v1/tvenvivo/
+
+#EXTINF:-1 group-title="H3RT" tvg-logo="https://www.hispantv.com/Views/Assets/img/logo.png",HISPANTV
+https://live.presstv.ir/live/smil:live.smil/chunklist_w399176071_b644100_slen.m3u8
+https://www.hispantv.com/directo
+
+#EXTINF:-1 group-title="H3RT" tvg-logo="https://actualidad.rt.com/static/img/logo112x112.png",RT
+https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
+https://actualidad.rt.com/en_vivo2
+
+
+
+
+
+
+
 
 
 
