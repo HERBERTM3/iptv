@@ -11,8 +11,8 @@ https://www.dw.com/es/multimedia/tv-en-vivo/s-100837
 
 
 #EXTINF:-1 group-title="H3RT" tvg-logo="https://willax.tv/wp-content/uploads/2018/05/logo-footer-willax.png",WILLAX
-https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA0Y4sN_9Evvfy-eYDa7BERNSSTmFYXvP8fgdp0_d_pIwJHb6J9111NajuEv6QnHQ5Tw&dmTs=847129&dmV1st=EC63A4B247758059F5FF429F65443616
-
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmp3iYfcg35N5CsM2EfqKQ7M)/dm/3/x7x4dgx/s/live-2.m3u8
+https://willax.tv/en-vivo/
 
 #EXTINF:-1 group-title="H3RT" tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png",CHILEVISION
 https://cl-a7-i-e-nq1.cdn.mdstrm.com/live-stream-secure/5c928b7f6d6f41084bdae898/publish/media_2500.m3u8?aid=598861d8cc3c169b2236f987&uid=N2MV6vV5F6h111L0FXTtwCVi8HCK3rlb&sid=L05HjT2JB4SDCJJUQFsk19N5lfT5fp0L&pid=IhTdieYQtsYtYBFNrBP4iALkfKakiDju&ref=&without_cookies=false&dnt=true&access_token=q7JaapAZJuSItRs0z049vdaMVw8XeMxDssKCxXB7nCLroYw84kr034PT1F4tryCQTraIaP79tnr&es=cl-a7-i-e-nq1.cdn.mdstrm.com&ote=1635896255555&ot=JgXK0hDWh5kKXFfXMsHrDQ&proto=https&pz=cl
@@ -35,7 +35,7 @@ https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 https://exitosanoticias.pe/v1/tvenvivo/
 
 #EXTINF:-1 group-title="H3RT" tvg-logo="https://www.hispantv.com/Views/Assets/img/logo.png",HISPANTV
-https://live.presstv.ir/live/smil:live.smil/chunklist_w399176071_b644100_slen.m3u8
+https://live.presstv.ir/live/smil:live.smil/chunklist_w1002567934_b644100_slen.m3u8
 https://www.hispantv.com/directo
 
 #EXTINF:-1 group-title="H3RT" tvg-logo="https://actualidad.rt.com/static/img/logo112x112.png",RT
