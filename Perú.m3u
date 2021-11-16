@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="H3RT" tvg-logo="https://i.ibb.co/6PH5P8p/images.png",AMERICA TV GO
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=N2MV6vV5F6h111L0FXTtwCVi8HCK3rlb&sid=rEnCKKdvbnnPVFiDePSENVmjNpRIASWV&pid=aYi19Tc0XPZcdlV3dZVngORhtlFCn6Tl&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&dnt=true&access_token=fmfgn2z1y4YZ8MKPBuc26EbxlNhYSTvzAq6dXOv7AW1djSHlLrv3wpubeAtia9aNETW5bEwMZvL&es=us-b4-p-e-ft6.cdn.mdstrm.com&ote=1637174266813&ot=_QvvVorbJMBHt4Rsid2f4A&proto=https&pz=us
+https://tvgo.americatv.com.pe/
+
 
 #EXTINF:-1 group-title="H3RT" tvg-logo="https://noticiasnrt.com/wp-content/themes/nrt_theme-main/img/logo.png",NRT MEXICO
 https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w1850664946.m3u8
