@@ -4,6 +4,9 @@
 https://google-br.cdn.booyah.live/hls/1500079/97624486.m3u8
 https://tvgo.americatv.com.pe/
 
+#EXTINF:-1 group-title="H3RT" tvg-logo="https://tntsports.cl/__export/1610632680933/sites/cdfchile/arte/apps/facebook_20210114.jpg",TNT SPOTS CHILE
+https://nedmedia.akamaized.net/hls/live/2034243/feed1/master_540.m3u8
+
 
 #EXTINF:-1 group-title="H3RT" tvg-logo="https://noticiasnrt.com/wp-content/themes/nrt_theme-main/img/logo.png",NRT MEXICO
 https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w1850664946.m3u8
