@@ -29,7 +29,7 @@ https://cl-a7-i-e-nq1.cdn.mdstrm.com/live-stream-secure/5c928b7f6d6f41084bdae898
 https://www.chilevision.cl/senal-online
 
 #EXTINF:-1 group-title="H3RT" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png",TVPERÚ
-https://cdnh75.iblups.com/hls/R9WtilpKKB.m3u8
+https://cu.onliv3.com/livevd1/user2_low/index.m3u8
 https://cdnh77.iblups.com/hls/R9WtilpKKB.m3u8
 https://www.tvperu.gob.pe/play
 
@@ -42,6 +42,7 @@ https://cdnh8.iblups.com/hls/irtp.m3u8
 https://www.tvperu.gob.pe/internacional/play
 
 #EXTINF:-1 group-title="H3RT" tvg-logo="https://exitosanoticias.pe/v1/wp-content/uploads/2020/10/exitosa.jpg",TV EXITOSA
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 https://exitosanoticias.pe/v1/tvenvivo/
 
