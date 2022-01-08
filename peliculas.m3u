@@ -1,107 +1,83 @@
 #https://www.filmaffinity.com/cl/main.html
 
-#EXTINF:-0  tvg-logo="https://media.filmelier.com/images/filmes/cartaz/premiere-annee10922.jpeg",Primer año (2018)
-#EXTGRP:Peliculas
+#EXTINF:-0  group-title="Peliculas" tvg-logo="https://media.filmelier.com/images/filmes/cartaz/premiere-annee10922.jpeg",Primer año (2018)
 https://content.jwplatform.com/videos/4IcVLAON-f5lkNOK9.mp4
 
-#EXTINF:-0  tvg-logo="https://content.jwplatform.com/v2/media/HG82gyfX/poster.jpg?width=720",Titanic (1997)
-#EXTGRP:Peliculas
+#EXTINF:-0 group-title="Peliculas"  tvg-logo="https://content.jwplatform.com/v2/media/HG82gyfX/poster.jpg?width=720",Titanic (1997)
 https://cdn.jwplayer.com/videos/HG82gyfX-6XqMq52b.mp4
-#EXTINF:-0  tvg-logo="https://content.jwplatform.com/v2/media/kefS5lYS/poster.jpg?width=720",Un Paseo Para Recordar (2002)
-#EXTGRP:Peliculas
+#EXTINF:-0  group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/kefS5lYS/poster.jpg?width=720",Un Paseo Para Recordar (2002)
 https://cdn.jwplayer.com/videos/kefS5lYS-6XqMq52b.mp4
-#EXTINF:-0  tvg-logo="https://content.jwplatform.com/v2/media/4K94GdUA/poster.jpg?width=720",Fireball (2009)
+#EXTINF:-0  group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/4K94GdUA/poster.jpg?width=720",Fireball (2009)
 #EXTGRP:Peliculas
 https://content.jwplatform.com/videos/lIBLlrtW-6XqMq52b.mp4
-#EXTINF:-0  tvg-logo="https://content.jwplatform.com/v2/media/KIye4ziR/poster.jpg?width=720",Anaconda 2 (2004)
-#EXTGRP:Peliculas
+#EXTINF:-0  group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/KIye4ziR/poster.jpg?width=720",Anaconda 2 (2004)
 https://cdn.jwplayer.com/videos/KIye4ziR-A8bbuR7f.mp4
-#EXTINF:-0  tvg-logo="https://content.jwplatform.com/v2/media/EgN1x209/poster.jpg?width=720",La Momia Regresa (2001)
-#EXTGRP:Peliculas
+#EXTINF:-0  group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/EgN1x209/poster.jpg?width=720",La Momia Regresa (2001)
 https://cdn.jwplayer.com/videos/EgN1x209-A8bbuR7f.mp4
 
-#EXTINF:-0  tvg-logo="https://content.jwplatform.com/v2/media/9usIVQjV/poster.jpg?width=720",La Caída Del Halcón Negro (2001)
-#EXTGRP:Peliculas
+#EXTINF:-0  group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/9usIVQjV/poster.jpg?width=720",La Caída Del Halcón Negro (2001)
 https://content.jwplatform.com/videos/9usIVQjV-tCazV2g1.mp4
-#EXTINF:-0  tvg-logo="https://content.jwplatform.com/v2/media/YJfbeGTY/poster.jpg?width=720",Perfume - Historia De Un Asesino (2006)
-#EXTGRP:Peliculas
+#EXTINF:-0  group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/YJfbeGTY/poster.jpg?width=720",Perfume - Historia De Un Asesino (2006)
 https://cdn.jwplayer.com/videos/dpB18kwh-4og03H3s.mp4
-#EXTINF:-0  tvg-logo="https://static.wikia.nocookie.net/cine/images/9/95/Spirit.jpg",Spirit  El Corcel Indomable (2002)
-#EXTGRP:Peliculas
+#EXTINF:-0  group-title="Peliculas" tvg-logo="https://static.wikia.nocookie.net/cine/images/9/95/Spirit.jpg",Spirit  El Corcel Indomable (2002)
 https://cdn.jwplayer.com/videos/ir8iKMME-4og03H3s.mp4
 #EXTINF:-0  tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/lcknon3g-720.jpg",Troya (2004)
-#EXTGRP:Peliculas
 https://cdn.jwplayer.com/videos/h5wXjCyq-4og03H3s.mp4
-#EXTINF:-0  tvg-logo="https://cdn.jwplayer.com/thumbs/NoQJO55H-720.jpg",Noticias del gran mundo (2020)
-#EXTGRP:Peliculas
+#EXTINF:-0  group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/NoQJO55H-720.jpg",Noticias del gran mundo (2020)
 https://cdn.jwplayer.com/videos/bZd7YjF8-4og03H3s.mp4
 
 
-#EXTINF:-0  tvg-logo="https://cdn.jwplayer.com/thumbs/qcvwUwWa-720.jpg",Chiquito pero peligroso (2006)
+#EXTINF:-0  group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/qcvwUwWa-720.jpg",Chiquito pero peligroso (2006)
 #EXTGRP:Peliculas
 https://content.jwplatform.com/videos/hqFAFp6k-SFZgM3OG.mp4
-#EXTINF:-0  tvg-logo="https://content.jwplatform.com/v2/media/3LUdIYrn/poster.jpg?width=720",Cuestión De Tiempo (2013)
+#EXTINF:-0  group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/3LUdIYrn/poster.jpg?width=720",Cuestión De Tiempo (2013)
 #EXTGRP:Peliculas
 https://content.jwplatform.com/videos/3LUdIYrn-SFZgM3OG.mp4
 
-#EXTINF:-0 tvg-logo="https://content.jwplatform.com/v2/media/ndzRpXLB/poster.jpg?width=720",Grandes Héroes (2014)
-#EXTGRP:Peliculas
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/ndzRpXLB/poster.jpg?width=720",Grandes Héroes (2014)
 https://content.jwplatform.com/videos/ndzRpXLB-fLxnl7pD.mp4
-#EXTINF:-0 tvg-logo="https://content.jwplatform.com/v2/media/VEi8NgGh/poster.jpg?width=720",El Señor De La Guerra (2005)
-#EXTGRP:Peliculas
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/VEi8NgGh/poster.jpg?width=720",El Señor De La Guerra (2005)
 https://content.jwplatform.com/videos/VEi8NgGh-fLxnl7pD.mp4
-#EXTINF:-0 tvg-logo="https://content.jwplatform.com/v2/media/wvsta2Kh/poster.jpg?width=720",El Diario De Noa (2004)
-#EXTGRP:Peliculas
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/wvsta2Kh/poster.jpg?width=720",El Diario De Noa (2004)
 https://content.jwplatform.com/videos/wvsta2Kh-fLxnl7pD.mp4
-#EXTINF:-0 tvg-logo="https://content.jwplatform.com/v2/media/XdNFJIBG/poster.jpg?width=720",Hércules (1997)
-#EXTGRP:Peliculas
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/XdNFJIBG/poster.jpg?width=720",Hércules (1997)
 https://content.jwplatform.com/videos/XdNFJIBG-fLxnl7pD.mp4
-#EXTINF:-0 tvg-logo="https://content.jwplatform.com/v2/media/chNHvmdw/poster.jpg?width=720",Forrest Gump (1994)
-#EXTGRP:Peliculas
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/chNHvmdw/poster.jpg?width=720",Forrest Gump (1994)
 https://content.jwplatform.com/videos/chNHvmdw-fLxnl7pD.mp4
-#EXTINF:-0 tvg-logo="https://content.jwplatform.com/v2/media/KWoEa9Ti/poster.jpg?width=720",Scary Movie 2 (2001)
-#EXTGRP:Peliculas
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/KWoEa9Ti/poster.jpg?width=720",Scary Movie 2 (2001)
 https://content.jwplatform.com/videos/KWoEa9Ti-fLxnl7pD.mp4
 
 
 
-#EXTINF:-0 tvg-logo="https://content.jwplatform.com/v2/media/SCxos3SX/poster.jpg?width=720",UP (2009)
-#EXTGRP:Peliculas
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/SCxos3SX/poster.jpg?width=720",UP (2009)
 https://content.jwplatform.com/videos/SCxos3SX-I4tvDP0t.mp4
 
-#EXTINF:-0 tvg-logo="https://content.jwplatform.com/v2/media/0y968num/poster.jpg?width=720",Netflix -El niño que domó el viento (2019)
-#EXTGRP:Peliculas
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/0y968num/poster.jpg?width=720",Netflix -El niño que domó el viento (2019)
 https://content.jwplatform.com/videos/0y968num-cXeGjWD9.mp4
 
 
-#EXTINF:-0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/q98dttar-1280.jpg",Netflix - Troya (2004)
-#EXTGRP:Peliculas
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/q98dttar-1280.jpg",Netflix - Troya (2004)
 https://content.jwplatform.com/videos/RuDUr9p2-cXeGjWD9.mp4
 
 
 
-#EXTINF:-0 tvg-logo="https://content.jwplatform.com/v2/media/0rcpyeeC/poster.jpg?width=720",Netflix - El contador (2016)
-#EXTGRP:Peliculas
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/0rcpyeeC/poster.jpg?width=720",Netflix - El contador (2016)
 https://content.jwplatform.com/videos/0rcpyeeC-Hw8caOUY.mp4
 
 
-#EXTINF:-0 tvg-logo="https://content.jwplatform.com/v2/media/ypnmaZJI/poster.jpg?width=720",21 Black Jack (2008)
-#EXTGRP:Peliculas
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/ypnmaZJI/poster.jpg?width=720",21 Black Jack (2008)
 https://content.jwplatform.com/videos/ypnmaZJI-Hw8caOUY.mp4
 
 
-#EXTINF:-0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/6vamoqwi-720.jpg",Netflix - Project X (2012)
-#EXTGRP:Peliculas
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/6vamoqwi-720.jpg",Netflix - Project X (2012)
 https://content.jwplatform.com/videos/wvcMhVmE-Hw8caOUY.mp4
 
 
-#EXTINF:-0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/6pr70ex3-720.jpg",Netflix - The Duel (2016)
-#EXTGRP:Peliculas
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/6pr70ex3-720.jpg",Netflix - The Duel (2016)
 https://content.jwplatform.com/videos/845BfTcd-Hw8caOUY.mp4
 
 
-#EXTINF:-0 tvg-logo="https://content.jwplatform.com/v2/media/5ECkiwIl/poster.jpg?width=720",Netflix - Transformers
-#EXTGRP:Peliculas
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/5ECkiwIl/poster.jpg?width=720",Netflix - Transformers
 https://content.jwplatform.com/videos/5ECkiwIl-j5xkbKxc.mp4
 
 
@@ -110,126 +86,96 @@ https://content.jwplatform.com/videos/5ECkiwIl-j5xkbKxc.mp4
 
 
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/tK3yrbeS/poster.jpg?width=720",Peaky Blinders - Episodio 1
-#EXTGRP:Peaky Blinders - 1 temporada
+#EXTINF:0  group-title="Peaky Blinders - 1 temporada" tvg-logo="https://content.jwplatform.com/v2/media/tK3yrbeS/poster.jpg?width=720",Peaky Blinders - Episodio 1
 https://content.jwplatform.com/videos/tK3yrbeS-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/N6ttyWqF/poster.jpg?width=720",Peaky Blinders - Episodio 2
-#EXTGRP:Peaky Blinders - 1 temporada
+#EXTINF:0  group-title="Peaky Blinders - 1 temporada" tvg-logo="https://content.jwplatform.com/v2/media/N6ttyWqF/poster.jpg?width=720",Peaky Blinders - Episodio 2
 https://content.jwplatform.com/videos/N6ttyWqF-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/1DRKAGxD/poster.jpg?width=720",Peaky Blinders - Episodio 3
-#EXTGRP:Peaky Blinders - 1 temporada
+#EXTINF:0  group-title="Peaky Blinders - 1 temporada" tvg-logo="https://content.jwplatform.com/v2/media/1DRKAGxD/poster.jpg?width=720",Peaky Blinders - Episodio 3
 https://content.jwplatform.com/videos/1DRKAGxD-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/R1xFShfU/poster.jpg?width=720",Peaky Blinders - Episodio 4
-#EXTGRP:Peaky Blinders - 1 temporada
+#EXTINF:0  group-title="Peaky Blinders - 1 temporada" tvg-logo="https://content.jwplatform.com/v2/media/R1xFShfU/poster.jpg?width=720",Peaky Blinders - Episodio 4
 https://content.jwplatform.com/videos/R1xFShfU-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/r9z5QjOw/poster.jpg?width=720",Peaky Blinders - Episodio 5
-#EXTGRP:Peaky Blinders - 1 temporada
+#EXTINF:0  group-title="Peaky Blinders - 1 temporada" tvg-logo="https://content.jwplatform.com/v2/media/r9z5QjOw/poster.jpg?width=720",Peaky Blinders - Episodio 5
 https://content.jwplatform.com/videos/r9z5QjOw-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/iWnV9Ze3/poster.jpg?width=720",Peaky Blinders - Episodio 6
-#EXTGRP:Peaky Blinders - 1 temporada
+#EXTINF:0  group-title="Peaky Blinders - 1 temporada" tvg-logo="https://content.jwplatform.com/v2/media/iWnV9Ze3/poster.jpg?width=720",Peaky Blinders - Episodio 6
 https://content.jwplatform.com/videos/iWnV9Ze3-tDXe4hcY.mp4
 
 #################################################################################################################################
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/hr1vPLHo/poster.jpg?width=720",Peaky Blinders - Episodio 1
-#EXTGRP:Peaky Blinders - 2 temporada
+#EXTINF:0  group-title="Peaky Blinders - 2 temporada" tvg-logo="https://content.jwplatform.com/v2/media/hr1vPLHo/poster.jpg?width=720",Peaky Blinders - Episodio 1
 https://content.jwplatform.com/videos/hr1vPLHo-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/XGNx5IJ1/poster.jpg?width=720",Peaky Blinders - Episodio 2
-#EXTGRP:Peaky Blinders - 2 temporada
+#EXTINF:0  group-title="Peaky Blinders - 2 temporada" tvg-logo="https://content.jwplatform.com/v2/media/XGNx5IJ1/poster.jpg?width=720",Peaky Blinders - Episodio 2
 https://content.jwplatform.com/videos/XGNx5IJ1-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/79MouX3M/poster.jpg?width=720",Peaky Blinders - Episodio 3
-#EXTGRP:Peaky Blinders - 2 temporada
+#EXTINF:0  group-title="Peaky Blinders - 2 temporada" tvg-logo="https://content.jwplatform.com/v2/media/79MouX3M/poster.jpg?width=720",Peaky Blinders - Episodio 3
 https://content.jwplatform.com/videos/79MouX3M-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/JrFRYU9e/poster.jpg?width=720",Peaky Blinders - Episodio 4
-#EXTGRP:Peaky Blinders - 2 temporada
+#EXTINF:0  group-title="Peaky Blinders - 2 temporada" tvg-logo="https://content.jwplatform.com/v2/media/JrFRYU9e/poster.jpg?width=720",Peaky Blinders - Episodio 4
 https://content.jwplatform.com/videos/JrFRYU9e-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/TpcCLJo5/poster.jpg?width=720",Peaky Blinders - Episodio 5
-#EXTGRP:Peaky Blinders - 2 temporada
+#EXTINF:0  group-title="Peaky Blinders - 2 temporada" tvg-logo="https://content.jwplatform.com/v2/media/TpcCLJo5/poster.jpg?width=720",Peaky Blinders - Episodio 5
 https://content.jwplatform.com/videos/TpcCLJo5-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/yjYwSDwO/poster.jpg?width=720",Peaky Blinders - Episodio 6
-#EXTGRP:Peaky Blinders - 2 temporada
+#EXTINF:0  group-title="Peaky Blinders - 2 temporada" tvg-logo="https://content.jwplatform.com/v2/media/yjYwSDwO/poster.jpg?width=720",Peaky Blinders - Episodio 6
 https://content.jwplatform.com/videos/yjYwSDwO-tDXe4hcY.mp4
 
 #################################################################################################################################
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/yGNMapee/poster.jpg?width=720",Peaky Blinders - Episodio 1
-#EXTGRP:Peaky Blinders - 3 temporada
+#EXTINF:0  group-title="Peaky Blinders - 3 temporada" tvg-logo="https://content.jwplatform.com/v2/media/yGNMapee/poster.jpg?width=720",Peaky Blinders - Episodio 1
 https://content.jwplatform.com/videos/yGNMapee-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/fVIuEHbM/poster.jpg?width=720",Peaky Blinders - Episodio 2
-#EXTGRP:Peaky Blinders - 3 temporada
+#EXTINF:0  group-title="Peaky Blinders - 3 temporada" tvg-logo="https://content.jwplatform.com/v2/media/fVIuEHbM/poster.jpg?width=720",Peaky Blinders - Episodio 2
 https://content.jwplatform.com/videos/fVIuEHbM-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/ldy7c3mw/poster.jpg?width=720",Peaky Blinders - Episodio 3
-#EXTGRP:Peaky Blinders - 3 temporada
+#EXTINF:0  group-title="Peaky Blinders - 3 temporada" tvg-logo="https://content.jwplatform.com/v2/media/ldy7c3mw/poster.jpg?width=720",Peaky Blinders - Episodio 3
 https://content.jwplatform.com/videos/ldy7c3mw-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/ntti4lsb/poster.jpg?width=720",Peaky Blinders - Episodio 4
-#EXTGRP:Peaky Blinders - 3 temporada
+#EXTINF:0  group-title="Peaky Blinders - 3 temporada" tvg-logo="https://content.jwplatform.com/v2/media/ntti4lsb/poster.jpg?width=720",Peaky Blinders - Episodio 4
 https://content.jwplatform.com/videos/ntti4lsb-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/x4y5NTlf/poster.jpg?width=720",Peaky Blinders - Episodio 5
-#EXTGRP:Peaky Blinders - 3 temporada
+#EXTINF:0  group-title="Peaky Blinders - 3 temporada" tvg-logo="https://content.jwplatform.com/v2/media/x4y5NTlf/poster.jpg?width=720",Peaky Blinders - Episodio 5
 https://content.jwplatform.com/videos/x4y5NTlf-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/2k8lQ9QT/poster.jpg?width=720",Peaky Blinders - Episodio 6
-#EXTGRP:Peaky Blinders - 3 temporada
+#EXTINF:0  group-title="Peaky Blinders - 3 temporada" tvg-logo="https://content.jwplatform.com/v2/media/2k8lQ9QT/poster.jpg?width=720",Peaky Blinders - Episodio 6
 https://content.jwplatform.com/videos/2k8lQ9QT-tDXe4hcY.mp4
 
 #################################################################################################################################
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/hTqoTLQU/poster.jpg?width=720",Peaky Blinders - La Horca
-#EXTGRP:Peaky Blinders - 4 temporada
+#EXTINF:0  group-title="Peaky Blinders - 4 temporada" tvg-logo="https://content.jwplatform.com/v2/media/hTqoTLQU/poster.jpg?width=720",Peaky Blinders - La Horca
 https://content.jwplatform.com/videos/hTqoTLQU-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/rcg90XDa/poster.jpg?width=720",Peaky Blinders - Paganos
-#EXTGRP:Peaky Blinders - 4 temporada
+#EXTINF:0  group-title="Peaky Blinders - 4 temporada" tvg-logo="https://content.jwplatform.com/v2/media/rcg90XDa/poster.jpg?width=720",Peaky Blinders - Paganos
 https://content.jwplatform.com/videos/rcg90XDa-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/Zkcjz411/poster.jpg?width=720",Peaky Blinders - Mirlo
-#EXTGRP:Peaky Blinders - 4 temporada
+#EXTINF:0  group-title="Peaky Blinders - 4 temporada" tvg-logo="https://content.jwplatform.com/v2/media/Zkcjz411/poster.jpg?width=720",Peaky Blinders - Mirlo
 https://content.jwplatform.com/videos/Zkcjz411-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/1MhVma6t/poster.jpg?width=720",[S04.e04] Peaky Blinders - Peligrosa
-#EXTGRP:Peaky Blinders - 4 temporada
+#EXTINF:0  group-title="Peaky Blinders - 4 temporada" tvg-logo="https://content.jwplatform.com/v2/media/1MhVma6t/poster.jpg?width=720",[S04.e04] Peaky Blinders - Peligrosa
 https://content.jwplatform.com/videos/1MhVma6t-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/TWa2MVnE/poster.jpg?width=720",Peaky Blinders - El Duelo
-#EXTGRP:Peaky Blinders - 4 temporada
+#EXTINF:0  group-title="Peaky Blinders - 4 temporada" tvg-logo="https://content.jwplatform.com/v2/media/TWa2MVnE/poster.jpg?width=720",Peaky Blinders - El Duelo
 https://content.jwplatform.com/videos/TWa2MVnE-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/eXsckqpC/poster.jpg?width=720",Peaky Blinders - La Compañía
-#EXTGRP:Peaky Blinders - 4 temporada
+#EXTINF:0  group-title="Peaky Blinders - 4 temporada" tvg-logo="https://content.jwplatform.com/v2/media/eXsckqpC/poster.jpg?width=720",Peaky Blinders - La Compañía
 https://content.jwplatform.com/videos/eXsckqpC-tDXe4hcY.mp4
 
 #################################################################################################################################
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/MPrBLWbf/poster.jpg?width=720",Peaky Blinders - Martes Negro
-#EXTGRP:Peaky Blinders - 5 temporada
+#EXTINF:0  group-title="Peaky Blinders - 5 temporada" tvg-logo="https://content.jwplatform.com/v2/media/MPrBLWbf/poster.jpg?width=720",Peaky Blinders - Martes Negro
 https://content.jwplatform.com/videos/MPrBLWbf-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/dYWDT359/poster.jpg?width=720",Peaky Blinders - Gato Negro
-#EXTGRP:Peaky Blinders - 5 temporada
+#EXTINF:0  group-title="Peaky Blinders - 5 temporada" tvg-logo="https://content.jwplatform.com/v2/media/dYWDT359/poster.jpg?width=720",Peaky Blinders - Gato Negro
 https://content.jwplatform.com/videos/dYWDT359-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/sREZSTLp/poster.jpg?width=720",Peaky Blinders - Estrategias
-#EXTGRP:Peaky Blinders - 5 temporada
+#EXTINF:0  group-title="Peaky Blinders - 5 temporada" tvg-logo="https://content.jwplatform.com/v2/media/sREZSTLp/poster.jpg?width=720",Peaky Blinders - Estrategias
 https://content.jwplatform.com/videos/sREZSTLp-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/rVNkISae/poster.jpg?width=720",Peaky Blinders - El Círculo
-#EXTGRP:Peaky Blinders - 5 temporada
+#EXTINF:0  group-title="Peaky Blinders - 5 temporada" tvg-logo="https://content.jwplatform.com/v2/media/rVNkISae/poster.jpg?width=720",Peaky Blinders - El Círculo
 https://content.jwplatform.com/videos/rVNkISae-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/jA15g3Xo/poster.jpg?width=720",Peaky Blinders - Conmoción
-#EXTGRP:Peaky Blinders - 5 temporada
+#EXTINF:0  group-title="Peaky Blinders - 5 temporada" tvg-logo="https://content.jwplatform.com/v2/media/jA15g3Xo/poster.jpg?width=720",Peaky Blinders - Conmoción
 https://content.jwplatform.com/videos/jA15g3Xo-tDXe4hcY.mp4
 
-#EXTINF:0  tvg-logo="https://content.jwplatform.com/v2/media/nKb4X2hX/poster.jpg?width=720",Peaky Blinders - Sr. Jones
-#EXTGRP:Peaky Blinders - 5 temporada
+#EXTINF:0  group-title="Peaky Blinders - 5 temporada" tvg-logo="https://content.jwplatform.com/v2/media/nKb4X2hX/poster.jpg?width=720",Peaky Blinders - Sr. Jones
 https://content.jwplatform.com/videos/nKb4X2hX-tDXe4hcY.mp4
