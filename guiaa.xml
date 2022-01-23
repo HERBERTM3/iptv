@@ -1,0 +1,51 @@
+  <channel id="PrimerT">
+    <display-name lang="es">PrimerT</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" />
+    <url>http://www.plus.es</url>
+  </channel>
+
+
+
+  <programme start="20220123003500 -0300" stop="20220123013500 -0300" channel="PrimerT">
+    <title lang="es">Manda huevos</title>
+    <desc lang="es">Diego Galán dirige este recorrido por el cine español que muestra cómo nuestra cinematografía ha retratado al hombre a lo largo de su historia.En una lógica segunda parte de "Con la pata quebrada" -el documental que estudiaba la representación de la mujer en el cine español-, Diego Galán vuelve a recurrir al buen humor para tejer un retrato sociológico de la sociedad española desde la posguerra hasta la actualidad.Con la narración de Carmen Machi y a través de fragmentos de películas -algunos de los cuales se remontan a la década de 1930-, vemos cómo los roles patriarcales impuestos desde el poder (esos mitad hombres, mitad soldados, a los que aspiraba la propaganda de Primo de Rivera) se van perdiendo a medida que nos acercamos a nuestros días.</desc>
+    <credits>
+      <director>Diego Galán</director>
+      <writer>Diego Galán</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Cine</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2P1329866" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/104</value>
+    </star-rating>
+  </programme>
+
+
+
+  <programme start="20220124223000 +0100" stop="20220125010000 +0100" channel="LaSexta.TV">
+    <title lang="es">Pacific Rim</title>
+    <desc lang="es">Cuando unas criaturas monstruosas, los 'kaiju', empiezan a salir del mar, la humanidad no tiene más remedio que combatirlos con un arma especial, los 'jaegers', unos enormes robots que son controlados por dos pilotos cuyas mentes están conectadas a través de un puente neuronal. Guillermo del Toro dirige y escribe el guion de esta superproducción de ciencia ficción que se adentra sin complejos en el universo 'friki' de otros famosos 'kaijus' (grandes bestias como Godzilla o King Kong) y 'mechas' (robots gigantes a lo Mazinger Z) del manga y el anime japonés. Protagonizada por Charlie Hunnam, Idris Elba, Rinko Kikuchi, Robert Kazinsky y Ron Perlman, la película muestra cómo los 'jaegers' se encuentran indefensos frente los implacables 'kaiju'. Al borde de la derrota, las fuerzas que defienden a la humanidad se ven obligadas a recurrir a dos insólitos héroes: un expiloto y una novata sin experiencia que controlarán a un legendario -y obsoleto- 'jaeger'. Juntos representan la última esperanza frente al apocalipsis humano. Con unos espectaculares efectos especiales (nominados a los premios BAFTA), la cinta consigue convertir una historia que bebe del imaginario de la Serie B en un espectáculo grandioso y enormemente entretenido lleno de acción y aventura.</desc>
+    <credits>
+      <director>Guillermo del Toro</director>
+      <writer>Guillermo del Toro</writer>
+      <writer>Travis Beacham</writer>
+      <composer>Ramin Djawadi</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MSEXTAP1111501" />
+    <country lang="es">EE.UU</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4/1007</value>
+    </star-rating>
+  </programme>
