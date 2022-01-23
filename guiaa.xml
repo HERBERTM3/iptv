@@ -6,7 +6,7 @@
 
 
 
-  <programme channel="PrimerT">
+  <programme vod="PrimerT">
     <title lang="es">Manda huevos</title>
     <desc lang="es">Diego Galán dirige este recorrido por el cine español que muestra cómo nuestra cinematografía ha retratado al hombre a lo largo de su historia.En una lógica segunda parte de "Con la pata quebrada" -el documental que estudiaba la representación de la mujer en el cine español-, Diego Galán vuelve a recurrir al buen humor para tejer un retrato sociológico de la sociedad española desde la posguerra hasta la actualidad.Con la narración de Carmen Machi y a través de fragmentos de películas -algunos de los cuales se remontan a la década de 1930-, vemos cómo los roles patriarcales impuestos desde el poder (esos mitad hombres, mitad soldados, a los que aspiraba la propaganda de Primo de Rivera) se van perdiendo a medida que nos acercamos a nuestros días.</desc>
     <credits>
@@ -16,7 +16,7 @@
     <date>2016</date>
     <category lang="es">Documentales</category>
     <category lang="es">Cine</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2P1329866" />
+    <icon src="https://media.filmelier.com/images/filmes/cartaz/premiere-annee10922.jpeg" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>12</value>
@@ -40,7 +40,7 @@
     <date>2013</date>
     <category lang="es">Cine</category>
     <category lang="es">Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MSEXTAP1111501" />
+    <icon src="https://media.filmelier.com/images/filmes/cartaz/premiere-annee10922.jpeg" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>12</value>
