@@ -1,62 +1,162 @@
-#EXTM3U
+#EXTINF:-1,PER: America TV (Senal SD) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99524.m3u8
+#EXTINF:-1,PER: America TV (Senal HD) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99642.m3u8
+#EXTINF:-1,PER: America TV UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99641.m3u8
+#EXTINF:-1,PER: ATV UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99643.m3u8
+#EXTINF:-1,PER: ATV (Senal HD) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99644.m3u8
+#EXTINF:-1,PER: ATV (Senal SD) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99645.m3u8
+#EXTINF:-1,PER: ATV + UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99646.m3u8
+#EXTINF:-1,PER: ATV + (Senal SD) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99647.m3u8
+#EXTINF:-1,PER: BHTV
+http://tvgalaxy.online:8080/live/marco15/Marco15/93486.m3u8
+#EXTINF:-1,PER: Canal N UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99650.m3u8
+#EXTINF:-1,PER: Canal N (Senal SD) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99651.m3u8
+#EXTINF:-1,PER: Conecta2 TV UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99649.m3u8
+#EXTINF:-1,PER: Congreso TV UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99652.m3u8
+#EXTINF:-1,PER: Cultura 24 TV
+http://tvgalaxy.online:8080/live/marco15/Marco15/99653.m3u8
+#EXTINF:-1,PER: Directv Sports Peru HD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99655.m3u8
+#EXTINF:-1,PER: Directv Sports Peru (480) (EXCLUSIVO) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/87010.m3u8
+#EXTINF:-1,PER: Directv Sports Peru (720) (EXCLUSIVO) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/103190.m3u8
+#EXTINF:-1,PER: Directv Sports Peru (1980) (EXCLUSIVO) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99654.m3u8
+#EXTINF:-1,PER: Directv Sports 2 Peru (1980) (EXCLUSIVO) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99656.m3u8
+#EXTINF:-1,PER: Directv Sports + Peru (1980) (EXCLUSIVO) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99657.m3u8
+#EXTINF:-1,PER: Espn Peru UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99658.m3u8
+#EXTINF:-1,PER: Es-pn 2 Peru UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99659.m3u8
+#EXTINF:-1,PER: Es.pn 3 Peru UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99660.m3u8
+#EXTINF:-1,PER: Es-pn 4 Peru (EXCLUSIVO) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99663.m3u8
+#EXTINF:-1,PER: Exitosa TV UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99661.m3u8
+#EXTINF:-1,PER: Exitosa TV (Senal SD) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99662.m3u8
+#EXTINF:-1,PER: Fox Sports 2 Peru UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99664.m3u8
+#EXTINF:-1,PER: Fox Sports 3 Peru UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99665.m3u8
+#EXTINF:-1,PER: Global TV (Senal SD) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/106227.m3u8
+#EXTINF:-1,PER: Global TV Peru UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99666.m3u8
+#EXTINF:-1,PER: Gol Peru UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99667.m3u8
+#EXTINF:-1,PER: Gol Peru (Senal SD) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99668.m3u8
+#EXTINF:-1,PER: Gol TV Peru UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99669.m3u8
+#EXTINF:-1,PER: IPE
+http://tvgalaxy.online:8080/live/marco15/Marco15/99670.m3u8
+#EXTINF:-1,PER: Karibena TV UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99671.m3u8
+#EXTINF:-1,PER: Justicia TV UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99672.m3u8
+#EXTINF:-1,PER: Latina UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99673.m3u8
+#EXTINF:-1,PER: Latina (Senal HD) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99674.m3u8
+#EXTINF:-1,PER: Latina (Senal SD) UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99675.m3u8
+#EXTINF:-1,PER: Mas Cumbia TV
+http://tvgalaxy.online:8080/live/marco15/Marco15/99676.m3u8
+#EXTINF:-1,PER: Movistar Deportes UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99677.m3u8
+#EXTINF:-1,PER: Movistar Deportes HD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99678.m3u8
+#EXTINF:-1,PER: Movistar Plus UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99679.m3u8
+#EXTINF:-1,PER: Panamericana TV UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99680.m3u8
+#EXTINF:-1,PER: Panamericana TV HD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99681.m3u8
+#EXTINF:-1,PER: Panamericana TV (Senal SD)
+http://tvgalaxy.online:8080/live/marco15/Marco15/99682.m3u8
+#EXTINF:-1,PER: Peru Magico UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99683.m3u8
+#EXTINF:-1,PER: RPP TV UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99684.m3u8
+#EXTINF:-1,PER: RPP TV (Senal SD)
+http://tvgalaxy.online:8080/live/marco15/Marco15/99685.m3u8
+#EXTINF:-1,PER: TV Peru UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99686.m3u8
+#EXTINF:-1,PER: TV Peru (Senal SD)
+http://tvgalaxy.online:8080/live/marco15/Marco15/99687.m3u8
+#EXTINF:-1,PER: USMPTV UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99648.m3u8
+#EXTINF:-1,PER: VIsion TV Musica
+http://tvgalaxy.online:8080/live/marco15/Marco15/99688.m3u8
+#EXTINF:-1,PER: VNP Noticias
+http://tvgalaxy.online:8080/live/marco15/Marco15/99689.m3u8
+#EXTINF:-1,PER: Willax TV (Senal SD)
+http://tvgalaxy.online:8080/live/marco15/Marco15/99691.m3u8
+#EXTINF:-1,PER: Willax TV UHD
+http://tvgalaxy.online:8080/live/marco15/Marco15/99690.m3u8
 
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.imgur.com/30HzeQe.png",Latina Peru
-http://tvpremiumhd.club/lista-gratuita/180709/on/lives.php?id=cdnimg-latina-pe.secure.footprint.net/latina_web/no_disponible/formats/playlist_all.m3u8
 
-
-
-#EXTINF:-1 group-title="H3RT" tvg-logo="https://i.ibb.co/6PH5P8p/images.png",AMERICA TV GO C
-https://cl-a7-i-e-nq1.cdn.mdstrm.com/live-stream-secure/5c928b7f6d6f41084bdae898/publish/media_2500.m3u8?aid=598861d8cc3c169b2236f987&uid=N2MV6vV5F6h111L0FXTtwCVi8HCK3rlb&sid=lLZpdfs7sgOdsAhIkCxO6UczB23yhgSW&pid=yyDERbjwHGg1Hh0yzwjBowiiqlBWe6u0&ref=&without_cookies=false&dnt=true&access_token=bRbtl1VfOJSsSYFpIl6fAnxal5jIdIH1k38VHjNd7IkDM7cFiP3ctKJeepnbxZYZaTqkfKiNKE1&es=cl-a7-i-e-nq1.cdn.mdstrm.com&ote=1641530353260&ot=VxfPJ-LNwX01Si3FWMjZzw&proto=https&pz=cl
-https://tvgo.americatv.com.pe/
-
-#EXTINF:-1 group-title="H3RT" tvg-logo="https://tntsports.cl/__export/1610632680933/sites/cdfchile/arte/apps/facebook_20210114.jpg",TNT SPOTS CHILE
-https://nedmedia.akamaized.net/hls/live/2034243/feed1/master_540.m3u8
-
-
-#EXTINF:-1 group-title="H3RT" tvg-logo="https://noticiasnrt.com/wp-content/themes/nrt_theme-main/img/logo.png",NRT MEXICO
-https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w1850664946.m3u8
-https://noticiasnrt.com/en-vivo/
-
-#EXTINF:-1 group-title="H3RT" tvg-logo="https://static.dw.com/image/47222941_304.png",DW NOTICIAS
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w514775789.m3u8
-https://www.dw.com/es/multimedia/tv-en-vivo/s-100837
-
-
-#EXTINF:-1 group-title="H3RT" tvg-logo="https://willax.tv/wp-content/uploads/2018/05/logo-footer-willax.png",WILLAX
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmpcmIPyRsARIoxP2J8pugTI)/dm/3/x7x4dgx/s/live-2.m3u8
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmp3iYfcg35N5CsM2EfqKQ7M)/dm/3/x7x4dgx/s/live-2.m3u8
-https://willax.tv/en-vivo/
-
-#EXTINF:-1 group-title="H3RT" tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png",CHILEVISION
-https://cl-a7-i-e-nq1.cdn.mdstrm.com/live-stream-secure/5c928b7f6d6f41084bdae898/publish/media_250.m3u8?aid=598861d8cc3c169b2236f987&uid=8LVv7OeJFbgrT6bh4hCQ8wn5gk5oGuXp&sid=PbXKmuOhwYZXapVz3R02sqXgGlZsm5x0&pid=tUTpVlOysqKzlwKqhzMUb7eOLGho01LE&ref=&without_cookies=false&dnt=true&access_token=EFAuXJQrG0sqCzJigpnAD10vN0OUgNl33vJ3phS94rzy79VNkjTUdKET85l8mTnrtK3DXiSEFJZ&es=cl-a7-i-e-nq1.cdn.mdstrm.com&ote=1637720783806&ot=GuB8c5CCozkoI8vkr6MH4w&proto=https&pz=cl
-https://www.chilevision.cl/senal-online
-
-
-#EXTINF:-1 group-title="H3RT" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png",TVPERÚ
-https://cu.onliv3.com/livevd1/user2_low/index.m3u8
-https://cdnh77.iblups.com/hls/R9WtilpKKB.m3u8
-https://www.tvperu.gob.pe/play
-
-#EXTINF:-1 group-title="H3RT" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png",TVPERÚ NOTICIAS
-https://cdnh77.iblups.com/hls/RMuwrdk7M9.m3u8
-https://www.tvperu.gob.pe/noticias/play
-
-#EXTINF:-1 group-title="H3RT" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_INTERNACIONAL_PLAY.png",TVPERÚ INTERNACIONAL
-https://cdnh8.iblups.com/hls/irtp.m3u8
-https://www.tvperu.gob.pe/internacional/play
-
-#EXTINF:-1 group-title="H3RT" tvg-logo="https://exitosanoticias.pe/v1/wp-content/uploads/2020/10/exitosa.jpg",TV EXITOSA
-https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
-https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
-https://exitosanoticias.pe/v1/tvenvivo/
-
-#EXTINF:-1 group-title="H3RT" tvg-logo="https://www.hispantv.com/Views/Assets/img/logo.png",HISPANTV
-https://live.presstv.ir/live/smil:live.smil/chunklist_w1002567934_b644100_slen.m3u8
-https://www.hispantv.com/directo
-
-#EXTINF:-1 group-title="H3RT" tvg-logo="https://actualidad.rt.com/static/img/logo112x112.png",RT ESPAÑOL
-https://rt-esp.gcdn.co/live/rtesp/playlist_1600Kb.m3u8
-https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
-https://actualidad.rt.com/en_vivo2
+#EXTINF:-1,MEX FHD: AZTECA  1
+http://tvgalaxy.online:8080/live/marco15/Marco15/93858.m3u8
+#EXTINF:-1,MEX SD: CANAL 4
+http://tvgalaxy.online:8080/live/marco15/Marco15/93859.m3u8
+#EXTINF:-1,MEX SD: CANAL 8
+http://tvgalaxy.online:8080/live/marco15/Marco15/93861.m3u8
+#EXTINF:-1,MEXICO  HQ | IMAGEN TV
+http://tvgalaxy.online:8080/live/marco15/Marco15/93864.m3u8
+#EXTINF:-1,MEX HD: ADN 40
+http://tvgalaxy.online:8080/live/marco15/Marco15/93866.m3u8
+#EXTINF:-1,MEX HD: AZTECA CORAZON
+http://tvgalaxy.online:8080/live/marco15/Marco15/93869.m3u8
+#EXTINF:-1,MEX HD: AZTECA MUNDO
+http://tvgalaxy.online:8080/live/marco15/Marco15/93870.m3u8
+#EXTINF:-1,MEXICO HQ | DE PELICULAS
+http://tvgalaxy.online:8080/live/marco15/Marco15/93871.m3u8
+#EXTINF:-1,MEXICO HQ | INGENIO TV
+http://tvgalaxy.online:8080/live/marco15/Marco15/93873.m3u8
+#EXTINF:-1,MEXICO HQ | MILENIO
+http://tvgalaxy.online:8080/live/marco15/Marco15/93874.m3u8
+#EXTINF:-1,MEXICO HQ | TELEVISA MONTERREY
+http://tvgalaxy.online:8080/live/marco15/Marco15/93875.m3u8
+#EXTINF:-1,MEXICO HD | UNICABLE
+http://tvgalaxy.online:8080/live/marco15/Marco15/93877.m3u8
+#EXTINF:-1,MEXICO | CANAL 5
+http://tvgalaxy.online:8080/live/marco15/Marco15/93883.m3u8
+#EXTINF:-1,MEXICO LOCAL | MULTIMEDIOS MONTERREY
+http://tvgalaxy.online:8080/live/marco15/Marco15/93886.m3u8
+#EXTINF:-1,MEXICO LOCAL | TELESISTEMA
+http://tvgalaxy.online:8080/live/marco15/Marco15/93888.m3u8
+#EXTINF:-1,MEXICO HQ | TVC DEPORTES
+http://tvgalaxy.online:8080/live/marco15/Marco15/93889.m3u8
+#EXTINF:-1,MX ESPN DEPORTES HD
+http://tvgalaxy.online:8080/live/marco15/Marco15/187946.m3u8
+#EXTINF:-1,MX | ESP.N 1 HD-
+http://tvgalaxy.online:8080/live/marco15/Marco15/164384.m3u8
+#EXTINF:-1,MX | ESP.N 2 HD
+http://tvgalaxy.online:8080/live/marco15/Marco15/164385.m3u8
+#EXTINF:-1,MEX SD: AZTECA 7 HD*
+http://tvgalaxy.online:8080/live/marco15/Marco15/93860.m3u8
+#EXTINF:-1,MEXICO HQ | TLNOVELAS
+http://tvgalaxy.online:8080/live/marco15/Marco15/90149.m3u8
+#EXTINF:-1,MEX HD| CANAL DE LAS ESTRELLAS
+http://tvgalaxy.online:8080/live/marco15/Marco15/103869.m3u8
+#EXTINF:-1,MEX HD: Estrella TV
+http://tvgalaxy.online:8080/live/marco15/Marco15/93876.m3u8
+#EXTINF:-1,TELNOVELAS HD || MX
+http://tvgalaxy.online:8080/live/marco15/Marco15/90148.m3u8
