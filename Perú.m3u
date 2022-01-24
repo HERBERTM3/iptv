@@ -8,3 +8,382 @@ https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA
 https://live-latina-mdstrm.secure.footprint.net/live-stream-dai/5ce7109c7398b977dc0744cd/319fed2157fa4c48ae2f81928b21f8a4/f624fec49dadc88894ebeff1d974eab019af7757/session/c5baa2d6-5e56-40d7-9928-9927d535d0f6/index.m3u8?aid=5ce70c587398b977dc0743b5&uid=n2mv6vv5f6h111l0fxttwcvi8hck3rlb&sid=ow3sah1nki8vpxbx1i61s1idq6zmpvtb&pid=pigcqymwdfq3gcwllm3vuhyvnbivihs8&ref=https%3a%2f%2fwww.latina.pe%2f&without_cookies=false&dnt=true&es=live-latina-mdstrm.secure.footprint.net&proto=https&pz=us&access_token=h06c4wf0emttxyyt6wggjsobxq3wzfgriulcboucurrck17jvmbrtmydcsssa7foqzvdyyisemr&manifestfilter=video_height:240-480&hash=0d40f4b4f50260a9ee8eb
 #EXTINF:-1,PER: Panamericana (Senal HD) UHD
 https://cdnh71.iblups.com/hls/ptv2.m3u8
+
+
+
+#EXTINF:-1,BHtv
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,BHtv
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,BeXtreme TV (Lima) (1080p) [Not 24/7]
+https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Cultura 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Cultura24.tv (360p)
+https://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Exitosa TV
+https://cu.onliv3.com/livevd1/user2.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Karibeña
+https://cu.onliv3.com/livevd/user1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Monterrico TV
+https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Monterrico TV (720p) [Not 24/7]
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Ovación TV (Lima) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Radio San Borja TV [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Radio Tropical Tarapoto
+https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Stereo TV (Peru) [Not 24/7]
+https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,TVPE
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,TVPE Noticias
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Televisión Tarapoto
+https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Visión Noticias Perú (VNP)
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Vía Televisión (Tarapoto) [Not 24/7]
+https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?checkedby:iptvcat.com
+
+
+
+
+#EXTINF:-1, 13 Max Corrientes
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+#EXTINF:-1, ADN 40 México
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
+#EXTINF:-1, Aire de Santa Fe
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8
+#EXTINF:-1, América Tucuman
+http://45.6.4.154/americatuc/vivo.m3u8
+#EXTINF:-1, Argentinisima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8
+#EXTINF:-1, Arirang Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1, Av 3 y 104 Villa Gesell
+http://cam104y3.gesell.com.ar/playlist.m3u8
+#EXTINF:-1,BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1,BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Bolivia Tv
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1, Bolivia Tv 2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1, Bragado Tv
+https://inliveserver.com:1936/9500/9500/chunklist_w1908919579.m3u8
+#EXTINF:-1, Bs As y Playa Villa Gesell
+http://cambsasyplaya.gesell.com.ar/playlist.m3u8
+#EXTINF:-1, Bunge y El Mar Pinamar
+https://wowza.telpin.com.ar:1935/camara-bunge/smil:camara-bunge.smil/chunklist_w968282560_b1344100_sleng.m3u8
+#EXTINF:-1, Bunge y Libertador Pinamar
+https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
+#EXTINF:-1, C9N Paraguay
+http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=3900000.m3u8
+#EXTINF:-1, C5SF
+https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1, Cable Imagen Armstrong
+https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1169271894.m3u8
+#EXTINF:-1, Calchaquí Tv Tucumán
+http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
+#EXTINF:-1,Canal 10 Saeta Uruguay
+https://edge3-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
+#EXTINF:-1, Canal 10 Cancún
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1, Canal 10 Córdoba
+https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
+#EXTINF:-1, Canal 10 Mar del Plata
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
+#EXTINF:-1, Canal 10 Senillosa
+https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w563112316.m3u8
+#EXTINF:-1, Canal 10 Nortevision
+https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
+#EXTINF:-1, Canal 10 Rio Negro
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1,Canal 11 de la Costa
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:-1, Canal 12 Madryn TV
+https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1, Canal 13 San Luis
+https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
+#EXTINF:-1, Canal 18 Salta
+https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
+#EXTINF:-1, Canal 2 Gualeguay
+https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/chunklist_w2133948445.m3u8
+#EXTINF:-1, Canal 2 San Luis
+https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w551645566.m3u8
+#EXTINF:-1, Canal 20 Villamaría
+https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
+#EXTINF:-1, Canal 21 Posadas
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
+#EXTINF:-1, Canal 22 Buenos Aires
+https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8
+#EXTINF:-1, Canal 24 horas
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1, Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1, Canal 29 Ensenada
+https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
+#EXTINF:-1, Canal 3 Formosa
+https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w1328638650.m3u8
+#EXTINF:-1, Canal 3 La Pampa
+https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1, Canal 3 Las Heras Sta. Cruz
+https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8
+#EXTINF:-1, Canal 3 Pinamar
+http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
+#EXTINF:-1, Canal 3 Rosario
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+#EXTINF:-1, Canal 34 San Juan
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1, Canal 4 Bahia Blanca
+https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
+#EXTINF:-1, Canal 4 El Dorado
+https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/playlist.m3u8
+#EXTINF:-1, Canal 4 Esquel
+https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8
+#EXTINF:-1, Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1, Canal 4 Teleaire S.Martín
+https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
+#EXTINF:-1, Canal 5 Pico Truncado
+http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8
+#EXTINF:-1, Canal 5 Entre Ríos
+https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
+#EXTINF:-1, Canal 5 Tandil
+https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
+#EXTINF:-1, Canal 5 Tigre
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+#EXTINF:-1, Canal 50 HD Morteros
+http://168.196.255.130:8080/canal50/vivo.m3u8
+#EXTINF:-1, Canal 6 Moreno
+https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
+#EXTINF:-1, Canal 7 Jujuy
+https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1, Canal 7 Salta
+https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8
+#EXTINF:-1, Canal 7 Santiago del Estero
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
+#EXTINF:-1, Canal 74 Chile
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1, Canal 9 Norte Misionero
+https://panel.dattalive.com/8076/8076/playlist.m3u8
+#EXTINF:-1, Canal 9 Río Cuarto
+http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
+#EXTINF:-1, Canal 9 Televida Mendoza
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
+#EXTINF:-1, Canal Provincial
+https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1, Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+#EXTINF:-1, Canal U
+https://vcp.myplaytv.com:443/canal10srt/smil:canal10srt.smil/playlist.m3u8
+#EXTINF:-1, Canal 7 Catamarca
+https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/chunklist_w1847941210.m3u8
+#EXTINF:-1, CBS News
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+#EXTINF:-1, CCTV5 HD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1, Celta Tv Tres Arroyos
+https://vivo.solumedia.com:19360/celta/celta.m3u8
+#EXTINF:-1, CELTv Tornquist
+http://190.103.192.6:8080/hls/mystreamkey.m3u8
+#EXTINF:-1, Chilecito Tv La Rioja
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+#EXTINF:-1, CINE.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1, CL3 Santa Fé
+http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
+#EXTINF:-1,CNN HD International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1, CNR.Tv Jujuy
+https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+#EXTINF:-1, Cuatro HD España
+http://91.126.141.13:1935/live/51/1800-def.m3u8
+#EXTINF:-1, El Diario de Pringles
+https://streaming.reltid.com.ar/hls/pringles.m3u8
+#EXTINF:-1, CTV Corrientes
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+#EXTINF:-1, Cubavisión
+http://190.122.96.187:8888/http/010
+#EXTINF:-1, Del Sur Tv San Juan
+http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
+#EXTINF:-1,DEPORTv
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
+#EXTINF:-1, Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1, Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
+#EXTINF:-1, Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?
+#EXTINF:-1, ESPN 1 USA
+http://188.113.190.12:80/168/tracks-v1a1/index.m3u8
+#EXTINF:-1, Euronews en Español
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, FMTV 1 USA
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+#EXTINF:-1, FOX Sports 1 HD USA
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1, Fox Sports Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
+#EXTINF:-1, France 24 Español
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1, FreeSports Reino Unido
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+#EXTINF:-1, GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
+#EXTINF:-1, GEN Tv Digital
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1, Gourmet Tv
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, IGN
+https://ign-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1, Infomedia Río Gallegos
+https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
+#EXTINF:-1, Informacion Periodística
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1, La 2 España
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1, La Pinocha Villa Gesell
+http://camlapinocha.gesell.com.ar/playlist.m3u8
+#EXTINF:-1, La Voz de Tucumán
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
+#EXTINF:-1, Litus Tv
+https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1, Look Sports Rumania
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1617596874&wowzatokenhash=EjMJ30iw-KK1LUMe25wPHYjSf_vZr40HrZmgBSMaf_U=&wowzatokenstarttime=1617553674
+#EXTINF:-1, Look Sports 2 Rumania
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1616918728&wowzatokenhash=VSA7jv0u-Omn3CnlShcjJEklf8e2rR8jAQ8wwDG1_GY=&wowzatokenstarttime=1616879128
+#EXTINF:-1, Look Sports 3 Rumania
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1616918666&wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=&wowzatokenstarttime=1616879066
+#EXTINF:-1, Look Sports+ Rumania
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
+#EXTINF:-1, MATY! Fotball
+https://77-247-178-24.livesports24.online/ooomatch.m3u8
+#EXTINF:-1, Microvision Rep.Dominicana
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1, Monte Hermoso
+https://streaming.reltid.com.ar/hls/monte.m3u8
+#EXTINF:-1, Muelle Villa Gesell
+http://cammuelle.gesell.com.ar/playlist.m3u8
+#EXTINF:-1, Multivisión
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1, Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1, NASA Tv
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, NASA Tv Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1, Neox Tv Salta
+https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
+#EXTINF:-1, Noticias del 6
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:-1, O2Tv Sport Rep.Checa
+http://84.42.140.148:8880/hdmi
+#EXTINF:-1, Orbe 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+#EXTINF:-1, Orbit TV Rep.Dominicana
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1, Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1, Paka Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1, Play Televisión
+http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
+#EXTINF:-1, Power HD Pinamar
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+#EXTINF:-1, RAI 3
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w1480246840.m3u8
+#EXTINF:-1, RTN Neuquén
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
+#EXTINF:-1, Rúv Islandia
+https://ruvruverl-live-hls.secure.footprint.net/24beacf6e543ecd6f62c8dc98b1827650c5507f8-1/ruv/ruv2erl/index/stream1.m3u8
+#EXTINF:-1, Sierra de la Ventana
+https://streaming.reltid.com.ar/hls/sierra.m3u8
+#EXTINF:-1, Simpson TV
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-1, Sky Sport 24 Italia
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:-1, Speed Tv Concordia
+http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
+#EXTINF:-1, TDC Tv Santa Fe
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+#EXTINF:-1, Tele 1 El Salvador
+https://5ca9af4645e15.streamlock.net/canaluno/smil:canaluno.smil/chunklist_w1614286216_b1428000_DVR_sleng.m3u8
+#EXTINF:-1, Telecinco HD España
+http://91.126.141.13:1935/live/61/playlist.m3u8
+#EXTINF:-1, Telecinco Trelew
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1, Telecreativa Lanús
+https://panel.dattalive.com/8012/8012/playlist.m3u8
+#EXTINF:-1, Telediario Televisión
+https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
+#EXTINF:-1, Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1, TeleNord Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1, Telesol San Juan
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+#EXTINF:-1, Telered Costa Rica
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
+#EXTINF:-1,TeleSUR Costa Rica
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1,Televisión de Guinea Ecuatorial
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
+#EXTINF:-1, Televisión Regional Unimar
+https://vivo.solumedia.com:19360/trutv/trutv.m3u8
+#EXTINF:-1, Telpin Canal 2
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1, Terramia Tv
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w258432612_b1864000_sleng.m3u8
+#EXTINF:-1, Ticavisión Costa Rica
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1, Trece Paraguay
+http://174.138.118.252/live/trece.m3u8
+#EXTINF:-1, TV Dos Salta
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+#EXTINF:-1,Tv Universidad La Plata
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1, TVF Tv Florida Uruguay
+http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
+#EXTINF:-1, TyC Sports Play 1
+https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
+#EXTINF:-1, TyC Sports Play 2
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
+#EXTINF:-1, TyC Sports Play 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+#EXTINF:-1, TyC Sports Play 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
+#EXTINF:-1, TyC Sports Play 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
+#EXTINF:-1, TyC Sports Play 6
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
+#EXTINF:-1, Uni Teve
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:-1, Unicanal Paraguay
+http://45.55.127.106/live/unicanal.m3u8
+#EXTINF:-1, UTN TV
+https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
+#EXTINF:-1, V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1, Vallevisión Rep.Dominicana
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1, Ver Tv Venado Tuerto
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1,Visión Noticias Perú
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
+#EXTINF:-1, Wow TV El Salvador
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1, X24 Tucumán
+https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
