@@ -1,9 +1,9 @@
-#EXTINF:-1,PER: America TV (Senal SD) UHD
-http://tvgalaxy.online:8080/live/marco15/Marco15/99524.m3u8
-#EXTINF:-1,PER: America TV (Senal HD) UHD
-http://tvgalaxy.online:8080/live/marco15/Marco15/99642.m3u8
-#EXTINF:-1,PER: America TV UHD
-http://tvgalaxy.online:8080/live/marco15/Marco15/99641.m3u8
+#EXTINF:-1,PER: TeleSur TV (Senal SD) UHD
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1,PER: Peru TV (Senal SD) UHD
+https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1,PER: Willax TV (Senal SD) UHD
+https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA0eXsKYJVwe1UpqmvitbhVNFND_B1Yk2Cs_p9ZqULOwPN6vyF7vMtdlJAnZh53qO4Fw&dmTs=847129&dmV1st=EC63A4B247758059F5FF429F65443616
 #EXTINF:-1,PER: ATV UHD
 http://tvgalaxy.online:8080/live/marco15/Marco15/99643.m3u8
 #EXTINF:-1,PER: ATV (Senal HD) UHD
