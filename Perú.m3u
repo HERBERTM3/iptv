@@ -4,8 +4,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,PER: Willax TV (Senal SD) UHD
 https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA0eXsKYJVwe1UpqmvitbhVNFND_B1Yk2Cs_p9ZqULOwPN6vyF7vMtdlJAnZh53qO4Fw&dmTs=847129&dmV1st=EC63A4B247758059F5FF429F65443616
-#EXTINF:-1,PER: ATV UHD
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
+#EXTINF:-1,PER: LATINA (Senal SD) UHD
+https://live-latina-mdstrm.secure.footprint.net/live-stream-dai/5ce7109c7398b977dc0744cd/319fed2157fa4c48ae2f81928b21f8a4/f624fec49dadc88894ebeff1d974eab019af7757/session/c5baa2d6-5e56-40d7-9928-9927d535d0f6/index.m3u8?aid=5ce70c587398b977dc0743b5&uid=n2mv6vv5f6h111l0fxttwcvi8hck3rlb&sid=ow3sah1nki8vpxbx1i61s1idq6zmpvtb&pid=pigcqymwdfq3gcwllm3vuhyvnbivihs8&ref=https%3a%2f%2fwww.latina.pe%2f&without_cookies=false&dnt=true&es=live-latina-mdstrm.secure.footprint.net&proto=https&pz=us&access_token=h06c4wf0emttxyyt6wggjsobxq3wzfgriulcboucurrck17jvmbrtmydcsssa7foqzvdyyisemr&manifestfilter=video_height:240-480&hash=0d40f4b4f50260a9ee8eb
 #EXTINF:-1,PER: ATV (Senal HD) UHD
 http://tvgalaxy.online:8080/live/marco15/Marco15/99644.m3u8
 #EXTINF:-1,PER: ATV (Senal SD) UHD
