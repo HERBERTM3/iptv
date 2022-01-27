@@ -140,16 +140,21 @@ https://content.jwplatform.com/videos/EREmEnnh-pKPjdof9.mp4
 https://content.jwplatform.com/videos/W9lbYxc1-pKPjdof9.mp4
 
 
+#EXTINF:0  group-title="Suits - Temporada 1" tvg-logo="https://content.jwplatform.com/v2/media/iITUQcpn/poster.jpg?width=720",Suits T1 - Capitulo 11
+https://content.jwplatform.com/videos/iITUQcpn-VweNl9Ol.mp4
+#EXTINF:0  group-title="Suits - Temporada 1" tvg-logo="https://content.jwplatform.com/v2/media/iITUQcpn/poster.jpg?width=720",Suits T1 - Capitulo 12
+https://content.jwplatform.com/videos/iITUQcpn-VweNl9Ol.mp4
+
+
 
 
 
 
 
 #################################################################################################################################################
-#EXTINF:0  group-title="Juego de tronos - Temporada 1" tvg-logo="https://content.jwplatform.com/v2/media/ZP27Yg4z/poster.jpg?width=720",Juego de tronos T1 - Capitulo 1
-
+#EXTINF:0  group-title="Juego de tronos - Temporada 1" tvg-logo="poster.jpg?width=720",Juego de tronos T1 - Capitulo 1
 #################################################################################################################################################
-#EXTINF:0  group-title="Spartacus - Temporada 1" tvg-logo="https://content.jwplatform.com/v2/media/ZP27Yg4z/poster.jpg?width=720",Spartacus T1 - Capitulo 1
+#EXTINF:0  group-title="Spartacus - Temporada 1" tvg-logo="poster.jpg?width=720",Spartacus T1 - Capitulo 1
 
 
 #################################################################################################################################################
@@ -161,10 +166,6 @@ https://content.jwplatform.com/videos/CVicmFPq-vCYxyFC9.mp4
 https://content.jwplatform.com/videos/7WObJH0P-vCYxyFC9.mp4
 #EXTINF:0  group-title="Jesus de Nazareth - Temporada 1" tvg-logo="https://content.jwplatform.com/v2/media/ZP27Yg4z/poster.jpg?width=720",Jesus de Nazareth T1 - Capitulo 4
 https://content.jwplatform.com/videos/msOZAlxf-vCYxyFC9.mp4
-
-
-
-
 
 ####################################################Peaky Blinders#############################################################################
 #EXTINF:0  group-title="Peaky Blinders - Temporada 1" tvg-logo="https://content.jwplatform.com/v2/media/tK3yrbeS/poster.jpg?width=720",Peaky Blinders T1 - Capitulo 1
