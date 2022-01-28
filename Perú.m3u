@@ -9,6 +9,14 @@ https://live-latina-mdstrm.secure.footprint.net/live-stream-dai/5ce7109c7398b977
 #EXTINF:-1,PER: Panamericana (Senal HD) UHD
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
+#EXTINF:-1,PER: VTV (Senal HD) UHD
+https://livestreamapis.com/v3/accounts/23200525/events/9691158/master.m3u8?token=046d77677451ca0b5c6d51f4f5cbd74b&clientId=18998&timestamp=1643407439231&signature=605c4756797d80000dfb2d167eacd10e4bcbe97521698228a23cd88aacdf251d21d098c1a23d1d42caa70ef5d665371f
+
+
+#EXTINF:-1,PER: TyC Sports (Senal HD) UHD
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+
 
 
 #EXTINF:-1,BHtv
