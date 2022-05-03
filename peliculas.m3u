@@ -234,6 +234,7 @@ https://content.jwplatform.com/videos/RT7CfIua-b98weFMp.mp4
 https://content.jwplatform.com/videos/cpINcVaN-b98weFMp.mp4
 #EXTINF:0  group-title="Juego de tronos" tvg-logo="https://content.jwplatform.com/v2/media/yjx9Ahl2/poster.jpg?width=720",Juego de tronos T1 - Capitulo 10
 https://content.jwplatform.com/videos/yjx9Ahl2-b98weFMp.mp4
+
 #EXTINF:0  group-title="Juego de tronos" tvg-logo="https://content.jwplatform.com/v2/media/BLuiyK9W/poster.jpg?width=720",Juego de tronos T2 - Capitulo 1
 https://content.jwplatform.com/videos/BLuiyK9W-OFfruZQQ.mp4
 #EXTINF:0  group-title="Juego de tronos" tvg-logo="https://content.jwplatform.com/v2/media/8ELLtgR4/poster.jpg?width=720",Juego de tronos T2 - Capitulo 2
@@ -732,6 +733,8 @@ https://content.jwplatform.com/videos/RP9Fpa6U-AW4nIoYx.mp4
 #EXTINF:0  group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/AxxKYKVF/poster.jpg?width=720",Prison Break T4 - Capitulo 78
 https://content.jwplatform.com/videos/AxxKYKVF-AW4nIoYx.mp4
 
-
+#################################################################################################################################################
+#EXTINF:0  group-title="TV" tvg-logo="https://content.jwplatform.com/v2/media/AxxKYKVF/poster.jpg?width=720",Canal Latino 54
+http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
 
 #https://www.filmaffinity.com/cl/main.html
