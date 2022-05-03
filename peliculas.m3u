@@ -736,5 +736,12 @@ https://content.jwplatform.com/videos/AxxKYKVF-AW4nIoYx.mp4
 #################################################################################################################################################
 #EXTINF:0  group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7k6lDxvW1pWQSFORzr2prefjnryoJcSXrZ-uQuOWohAcxl9HpdvmG9sRzcD7JNX9ZqGk&usqp=CAU",Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:0  group-title="TV" tvg-logo="https://pbs.twimg.com/profile_images/1333469705777127427/vhblqtWD_400x400.jpg",ATV
+https://d2tr4gdfol9ja.cloudfront.net/atv/atv.smil/.m3u8
+#EXTINF:0  group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png",ATV Plus
+https://d2tr4gdfol9ja.cloudfront.net/atv/atv-mas.smil/.m3u8
+#EXTINF:0  group-title="TV" tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV.jpg",Panamericana
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
 
 #https://www.filmaffinity.com/cl/main.html
