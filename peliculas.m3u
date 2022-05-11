@@ -746,4 +746,7 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/atv-mas.smil/.m3u8
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
 
+#EXTINF:0  group-title="TV" tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV.jpg",Pelicula
+http://192.168.0.6:1935/admin/25845698q/playlist.m3u8
+
 #https://www.filmaffinity.com/cl/main.html
