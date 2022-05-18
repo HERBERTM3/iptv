@@ -744,10 +744,13 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/atv-mas.smil/.m3u8
 #EXTINF:0  group-title="TV" tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV.jpg",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:0  group-title="TV" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/5e5597b9171de20f8f30667a.png",Mega en vivo
-https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream-dai/e3c6a4d4e421462baf807f90073f8722/manifest/f624fec49dadc88894ebeff1d974eab019af7757/53d2c1a32640614e62a0e000/3beb2638-a775-47f0-adde-cf819870bd34/0.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=nlgYAQd6u6XRcfvaWAaHU0vJ7kqbrycE&sid=jWiJy8NTO83a3FTXGHlL2hfJEKO2zrsA&pid=Ie83FgUgD0JujRibyRlcBYjWJcReQJgL&ref=https%3A%2F%2Fwww.mega.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=M6c0MtmfqjXAP1D1eHShq03kKW5iz7AxE8M5YPpvZZLO0WyAZhRN4b5MIzqWFtlLeFktFlQY9VD&es=cl-a7-i-e-nq1.cdn.mdstrm.com&ote=1652537280037&ot=kIXNmlpzgOFZRiP2OmWXnw&proto=https&pz=cl
+#EXTINF:0  group-title="TV" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/5e5597b9171de20f8f30667a.png",Mega
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=WWVwv31dlLg
+#EXTINF:0  group-title="TV" tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png",Chilevisión
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=WWVwv31dlLg
 
-#EXTINF:0  group-title="TV" tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV.jpg",Latina
+
+#EXTINF:0  group-title="TV" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png",Latina
 http://free.fullspeed.tv/iptv-query?streaming-ip=http://177.53.152.186:8000/play/a019/index.m3u8
 
 #https://www.filmaffinity.com/cl/main.html
