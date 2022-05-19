@@ -760,6 +760,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39e
 https://siloh-latam-aka.plutotv.net/148_pluto/clip/61cdd53c04ff25001a47e5dd_South_Park_LT_Mejores_amigos_para_siempre_S9E4/720p/20211230_075021/hls/939274-end/master.m3u8
 
 
+#EXTINF:0  group-title="TV" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&h=96&w=150",TV Hogar
+https://cl-a7-i-e-nq1.cdn.mdstrm.com/live-stream-secure/5c928b7f6d6f41084bdae898/publish/media_2500.m3u8?aid=598861d8cc3c169b2236f987&access_token=uWUFjLOVJ47l28r9ZxUuoyEDtZ5v0s3Dt8WS5MNoM5wj1AeNmPuHoIabPS1m5Fq4kmtSKOUvuuu&ote=1653052637457&ot=TpdPwnM_Lb1_oPMsz0-CGA
+
 
 #EXTINF:0  group-title="TV" tvg-logo="https://estaticos.24horas.cl/skins/2017/06/16/img/24_play.svg",24 Horas
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/24horasCl/live
