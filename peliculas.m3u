@@ -745,7 +745,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Latin
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
 
 #EXTINF:0  group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png",ATV Plus
-https://d2tr4gdfol9ja.cloudfront.net/atv/atv-mas.smil/.m3u8
+https://d2tr4gdfol9ja.cloudfront.net/atv/atv-mas.smil/chunklist_b1024000.m3u8
 
 #EXTINF:0  group-title="TV" tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV.jpg",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
