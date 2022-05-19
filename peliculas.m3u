@@ -759,4 +759,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Latin
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/telesurtv/live
 
 
+#EXTINF:0  group-title="TV" tvg-logo="https://willax.tv/wp-content/uploads/2022/02/cropped-logo-footer-willax.png",Willax TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7x4dgx
+
+
 #https://www.filmaffinity.com/cl/main.html
