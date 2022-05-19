@@ -756,6 +756,8 @@ https://siloh-sp.plutotv.net/lilo/production/Chilevision/master_1.m3u8
 #EXTINF:0  group-title="TV" tvg-logo="https://luisgyg.com/wp-content/uploads/2013/08/unnamed2.png",Vevo
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:0  group-title="TV" tvg-logo="https://e1.pngegg.com/pngimages/864/973/png-clipart-south-park-logo-three-south-park-characters-illustration.png",South park
+https://siloh-latam-aka.plutotv.net/148_pluto/clip/61cdd53c04ff25001a47e5dd_South_Park_LT_Mejores_amigos_para_siempre_S9E4/720p/20211230_075021/hls/939274-end/master.m3u8
 
 
 
