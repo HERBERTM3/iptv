@@ -745,13 +745,18 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/atv-mas.smil/.m3u8
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:0  group-title="TV" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/5e5597b9171de20f8f30667a.png",Mega
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-dai/53d2c1a32640614e62a0e000/e3c6a4d4e421462baf807f90073f8722/f624fec49dadc88894ebeff1d974eab019af7757/session/12cbd6bd-f57d-4127-b301-7f99561b0c7e/media.m3u8?access_token=RLXmEPRsuWYGYWl93TX4Udc0Y9PBtm0jxw6VLhvv3bhmr1ZsaV755jGACbW6pg9fVtpKM0i4a57&es=cl-a7-i-e-nq1.cdn.mdstrm.com&ote=1653020994894&ot=GGL4XT6-f6Avzc0lOVKYuw
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Meganoticiasoficial/live
 #EXTINF:0  group-title="TV" tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png",Chilevisión
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=WWVwv31dlLg
 
+#EXTINF:0  group-title="TV" tvg-logo="https://estaticos.24horas.cl/skins/2017/06/16/img/24_play.svg",24 Horas
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/24horasCl/live
 
 #EXTINF:0  group-title="TV" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png",Latina
-http://free.fullspeed.tv/iptv-query?streaming-ip=http://177.53.152.186:8000/play/a019/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/LatinaNoticias/live
+
+#EXTINF:0  group-title="TV" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",Telesur
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/telesurtv/live
+
 
 #https://www.filmaffinity.com/cl/main.html
