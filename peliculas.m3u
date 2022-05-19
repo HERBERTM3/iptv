@@ -762,5 +762,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/te
 #EXTINF:0  group-title="TV" tvg-logo="https://willax.tv/wp-content/uploads/2022/02/cropped-logo-footer-willax.png",Willax TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7x4dgx
 
+#EXTINF:0  group-title="TV" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png",France 24 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Español/live
+
 
 #https://www.filmaffinity.com/cl/main.html
