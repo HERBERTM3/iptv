@@ -737,8 +737,10 @@ https://content.jwplatform.com/videos/AxxKYKVF-AW4nIoYx.mp4
 #################################################################################################################################################
 #EXTINF:0  group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7k6lDxvW1pWQSFORzr2prefjnryoJcSXrZ-uQuOWohAcxl9HpdvmG9sRzcD7JNX9ZqGk&usqp=CAU",Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+
 #EXTINF:0  group-title="TV" tvg-logo="https://pbs.twimg.com/profile_images/1333469705777127427/vhblqtWD_400x400.jpg",ATV
-https://d2tr4gdfol9ja.cloudfront.net/atv/atv.smil/.m3u8
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
+
 #EXTINF:0  group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png",ATV Plus
 https://d2tr4gdfol9ja.cloudfront.net/atv/atv-mas.smil/.m3u8
 #EXTINF:0  group-title="TV" tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV.jpg",Panamericana TV
@@ -752,7 +754,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:0  group-title="TV" tvg-logo="https://estaticos.24horas.cl/skins/2017/06/16/img/24_play.svg",24 Horas
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/24horasCl/live
 
-#EXTINF:0  group-title="TV" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png",Latina
+#EXTINF:0  group-title="TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/latina.png",Latina
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/LatinaNoticias/live
 
 #EXTINF:0  group-title="TV" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",Telesur
@@ -764,6 +766,12 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 
 #EXTINF:0  group-title="TV" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png",France 24 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Español/live
+
+#EXTINF:0  group-title="TV" tvg-logo="https://static.wikia.nocookie.net/spongebob-squarepants/images/2/24/480px-Logo2010.gif/revision/latest?cb=20130102171234&path-prefix=es",Bob esponja
+http://158.69.251.150/BobEsponja/tracks-v1a1/mono.m3u8
+
+#EXTINF:0  group-title="TV" tvg-logo="https://e7.pngegg.com/pngimages/674/513/png-clipart-doraemon-in-india-nobita-nobi-television-show-doraemon.png",Doraemon
+http://158.69.251.150/Doraemon/tracks-v1a1/mono.m3u8
 
 
 #https://www.filmaffinity.com/cl/main.html
