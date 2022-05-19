@@ -770,8 +770,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 #EXTINF:0  group-title="TV" tvg-logo="https://static.wikia.nocookie.net/spongebob-squarepants/images/2/24/480px-Logo2010.gif/revision/latest?cb=20130102171234&path-prefix=es",Bob esponja
 http://158.69.251.150/BobEsponja/tracks-v1a1/mono.m3u8
 
-#EXTINF:0  group-title="TV" tvg-logo="https://e7.pngegg.com/pngimages/674/513/png-clipart-doraemon-in-india-nobita-nobi-television-show-doraemon.png",Doraemon
+#EXTINF:0  group-title="TV" tvg-logo="https://w7.pngwing.com/pngs/705/504/png-transparent-doraemon-doraemon-drawing-cartoon-film-doraemon-television-game-smiley.png",Doraemon
 http://158.69.251.150/Doraemon/tracks-v1a1/mono.m3u8
+
+#EXTINF:0  group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/800px-Naruto_logo.svg.png",Naruto
+http://158.69.251.150/Naruto/tracks-v1a1/mono.m3u8
 
 
 #https://www.filmaffinity.com/cl/main.html
