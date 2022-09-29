@@ -234,7 +234,6 @@ https://content.jwplatform.com/videos/3f2jFMzM-eYck8VyA.mp4
 https://content.jwplatform.com/videos/BAG9ZvTB-mpZ40oDt.mp4
 #EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/QSjZusGW/poster.jpg?width=720",El Hombre Del Norte (2022)
 https://content.jwplatform.com/videos/QSjZusGW-eYck8VyA.mp4
-
 #EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/1HJASNy7/poster.jpg?width=720",Hellboy (2019)
 https://content.jwplatform.com/videos/1HJASNy7-SkDLAh1s.mp4
 #EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/aHaMrXAN/poster.jpg?width=720",Piratas Del Caribe, La Maldición Del Perla Negra (2003)
@@ -243,11 +242,20 @@ https://content.jwplatform.com/videos/aHaMrXAN-SkDLAh1s.mp4
 https://content.jwplatform.com/videos/nbrJ066D-SkDLAh1s.mp4
 #EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/0axWMZRM/poster.jpg?width=720",Piratas Del Caribe, La Venganza De Salazar (2017)
 https://content.jwplatform.com/videos/0axWMZRM-SkDLAh1s.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/uGHvqY8O/poster.jpg?width=720",El Irlandés (2019)
+https://content.jwplatform.com/videos/uGHvqY8O-SkDLAh1s.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/rO9EwfV6/poster.jpg?width=720",El Hombre Araña 1 (2002)
+https://content.jwplatform.com/videos/rO9EwfV6-SkDLAh1s.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/pwT84WCZ/poster.jpg?width=720",El Hombre Araña 2 (2004)
+https://content.jwplatform.com/videos/pwT84WCZ-SkDLAh1s.mp4
+
+
+
+
 
 
 #EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/P2w05rte/poster.jpg?width=720",El Carnicero (2018)
 https://content.jwplatform.com/videos/P2w05rte-h4HfyiPM.mp4
-
 
 #################################################################################################################################################
 #EXTINF:0  group-title="Juego de tronos" tvg-logo="https://content.jwplatform.com/v2/media/retkIvb3/poster.jpg?width=720",Juego de tronos T1 - Capitulo 1
