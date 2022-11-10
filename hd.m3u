@@ -45,6 +45,9 @@ https://cdn.jwplayer.com/manifests/ztfljVZv.m3u8
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/bfuasxiA-1280.jpg" group-title="Peliculas",Red de corrupción (2001)
 https://cdn.jwplayer.com/manifests/bfuasxiA.m3u8
 
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/e2bYVviq-1920.jpg" group-title="Peliculas",Día de entrenamiento (2001)
+https://cdn.jwplayer.com/manifests/e2bYVviq.m3u8
+
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/o2E37V3E-1280.jpg" group-title="Peliculas",El pianista (2002)
 https://cdn.jwplayer.com/manifests/p9O19DMJ.m3u8
 
@@ -56,6 +59,9 @@ https://cdn.jwplayer.com/manifests/FOQryG5o.m3u8
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/p9O19DMJ-1280.jpg" group-title="Peliculas",Misterios Del Titanic (2003)
 https://cdn.jwplayer.com/manifests/o2E37V3E.m3u8
+
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/vnNZVGg2-1920.jpg" group-title="Peliculas",Daredevil - El hombre sin miedo (2003)
+https://cdn.jwplayer.com/manifests/vnNZVGg2.m3u8
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/JYwPkB6n-1280.jpg" group-title="Peliculas",Yo, Robot (2004)
 https://cdn.jwplayer.com/manifests/JYwPkB6n.m3u8
@@ -78,6 +84,9 @@ https://cdn.jwplayer.com/manifests/wbEcUjsI.m3u8
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/7Eu0eQCZ-1280.jpg" group-title="Peliculas",¿...y dónde están las rubias? (2004)
 https://cdn.jwplayer.com/thumbs/7Eu0eQCZ-1280.jpg
 
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/03q5ktEp-1920.jpg" group-title="Peliculas"Constantine (2005)
+https://cdn.jwplayer.com/manifests/03q5ktEp.m3u8
+
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/CH9QRKbd-1280.jpg" group-title="Peliculas",Sr. Y Sra. Smith (2005)
 https://cdn.jwplayer.com/manifests/CH9QRKbd.m3u8
 
@@ -92,6 +101,9 @@ https://cdn.jwplayer.com/manifests/4QbzNT2v.m3u8
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/fVy6BGsJ-1280.jpg" group-title="Peliculas",Danny el perro (2005)
 https://cdn.jwplayer.com/manifests/fVy6BGsJ.m3u8
+
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/Jqxa6aUH-1920.jpg" group-title="Peliculas",300 (2006)
+https://cdn.jwplayer.com/manifests/Jqxa6aUH.m3u8
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/cfR3HmOO-1280.jpg" group-title="Peliculas",Lo Que El Agua Se Llevó (2006)
 https://cdn.jwplayer.com/manifests/cfR3HmOO.m3u8
