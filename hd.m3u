@@ -24,6 +24,9 @@ https://cdn.jwplayer.com/manifests/SgUXQRft.m3u8
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/tVuH5d4I-1280.jpg" group-title="Peliculas",Matilda (1996)
 https://cdn.jwplayer.com/manifests/tVuH5d4I.m3u8
 
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/jZ52iLy8-1920.jpg" group-title="Peliculas",Striptease - HBO (1996)
+https://cdn.jwplayer.com/manifests/jZ52iLy8.m3u8
+
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/HUQB3sIe-1280.jpg" group-title="Peliculas",Titanic (1997)
 https://cdn.jwplayer.com/manifests/HUQB3sIe.m3u8
 
