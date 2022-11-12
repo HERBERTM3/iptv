@@ -42,9 +42,6 @@ https://cdn.jwplayer.com/manifests/WPoxidJu.m3u8
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/6xi76kcK-1920.jpg" group-title="Peliculas",La Tormenta Perfecta - HBO (2000)
 https://cdn.jwplayer.com/manifests/6xi76kcK.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/1SXJMmz5-960.jpg" group-title="Peliculas",El camino hacia el Dorado 1 HQ (2000)
 https://cdn.jwplayer.com/manifests/1SXJMmz5.m3u8
 
@@ -125,6 +122,14 @@ https://cdn.jwplayer.com/manifests/Up95l49F.m3u8
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/3qaTzQpB-1280.jpg" group-title="Peliculas",Michael Clayton (2007)
 https://cdn.jwplayer.com/manifests/3qaTzQpB.m3u8
+
+
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/USMrvajO/poster.jpg?width=720" group-title="Peliculas",El asesinato de jesse james por el cobarde robert Ford - HBO (2007)
+https://cdn.jwplayer.com/manifests/USMrvajO.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/fdwZYCLC-1280.jpg" group-title="Peliculas",Wall-e (2008)
 https://cdn.jwplayer.com/manifests/fdwZYCLC.m3u8
