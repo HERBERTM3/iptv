@@ -30,6 +30,12 @@ https://cdn.jwplayer.com/manifests/jZ52iLy8.m3u8
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/HUQB3sIe-1280.jpg" group-title="Peliculas",Titanic (1997)
 https://cdn.jwplayer.com/manifests/HUQB3sIe.m3u8
 
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/u8DGcmQi/poster.jpg?width=720" group-title="Peliculas",El abogado del diablo - HBO (1997)
+https://cdn.jwplayer.com/manifests/u8DGcmQi.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/YyEbpfZG-1280.jpg" group-title="Peliculas",El hombre de la máscara de hierro (1998)
 https://cdn.jwplayer.com/manifests/YyEbpfZG.m3u8
 
