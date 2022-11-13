@@ -33,9 +33,6 @@ https://cdn.jwplayer.com/manifests/HUQB3sIe.m3u8
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/u8DGcmQi/poster.jpg?width=720" group-title="Peliculas",El abogado del diablo - HBO (1997)
 https://cdn.jwplayer.com/manifests/u8DGcmQi.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/YyEbpfZG-1280.jpg" group-title="Peliculas",El hombre de la máscara de hierro (1998)
 https://cdn.jwplayer.com/manifests/YyEbpfZG.m3u8
 
@@ -122,6 +119,9 @@ https://cdn.jwplayer.com/manifests/cfR3HmOO.m3u8
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/cLok27OH-1280.jpg" group-title="Peliculas",El útimo Regalo (2006)
 https://cdn.jwplayer.com/manifests/cLok27OH.m3u8
+
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/lI9a46OZ/poster.jpg?width=720" group-title="Peliculas",Click perdiendo el control - hbo (2006)
+https://cdn.jwplayer.com/manifests/lI9a46OZ.m3u8
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/Up95l49F-1280.jpg" group-title="Peliculas",Soy Leyenda (2007)
 https://cdn.jwplayer.com/manifests/Up95l49F.m3u8
