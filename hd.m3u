@@ -87,6 +87,9 @@ https://cdn.jwplayer.com/manifests/qAFSj60N.m3u8
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/T9l8nvXA-1280.jpg" group-title="Peliculas",El Efecto Mariposa (2004)
 https://cdn.jwplayer.com/manifests/T9l8nvXA.m3u8
 
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/OWY4QHmV/poster.jpg?width=720" group-title="Peliculas",Espanta tiburones (2004)
+https://cdn.jwplayer.com/manifests/OWY4QHmV.m3u8
+
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/wbEcUjsI-1280.jpg" group-title="Peliculas",Colateral (2004)
 https://cdn.jwplayer.com/manifests/wbEcUjsI.m3u8
 
@@ -130,7 +133,7 @@ https://cdn.jwplayer.com/manifests/Up95l49F.m3u8
 https://cdn.jwplayer.com/manifests/3qaTzQpB.m3u8
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/USMrvajO/poster.jpg?width=720" group-title="Peliculas",El asesinato de jesse james por el cobarde robert Ford - HBO (2007)
-https://cdn.jwplayer.com/manifests/USMrvajO.m3u8
+https://cdn.jwplayer.com/manifests/Y3zmTE15.m3u8
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/fdwZYCLC-1280.jpg" group-title="Peliculas",Wall-e (2008)
 https://cdn.jwplayer.com/manifests/fdwZYCLC.m3u8
