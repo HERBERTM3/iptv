@@ -15,8 +15,12 @@ https://cdn.jwplayer.com/manifests/V1JkaLsY.m3u8
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/MbDDABPA-1280.jpg" group-title="Peliculas",Los beverly ricos (1993)
 https://cdn.jwplayer.com/manifests/MbDDABPA.m3u8
 
-#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/oo1NGfNH-1280.jpg" group-title="Peliculas",La máscara (1994)
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/oo1NGfNH-1280.jpg" group-title="Peliculas",La máscara 1 (1994)
 https://cdn.jwplayer.com/manifests/oo1NGfNH.m3u8
+
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/0pNWEGAc/poster.jpg?width=720" group-title="Peliculas",La máscara 2 HBO (2005)
+https://cdn.jwplayer.com/manifests/0pNWEGAc.m3u8
+
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/SgUXQRft-1280.jpg" group-title="Peliculas",Balto 1 (1995)
 https://cdn.jwplayer.com/manifests/SgUXQRft.m3u8
