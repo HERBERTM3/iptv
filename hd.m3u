@@ -157,6 +157,9 @@ https://cdn.jwplayer.com/manifests/LS2zp2ZO.m3u8
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/SvheuftJ-1280.jpg" group-title="Peliculas",Fireball (2009)
 https://cdn.jwplayer.com/manifests/SvheuftJ.m3u8
 
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/hLBjuVFi/poster.jpg?width=720" group-title="Peliculas",Hermanos (2009)
+https://cdn.jwplayer.com/manifests/hLBjuVFi.m3u8
+
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/Q5r2eRdV-1280.jpg" group-title="Peliculas",Siempre a tu lado (Hachiko) (2009)
 https://cdn.jwplayer.com/manifests/Q5r2eRdV.m3u8
 
