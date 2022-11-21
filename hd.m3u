@@ -292,6 +292,8 @@ https://cdn.jwplayer.com/manifests/nU9zWYHw.m3u8
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/QSjZusGW-1280.jpg" group-title="Peliculas",El hombre del norte (2022)
 https://cdn.jwplayer.com/manifests/QSjZusGW.m3u8
 
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/xGFGJBJQ/poster.jpg?width=720" group-title="Peliculas",Operación Cerveza (2022)
+https://cdn.jwplayer.com/manifests/xGFGJBJQ.m3u8
 
 
 
