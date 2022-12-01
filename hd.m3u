@@ -148,6 +148,9 @@ https://cdn.jwplayer.com/manifests/YqkDEnAb.m3u8
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/QroHqRIx-1280.jpg" group-title="Peliculas",Una loca película de esparta (2008)
 https://cdn.jwplayer.com/manifests/QroHqRIx.m3u8
 
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/qfHB4jAs/poster.jpg?width=720" group-title="Peliculas",Rendirse Jamas (2008)
+https://cdn.jwplayer.com/manifests/qfHB4jAs.m3u8
+
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/jpaugSDb-1280.jpg" group-title="Peliculas",Avatar 1 (2009)
 https://cdn.jwplayer.com/manifests/jpaugSDb.m3u8
 
