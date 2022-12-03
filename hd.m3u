@@ -166,6 +166,9 @@ https://cdn.jwplayer.com/manifests/hLBjuVFi.m3u8
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/Q5r2eRdV-1280.jpg" group-title="Peliculas",Siempre a tu lado (Hachiko) (2009)
 https://cdn.jwplayer.com/manifests/Q5r2eRdV.m3u8
 
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/7VCOkBX0/poster.jpg?width=720" group-title="Peliculas",2012 (2009)
+https://cdn.jwplayer.com/manifests/7VCOkBX0.m3u8
+
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/YhAEndMC-1280.jpg" group-title="Peliculas",Megamente (2010)
 https://cdn.jwplayer.com/manifests/YhAEndMC.m3u8
 
