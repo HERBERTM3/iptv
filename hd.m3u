@@ -376,6 +376,16 @@ https://cdn.jwplayer.com/manifests/o3Ou9tdF.m3u8
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/sLuBQOl2-1280.jpg" group-title="Peliculas",Depredador 1 (1987)
 https://cdn.jwplayer.com/manifests/sLuBQOl2.m3u8
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/hWD2i6EI/poster.jpg?width=720" group-title="Peliculas",Alien Vs. Predator (2004)
+https://cdn.jwplayer.com/manifests/hWD2i6EI.m3u8
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/Xl5qYK9h/poster.jpg?width=720" group-title="Peliculas",Aliens Vs. Predator 2 (2007)
+https://cdn.jwplayer.com/manifests/Xl5qYK9h.m3u8
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/oMJsc6dA/poster.jpg?width=720" group-title="Peliculas",Predator (2018)
+https://cdn.jwplayer.com/manifests/oMJsc6dA.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/sh3FIFsd-1280.jpg" group-title="Peliculas",Depredador La Presa (2022)
 https://cdn.jwplayer.com/manifests/sh3FIFsd.m3u8
 
