@@ -446,53 +446,51 @@ https://cdn.jwplayer.com/manifests/0axWMZRM.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="135" tvg-logo="https://content.jwplatform.com/v2/media/mX6bReZt/poster.jpg?width=720" group-title="Rome",Rome T1 - Capitulo 1
 https://cdn.jwplayer.com/manifests/mX6bReZt.m3u8
-
 #EXTINF:-1 tvg-id="136" tvg-logo="https://content.jwplatform.com/v2/media/Oajr7RcW/poster.jpg?width=720" group-title="Rome",Rome T1 - Capitulo 2
 https://cdn.jwplayer.com/manifests/Oajr7RcW.m3u8
-
 #EXTINF:-1 tvg-id="137" tvg-logo="https://content.jwplatform.com/v2/media/3TZtcDW9/poster.jpg?width=720" group-title="Rome",Rome T1 - Capitulo 3
 https://cdn.jwplayer.com/manifests/3TZtcDW9.m3u8
-
 #EXTINF:-1 tvg-id="138" tvg-logo="https://content.jwplatform.com/v2/media/3p5QGOsp/poster.jpg?width=720" group-title="Rome",Rome T1 - Capitulo 4
 https://cdn.jwplayer.com/manifests/3p5QGOsp.m3u8
-
 #EXTINF:-1 tvg-id="139" tvg-logo="https://content.jwplatform.com/v2/media/CmwP6avz/poster.jpg?width=720" group-title="Rome",Rome T1 - Capitulo 5
 https://cdn.jwplayer.com/manifests/CmwP6avz.m3u8
-
 #EXTINF:-1 tvg-id="140" tvg-logo="https://content.jwplatform.com/v2/media/iaYJIvwS/poster.jpg?width=720" group-title="Rome",Rome T1 - Capitulo 6
 https://cdn.jwplayer.com/manifests/iaYJIvwS.m3u8
-
 #EXTINF:-1 tvg-id="141" tvg-logo="https://content.jwplatform.com/v2/media/T9MKDdo8/poster.jpg?width=720" group-title="Rome",Rome T1 - Capitulo 7
 https://cdn.jwplayer.com/manifests/T9MKDdo8.m3u8
-
 #EXTINF:-1 tvg-id="142" tvg-logo="https://content.jwplatform.com/v2/media/QsFZr68a/poster.jpg?width=720" group-title="Rome",Rome T1 - Capitulo 8
 https://cdn.jwplayer.com/manifests/QsFZr68a.m3u8
-
 #EXTINF:-1 tvg-id="143" tvg-logo="https://content.jwplatform.com/v2/media/PSjqFPgF/poster.jpg?width=720" group-title="Rome",Rome T1 - Capitulo 9
 https://cdn.jwplayer.com/manifests/PSjqFPgF.m3u8
-
 #EXTINF:-1 tvg-id="144" tvg-logo="https://content.jwplatform.com/v2/media/p7kD75N2/poster.jpg?width=720" group-title="Rome",Rome T1 - Capitulo 10
 https://cdn.jwplayer.com/manifests/p7kD75N2.m3u8
-
 #EXTINF:-1 tvg-id="145" tvg-logo="https://content.jwplatform.com/v2/media/xgdTq4Me/poster.jpg?width=720" group-title="Rome",Rome T1 - Capitulo 11
 https://cdn.jwplayer.com/manifests/xgdTq4Me.m3u8
-
 #EXTINF:-1 tvg-id="146" tvg-logo="https://content.jwplatform.com/v2/media/KgqX5R0A/poster.jpg?width=720" group-title="Rome",Rome T1 - Capitulo 12
 https://cdn.jwplayer.com/manifests/KgqX5R0A.m3u8
+
+#EXTINF:-1 tvg-id="147" tvg-logo="https://content.jwplatform.com/v2/media/4jUPfe9F/poster.jpg?width=720" group-title="Rome",Rome T2 - Capitulo 1
+https://cdn.jwplayer.com/manifests/4jUPfe9F.m3u8
+#EXTINF:-1 tvg-id="148" tvg-logo="https://content.jwplatform.com/v2/media/swCUPvbJ/poster.jpg?width=720" group-title="Rome",Rome T2 - Capitulo 2
+https://cdn.jwplayer.com/manifests/swCUPvbJ.m3u8
+#EXTINF:-1 tvg-id="148" tvg-logo="https://content.jwplatform.com/v2/media/qQKY1QUE/poster.jpg?width=720" group-title="Rome",Rome T2 - Capitulo 3
+https://cdn.jwplayer.com/manifests/qQKY1QUE.m3u8
+#EXTINF:-1 tvg-id="149" tvg-logo="https://content.jwplatform.com/v2/media/l5odXbxN/poster.jpg?width=720" group-title="Rome",Rome T2 - Capitulo 4
+https://cdn.jwplayer.com/manifests/l5odXbxN.m3u8
+#EXTINF:-1 tvg-id="151" tvg-logo="https://content.jwplatform.com/v2/media/yIt8nwHb/poster.jpg?width=720" group-title="Rome",Rome T2 - Capitulo 5
+https://cdn.jwplayer.com/manifests/yIt8nwHb.m3u8
+#EXTINF:-1 tvg-id="152" tvg-logo="https://content.jwplatform.com/v2/media/lhb8GbPm/poster.jpg?width=720" group-title="Rome",Rome T2 - Capitulo 6
+https://cdn.jwplayer.com/manifests/lhb8GbPm.m3u8
+#EXTINF:-1 tvg-id="153" tvg-logo="https://content.jwplatform.com/v2/media/smkeqrOm/poster.jpg?width=720" group-title="Rome",Rome T2 - Capitulo 7
+https://cdn.jwplayer.com/manifests/smkeqrOm.m3u8
+#EXTINF:-1 tvg-id="154" tvg-logo="https://content.jwplatform.com/v2/media/fLMbzOQU/poster.jpg?width=720" group-title="Rome",Rome T2 - Capitulo 8
+https://cdn.jwplayer.com/manifests/fLMbzOQU.m3u8
+#EXTINF:-1 tvg-id="155" tvg-logo="https://content.jwplatform.com/v2/media/gBuVdFvO/poster.jpg?width=720" group-title="Rome",Rome T2 - Capitulo 9
+https://cdn.jwplayer.com/manifests/gBuVdFvO.m3u8
+#EXTINF:-1 tvg-id="155" tvg-logo="https://content.jwplatform.com/v2/media/9775T5VU/poster.jpg?width=720" group-title="Rome",Rome T2 - Capitulo 10
+https://cdn.jwplayer.com/manifests/9775T5VU.m3u8
+
 
 
