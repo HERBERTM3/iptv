@@ -421,3 +421,34 @@ https://cdn.jwplayer.com/manifests/aHaMrXAN.m3u8
 https://cdn.jwplayer.com/manifests/nbrJ066D.m3u8
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/0axWMZRM-1280.jpg" group-title="Peliculas",Piratas Del Caribe 3 (2017)
 https://cdn.jwplayer.com/manifests/0axWMZRM.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Rome" tvg-logo="https://content.jwplatform.com/v2/media/mX6bReZt/poster.jpg?width=720" group-title="Rome T1 - Capitulo 1
+https://cdn.jwplayer.com/manifests/mX6bReZt.m3u8
+
+#EXTINF:-1 tvg-id="Rome" tvg-logo="https://content.jwplatform.com/v2/media/Oajr7RcW/poster.jpg?width=720" group-title="Rome T1 - Capitulo 2
+https://cdn.jwplayer.com/manifests/Oajr7RcW.m3u8
+
+#EXTINF:-1 tvg-id="Rome" tvg-logo="https://content.jwplatform.com/v2/media/3TZtcDW9/poster.jpg?width=720" group-title="Rome T1 - Capitulo 3
+https://cdn.jwplayer.com/manifests/3TZtcDW9.m3u8
+
+
+
