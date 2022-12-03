@@ -34,7 +34,7 @@ https://cdn.jwplayer.com/manifests/jZ52iLy8.m3u8
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/HUQB3sIe-1280.jpg" group-title="Peliculas",Titanic (1997)
 https://cdn.jwplayer.com/manifests/HUQB3sIe.m3u8
 
-#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/HUQB3sIe-1280.jpg" group-title="Peliculas",Titanic -1080p (1997)
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/G14IK4AN/poster.jpg?width=720" group-title="Peliculas",Titanic -1080p (1997)
 https://cdn.jwplayer.com/manifests/G14IK4AN.m3u8
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/u8DGcmQi/poster.jpg?width=720" group-title="Peliculas",El abogado del diablo - HBO (1997)
