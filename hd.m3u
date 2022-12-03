@@ -184,6 +184,9 @@ https://cdn.jwplayer.com/manifests/zFQVncnu.m3u8
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/CaszktLq-1280.jpg" group-title="Peliculas",Rango (2011)
 https://cdn.jwplayer.com/manifests/CaszktLq.m3u8
 
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/7VCOkBX0/poster.jpg?width=720" group-title="Peliculas",2012 (2009)
+https://cdn.jwplayer.com/manifests/7VCOkBX0.m3u8
+
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/zfUzDIU8-1280.jpg" group-title="Peliculas",El lobo de wall street  (2013)
 https://cdn.jwplayer.com/manifests/zfUzDIU8.m3u8
 
