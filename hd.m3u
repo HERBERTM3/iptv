@@ -39,6 +39,7 @@ https://cdn.jwplayer.com/manifests/HUQB3sIe.m3u8
 #EXTINF:-1 tvg-id="12" tvg-logo="https://content.jwplatform.com/v2/media/G14IK4AN/poster.jpg?width=720" group-title="Peliculas",Titanic -1080p (1997)
 https://cdn.jwplayer.com/manifests/G14IK4AN.m3u8
 
+
 #EXTINF:-1 tvg-id="Austin Powers- El espía seductor (1999)" tvg-logo="https://content.jwplatform.com/v2/media/FTJI05Y2/poster.jpg?width=720" group-title="Peliculas",Austin Powers- El espía seductor (1999)
 https://cdn.jwplayer.com/manifests/FTJI05Y2.m3u8
 
