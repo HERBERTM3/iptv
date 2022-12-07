@@ -24,6 +24,9 @@ https://cdn.jwplayer.com/manifests/0pNWEGAc.m3u8
 #EXTINF:-1 tvg-id="8" tvg-logo="https://cdn.jwplayer.com/thumbs/SgUXQRft-1280.jpg" group-title="Peliculas",Balto 1 (1995)
 https://cdn.jwplayer.com/manifests/SgUXQRft.m3u8
 
+#EXTINF:-1 tvg-id="Los puentes de Madison (1995)" tvg-logo="https://content.jwplatform.com/v2/media/5DJW0rvZ/poster.jpg?width=720" group-title="Peliculas",Los puentes de Madison (1995)
+https://cdn.jwplayer.com/manifests/5DJW0rvZ.m3u8
+
 #EXTINF:-1 tvg-id="9" tvg-logo="https://cdn.jwplayer.com/thumbs/tVuH5d4I-1280.jpg" group-title="Peliculas",Matilda (1996)
 https://cdn.jwplayer.com/manifests/tVuH5d4I.m3u8
 
@@ -35,6 +38,9 @@ https://cdn.jwplayer.com/manifests/HUQB3sIe.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://content.jwplatform.com/v2/media/G14IK4AN/poster.jpg?width=720" group-title="Peliculas",Titanic -1080p (1997)
 https://cdn.jwplayer.com/manifests/G14IK4AN.m3u8
+
+#EXTINF:-1 tvg-id="Austin Powers- El espía seductor (1999)" tvg-logo="https://content.jwplatform.com/v2/media/FTJI05Y2/poster.jpg?width=720" group-title="Peliculas",Austin Powers- El espía seductor (1999)
+https://cdn.jwplayer.com/manifests/FTJI05Y2.m3u8
 
 #EXTINF:-1 tvg-id="13" tvg-logo="https://content.jwplatform.com/v2/media/u8DGcmQi/poster.jpg?width=720" group-title="Peliculas",El abogado del diablo - HBO (1997)
 https://cdn.jwplayer.com/manifests/u8DGcmQi.m3u8
