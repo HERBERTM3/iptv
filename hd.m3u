@@ -103,6 +103,9 @@ https://cdn.jwplayer.com/manifests/qAFSj60N.m3u8
 #EXTINF:-1 tvg-id="31" tvg-logo="https://cdn.jwplayer.com/thumbs/T9l8nvXA-1280.jpg" group-title="Peliculas",El Efecto Mariposa (2004)
 https://cdn.jwplayer.com/manifests/T9l8nvXA.m3u8
 
+#EXTINF:-1 tvg-id="31" tvg-logo="https://content.jwplatform.com/v2/media/FhWKxI2s/poster.jpg?width=720" group-title="Peliculas",El Efecto Mariposa - HBO (2004)
+https://cdn.jwplayer.com/manifests/FhWKxI2s.m3u8
+
 #EXTINF:-1 tvg-id="32" tvg-logo="https://content.jwplatform.com/v2/media/OWY4QHmV/poster.jpg?width=720" group-title="Peliculas",Espanta tiburones (2004)
 https://cdn.jwplayer.com/manifests/OWY4QHmV.m3u8
 
