@@ -226,6 +226,9 @@ https://cdn.jwplayer.com/manifests/0G2uwVnm.m3u8
 #EXTINF:-1 tvg-id="70" tvg-logo="https://cdn.jwplayer.com/thumbs/nTLa65rp-1280.jpg" group-title="Peliculas",Animales Fantasticos Y Donde Encontrarlos (2016)
 https://cdn.jwplayer.com/manifests/nTLa65rp.m3u8
 
+#EXTINF:-1 tvg-id="70" tvg-logo="https://content.jwplatform.com/v2/media/56lfqCEx/poster.jpg?width=720" group-title="Peliculas",Amigos de armas - HBO (2016)
+https://cdn.jwplayer.com/manifests/56lfqCEx.m3u8
+
 #EXTINF:-1 tvg-id="71" tvg-logo="https://cdn.jwplayer.com/thumbs/VBp30h86-1280.jpg" group-title="Peliculas",Dunkerque (2017)
 https://cdn.jwplayer.com/manifests/VBp30h86.m3u8
 
