@@ -262,6 +262,9 @@ https://cdn.jwplayer.com/manifests/a7eKgcX8.m3u8
 #EXTINF:-1 tvg-id="81" tvg-logo="https://cdn.jwplayer.com/thumbs/P2w05rte-1280.jpg" group-title="Peliculas",El carnicero (2018)
 https://cdn.jwplayer.com/manifests/P2w05rte.m3u8
 
+#EXTINF:-1 tvg-id="Comienza el Juego" tvg-logo="https://content.jwplatform.com/v2/media/FvRRZgBJ/poster.jpg?width=720" group-title="Peliculas",Ready player one Comienza el Juego - HBO (2018)
+https://cdn.jwplayer.com/manifests/FvRRZgBJ.m3u8
+
 #EXTINF:-1 tvg-id="82" tvg-logo="https://cdn.jwplayer.com/thumbs/0y968num-1280.jpg" group-title="Peliculas",El Niño Que Domó El Viento (2019)
 https://cdn.jwplayer.com/manifests/0y968num.m3u8
 
