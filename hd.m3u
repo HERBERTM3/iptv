@@ -64,6 +64,9 @@ https://cdn.jwplayer.com/manifests/1SXJMmz5.m3u8
 #EXTINF:-1 tvg-id="19" tvg-logo="https://cdn.jwplayer.com/thumbs/ztfljVZv-1280.jpg" group-title="Peliculas",La Caída Del Halcón Negro (2001)
 https://cdn.jwplayer.com/manifests/ztfljVZv.m3u8
 
+#EXTINF:-1 tvg-id="19" tvg-logo="https://content.jwplatform.com/v2/media/3RAl2Fke/poster.jpg?width=720" group-title="Peliculas",La Caída Del Halcón Negro - HBO (2001)
+https://cdn.jwplayer.com/manifests/3RAl2Fke.m3u8
+
 #EXTINF:-1 tvg-id="20" tvg-logo="https://cdn.jwplayer.com/thumbs/bfuasxiA-1280.jpg" group-title="Peliculas",Red de corrupción (2001)
 https://cdn.jwplayer.com/manifests/bfuasxiA.m3u8
 
