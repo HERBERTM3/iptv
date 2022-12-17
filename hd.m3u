@@ -21,6 +21,9 @@ https://cdn.jwplayer.com/manifests/oo1NGfNH.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="https://content.jwplatform.com/v2/media/0pNWEGAc/poster.jpg?width=720" group-title="Peliculas",La máscara 2 HBO (2005)
 https://cdn.jwplayer.com/manifests/0pNWEGAc.m3u8
 
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/da5kxY4t/poster.jpg?width=720",Zathura, Una Aventura Espacial (2005)
+https://cdn.jwplayer.com/manifests/boQw1bgI.m3u8
+
 #EXTINF:-1 tvg-id="8" tvg-logo="https://cdn.jwplayer.com/thumbs/SgUXQRft-1280.jpg" group-title="Peliculas",Balto 1 (1995)
 https://cdn.jwplayer.com/manifests/SgUXQRft.m3u8
 
@@ -51,6 +54,9 @@ https://cdn.jwplayer.com/manifests/YyEbpfZG.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-logo="https://cdn.jwplayer.com/thumbs/ZITfGiUA-960.jpg" group-title="Peliculas",De ladrón a policía (1999)
 https://cdn.jwplayer.com/manifests/ZITfGiUA.m3u8
+
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/xz58ji8I/poster.jpg?width=720",El Club De La Pelea (1999)
+https://cdn.jwplayer.com/manifests/hSssAluF.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-logo="https://cdn.jwplayer.com/thumbs/WPoxidJu-1280.jpg" group-title="Peliculas",La Tormenta Perfecta (2000)
 https://cdn.jwplayer.com/manifests/WPoxidJu.m3u8
@@ -205,6 +211,9 @@ https://cdn.jwplayer.com/manifests/zFQVncnu.m3u8
 #EXTINF:-1 tvg-id="63" tvg-logo="https://cdn.jwplayer.com/thumbs/CaszktLq-1280.jpg" group-title="Peliculas",Rango (2011)
 https://cdn.jwplayer.com/manifests/CaszktLq.m3u8
 
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/LZsPBacF/poster.jpg?width=720",Un Golpe De Altura (2011)
+https://cdn.jwplayer.com/manifests/X52tI7gf.m3u8
+
 #EXTINF:-1 tvg-id="64" tvg-logo="https://cdn.jwplayer.com/thumbs/zfUzDIU8-1280.jpg" group-title="Peliculas",El lobo de wall street  (2013)
 https://cdn.jwplayer.com/manifests/zfUzDIU8.m3u8
 
@@ -213,6 +222,9 @@ https://cdn.jwplayer.com/manifests/5VpEA3Pf.m3u8
 
 #EXTINF:-1 tvg-id="66" tvg-logo="https://cdn.jwplayer.com/thumbs/8TIBpTK6-1280.jpg" group-title="Peliculas",Non-stop  sin escalas (2014)
 https://cdn.jwplayer.com/manifests/bTkrIPIl.m3u8
+
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/bTkrIPIl/poster.jpg?width=720",Non-stop Sin Escalas (2014)
+https://cdn.jwplayer.com/manifests/QpOGAlda.m3u8
 
 #EXTINF:-1 tvg-id="67" tvg-logo="https://cdn.jwplayer.com/thumbs/ZzJCuyhk-1280.jpg" group-title="Peliculas",En el corazón del mar (2015)
 https://cdn.jwplayer.com/manifests/ZzJCuyhk.m3u8
@@ -357,10 +369,10 @@ https://cdn.jwplayer.com/manifests/zdCKIHPU.m3u8
 
 
 #EXTINF:-1 tvg-id="109" tvg-logo="https://cdn.jwplayer.com/thumbs/s5KZm7EO-1280.jpg" group-title="Peliculas",Tropa De éLite 1 (2007)
-https://cdn.jwplayer.com/manifests/s5KZm7EO.m3u8
+https://cdn.jwplayer.com/manifests/Gxun3pOJ.m3u8
 
 #EXTINF:-1 tvg-id="1010" tvg-logo="https://cdn.jwplayer.com/thumbs/NrCho3V8-1280.jpg" group-title="Peliculas",Tropa De éLite 2 (2010)
-https://cdn.jwplayer.com/manifests/NrCho3V8.m3u8
+https://cdn.jwplayer.com/manifests/ZOLbGY5Z.m3u8
 
 
 
