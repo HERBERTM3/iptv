@@ -528,10 +528,10 @@ https://cdn.jwplayer.com/manifests/9775T5VU.m3u8
 
 
 #################################################################################################################################################
-#EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://willax.tv/wp-content/uploads/2022/02/cropped-logo-footer-willax.png" group-title="Rome",Willax TV - En vivo
+#EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://willax.tv/wp-content/uploads/2022/02/cropped-logo-footer-willax.png" group-title="Televisión",Willax TV - En vivo
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
 
-#EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV.jpg" group-title="Rome",Panamericana TV - En vivo
+#EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV.jpg" group-title="Televisión",Panamericana TV - En vivo
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
 
 
