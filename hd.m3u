@@ -58,6 +58,9 @@ https://cdn.jwplayer.com/manifests/ZITfGiUA.m3u8
 #EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/xz58ji8I/poster.jpg?width=720",El Club De La Pelea (1999)
 https://cdn.jwplayer.com/manifests/hSssAluF.m3u8
 
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/oiCuRlDq/poster.jpg?width=720",Cielo de octubre (1999)
+https://cdn.jwplayer.com/manifests/oiCuRlDq.m3u8
+
 #EXTINF:-1 tvg-id="16" tvg-logo="https://cdn.jwplayer.com/thumbs/WPoxidJu-1280.jpg" group-title="Peliculas",La Tormenta Perfecta (2000)
 https://cdn.jwplayer.com/manifests/WPoxidJu.m3u8
 
@@ -174,6 +177,9 @@ https://cdn.jwplayer.com/manifests/QroHqRIx.m3u8
 
 #EXTINF:-1 tvg-id="51" tvg-logo="https://content.jwplatform.com/v2/media/qfHB4jAs/poster.jpg?width=720" group-title="Peliculas",Rendirse Jamas (2008)
 https://cdn.jwplayer.com/manifests/qfHB4jAs.m3u8
+
+#EXTINF:-1 tvg-id="51" tvg-logo="https://content.jwplatform.com/v2/media/uoWNLRgd/poster.jpg?width=720" group-title="Peliculas",El curioso caso de benjamin button (2008)
+https://cdn.jwplayer.com/manifests/uoWNLRgd.m3u8
 
 #EXTINF:-1 tvg-id="52" tvg-logo="https://cdn.jwplayer.com/thumbs/jpaugSDb-1280.jpg" group-title="Peliculas",Avatar 1 (2009)
 https://cdn.jwplayer.com/manifests/jpaugSDb.m3u8
