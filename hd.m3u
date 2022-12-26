@@ -222,6 +222,9 @@ https://cdn.jwplayer.com/manifests/CaszktLq.m3u8
 #EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/LZsPBacF/poster.jpg?width=720",Un Golpe De Altura (2011)
 https://cdn.jwplayer.com/manifests/X52tI7gf.m3u8
 
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/UVRP9Ghm/poster.jpg?width=720",Proyecto X (2012)
+https://cdn.jwplayer.com/manifests/UVRP9Ghm.m3u8
+
 #EXTINF:-1 tvg-id="64" tvg-logo="https://cdn.jwplayer.com/thumbs/zfUzDIU8-1280.jpg" group-title="Peliculas",El lobo de wall street  (2013)
 https://cdn.jwplayer.com/manifests/zfUzDIU8.m3u8
 
