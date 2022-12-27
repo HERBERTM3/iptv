@@ -568,6 +568,14 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://unlimited10-cl.dps.live
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://unlimited10-cl.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?nimblesessionid=277269170
 #pagina web:https://www.biobiochile.cl/biobiotv/
 
+
+
+
+
+#EXTINF:-1 tvg-id="DW Deutsch" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/fr24es.jpg" group-title="Televisión",France 24 Español
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@France24_es/live
+#pagina web:https://www.france24.com/es/en-vivo
+
 #EXTINF:-1 tvg-id="DW Deutsch" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dwd.jpg" group-title="Televisión",DW Deutsch
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream01/streamPlaylist.m3u8
 #pagina web:https://www.dw.com/es/tv-en-vivo/s-100837
