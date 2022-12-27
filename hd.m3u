@@ -577,12 +577,12 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
 #pagina web:https://actualidad.rt.com/en_vivo2
 
 
-#EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://willax.tv/wp-content/uploads/2022/02/cropped-logo-footer-willax.png" group-title="Televisión",Willax TV
+#EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/willax.png" group-title="Televisión",Willax TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
 #pagina web 1:https://www.dailymotion.com/WillaxTV
 #pagina web 2:https://willax.pe/en-vivo
 
-#EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV.jpg" group-title="Televisión",Panamericana TV
+#EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/PanamericanaTV.png" group-title="Televisión",Panamericana TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
 #pagina web 1:https://www.dailymotion.com/PanamericanaPTV
 #pagina web 2:https://panamericana.pe/tvenvivo
