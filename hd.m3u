@@ -543,10 +543,13 @@ https://cdn.jwplayer.com/manifests/9775T5VU.m3u8
 
 #################################################################################################################################################
 
+#EXTINF:-1 tvg-id="Radio Hoy" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/radiohoy.jpg" group-title="Televisión",Radio Hoy
+https://panel.dattalive.com/8146/8146/chunklist_w1706848113.m3u8
+#pagina web:https://radiohoy.cl
+
 #EXTINF:-1 tvg-id="Carolina TV" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/carolinatv.jpg" group-title="Televisión",Carolina TV
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/carolinatv/carolinatv.smil/playlist.m3u8
 #pagina web:https://www.carolina.cl/tv/
-
 
 #EXTINF:-1 tvg-id="Canal 9 Bío-Bío" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal9.jpg" group-title="Televisión",Canal 9 Bío-Bío
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://unlimited10-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8?nimblesessionid=277270759
