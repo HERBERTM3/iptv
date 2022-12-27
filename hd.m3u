@@ -543,13 +543,9 @@ https://cdn.jwplayer.com/manifests/9775T5VU.m3u8
 
 #################################################################################################################################################
 
-#EXTINF:-1 tvg-id="Radio Hoy" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tevex.jpg" group-title="Televisión",Tevex
-https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.m3u8
-#pagina web:https://tevex.cl/en-vivo/
 
-#EXTINF:-1 tvg-id="Radio Hoy" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13 HD
-https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/c324fc24-b910-4698-bba2-3b9fdbf8fade:SCL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2525600.m3u8
-#pagina web:https://www.13.cl/en-vivo
+
+
 
 #EXTINF:-1 tvg-id="Radio Hoy" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/radiohoy.jpg" group-title="Televisión",Radio Hoy
 https://panel.dattalive.com:443/8146/8146/playlist.m3u8
@@ -559,13 +555,23 @@ https://panel.dattalive.com:443/8146/8146/playlist.m3u8
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/carolinatv/carolinatv.smil/playlist.m3u8
 #pagina web:https://www.carolina.cl/tv/
 
-#EXTINF:-1 tvg-id="Canal 9 Bío-Bío" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal9.jpg" group-title="Televisión",Canal 9 Bío-Bío
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://unlimited10-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8?nimblesessionid=277270759
-#pagina web:https://www.canal9.cl/envivo/
-
 #EXTINF:-1 tvg-id="Radio Bio Bio TV" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/biobio.jpg" group-title="Televisión",Radio Bio Bio TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://unlimited10-cl.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?nimblesessionid=277269170
 #pagina web:https://www.biobiochile.cl/biobiotv/
+
+
+
+#EXTINF:-1 tvg-id="Radio Hoy" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13 HD
+https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/c324fc24-b910-4698-bba2-3b9fdbf8fade:SCL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2525600.m3u8
+#pagina web:https://www.13.cl/en-vivo
+
+#EXTINF:-1 tvg-id="Radio Hoy" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tevex.jpg" group-title="Televisión",Tevex
+https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.m3u8
+#pagina web:https://tevex.cl/en-vivo/
+
+#EXTINF:-1 tvg-id="Canal 9 Bío-Bío" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal9.jpg" group-title="Televisión",Canal 9 Bío-Bío
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://unlimited10-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8?nimblesessionid=277270759
+#pagina web:https://www.canal9.cl/envivo/
 
 #EXTINF:-1 tvg-id="France 24 Español" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/fr24es.jpg" group-title="Televisión",France 24 Español
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@France24_es/live
