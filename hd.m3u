@@ -556,7 +556,7 @@ https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.m3u8
 https://panel.dattalive.com:443/8146/8146/playlist.m3u8
 #pagina web:https://radiohoy.cl
 
-#EXTINF:-1 tvg-id="Carolina TV" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/carolinatv.jpg" group-title="Televisión",Carolina TV
+#EXTINF:-1 tvg-id="Radio Carolina TV" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/carolinatv.jpg" group-title="Televisión",Radio Carolina TV
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/carolinatv/carolinatv.smil/playlist.m3u8
 #pagina web:https://www.carolina.cl/tv/
 
@@ -568,11 +568,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://unlimited10-cl.dps.live
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://unlimited10-cl.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?nimblesessionid=277269170
 #pagina web:https://www.biobiochile.cl/biobiotv/
 
-
-
-
-
-#EXTINF:-1 tvg-id="DW Deutsch" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/fr24es.jpg" group-title="Televisión",France 24 Español
+#EXTINF:-1 tvg-id="France 24 Español" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/fr24es.jpg" group-title="Televisión",France 24 Español
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@France24_es/live
 #pagina web:https://www.france24.com/es/en-vivo
 
@@ -587,7 +583,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://dwamdstream102.akamaize
 #EXTINF:-1 tvg-id="RT Español" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/rt.jpg" group-title="Televisión",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
 #pagina web:https://actualidad.rt.com/en_vivo2
-
 
 #EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/willax.png" group-title="Televisión",Willax TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
