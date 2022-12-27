@@ -561,11 +561,20 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://unlimited10-cl.dps.live
 
 
 
-#EXTINF:-1 tvg-id="Radio Hoy" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13 HD
+
+
+
+
+
+#EXTINF:-1 tvg-id="Mega HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega HD
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream-dai/f8083525137e4dae9ab4b233e8528f37/manifest/f624fec49dadc88894ebeff1d974eab019af7757/53d2c1a32640614e62a0e000/97d24213-cca4-4298-8abb-2da2dea75df5/0.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=gEwCzPGuR94HQrOBi3NxTt6y7F9dVSsX&sid=MbkIU9GBBxK10DSiAY4o5ahqSPD2yWTR&pid=BP9KUfennUfms6JhVIF7ZoffPIFQ1epN&ref=https%3A%2F%2Fwww.mega.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=tJMdMy18jNmWQmyniegvtoc87ffrxzRvB0nfU8arZbgvcMvMGeECL08aX4RyyvOZhUJoVmF7ML1&es=cl-a7-i-e-nq1.cdn.mdstrm.com&ote=1672264209295&ot=zfDzc4G_bDf6aN2ogGwJ6w&proto=https&pz=cl
+#pagina web:https://www.mega.cl/senal-en-vivo/
+
+#EXTINF:-1 tvg-id="Canal 13 HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13 HD
 https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/c324fc24-b910-4698-bba2-3b9fdbf8fade:SCL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2525600.m3u8
 #pagina web:https://www.13.cl/en-vivo
 
-#EXTINF:-1 tvg-id="Radio Hoy" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tevex.jpg" group-title="Televisión",Tevex
+#EXTINF:-1 tvg-id="Tevex" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tevex.jpg" group-title="Televisión",Tevex
 https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.m3u8
 #pagina web:https://tevex.cl/en-vivo/
 
