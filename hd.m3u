@@ -542,10 +542,33 @@ https://cdn.jwplayer.com/manifests/9775T5VU.m3u8
 
 
 #################################################################################################################################################
-#EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://willax.tv/wp-content/uploads/2022/02/cropped-logo-footer-willax.png" group-title="Televisión",Willax TV - En vivo
+
+
+
+#EXTINF:-1 tvg-id="Canal 9 Bío-Bío" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal9.jpg" group-title="Televisión",Canal 9 Bío-Bío
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://unlimited10-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8?nimblesessionid=277270759
+#pagina web:https://www.canal9.cl/envivo/
+
+#EXTINF:-1 tvg-id="Radio Bio Bio TV" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/biobio.jpg" group-title="Televisión",Radio Bio Bio TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://unlimited10-cl.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?nimblesessionid=277269170
+#pagina web:https://www.biobiochile.cl/biobiotv/
+
+#EXTINF:-1 tvg-id="DW Deutsch" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dwd.jpg" group-title="Televisión",DW Deutsch
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream01/streamPlaylist.m3u8
+#pagina web:https://www.dw.com/es/tv-en-vivo/s-100837
+
+#EXTINF:-1 tvg-id="RT Español" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/rt.jpg" group-title="Televisión",RT Español
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
+#pagina web:https://actualidad.rt.com/en_vivo2
+
+
+#EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://willax.tv/wp-content/uploads/2022/02/cropped-logo-footer-willax.png" group-title="Televisión",Willax TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+#pagina web 1:https://www.dailymotion.com/WillaxTV
+#pagina web 2:https://willax.pe/en-vivo
 
-#EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV.jpg" group-title="Televisión",Panamericana TV - En vivo
+#EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV.jpg" group-title="Televisión",Panamericana TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
-
+#pagina web 1:https://www.dailymotion.com/PanamericanaPTV
+#pagina web 2:https://panamericana.pe/tvenvivo
 
