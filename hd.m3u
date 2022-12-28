@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz"
-m
+
 #EXTINF:-1 tvg-id="1" tvg-logo="https://cdn.jwplayer.com/thumbs/EBcG1lET-1280.jpg" group-title="Peliculas",Mississippi En Llamas (1988)
 https://cdn.jwplayer.com/manifests/EBcG1lET.m3u8
 
@@ -543,10 +543,6 @@ https://cdn.jwplayer.com/manifests/9775T5VU.m3u8
 
 #################################################################################################################################################
 
-
-
-
-
 #EXTINF:-1 tvg-id="Radio Hoy" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/radiohoy.jpg" group-title="Televisión",Radio Hoy
 https://panel.dattalive.com:443/8146/8146/playlist.m3u8
 #pagina web:https://radiohoy.cl
@@ -559,15 +555,8 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://unlimited10-cl.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?nimblesessionid=277269170
 #pagina web:https://www.biobiochile.cl/biobiotv/
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Mega HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega HD
-https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream-dai/f8083525137e4dae9ab4b233e8528f37/manifest/f624fec49dadc88894ebeff1d974eab019af7757/53d2c1a32640614e62a0e000/97d24213-cca4-4298-8abb-2da2dea75df5/0.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=gEwCzPGuR94HQrOBi3NxTt6y7F9dVSsX&sid=MbkIU9GBBxK10DSiAY4o5ahqSPD2yWTR&pid=BP9KUfennUfms6JhVIF7ZoffPIFQ1epN&ref=https%3A%2F%2Fwww.mega.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=tJMdMy18jNmWQmyniegvtoc87ffrxzRvB0nfU8arZbgvcMvMGeECL08aX4RyyvOZhUJoVmF7ML1&es=cl-a7-i-e-nq1.cdn.mdstrm.com&ote=1672264209295&ot=zfDzc4G_bDf6aN2ogGwJ6w&proto=https&pz=cl
+
 #pagina web:https://www.mega.cl/senal-en-vivo/
 
 #EXTINF:-1 tvg-id="Canal 13 HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13 HD
@@ -607,5 +596,3 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Wil
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
 #pagina web 1:https://www.dailymotion.com/PanamericanaPTV
 #pagina web 2:https://panamericana.pe/tvenvivo
-
-
