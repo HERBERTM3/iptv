@@ -556,7 +556,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://unlimited10-cl.dps.live
 #pagina web:https://www.biobiochile.cl/biobiotv/
 
 #EXTINF:-1 tvg-id="Mega HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega HD
-
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #pagina web:https://www.mega.cl/senal-en-vivo/
 
 #EXTINF:-1 tvg-id="Canal 13 HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13 HD
