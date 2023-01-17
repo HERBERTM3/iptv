@@ -126,8 +126,14 @@ https://cdn.jwplayer.com/manifests/OWY4QHmV.m3u8
 #EXTINF:-1 tvg-id="33" tvg-logo="https://cdn.jwplayer.com/thumbs/wbEcUjsI-1280.jpg" group-title="Peliculas",Colateral (2004)
 https://cdn.jwplayer.com/manifests/wbEcUjsI.m3u8
 
+#EXTINF:-1 tvg-id="Shrek 2 (2004)" tvg-logo="https://content.jwplatform.com/v2/media/ZMs8PDl2/poster.jpg?width=720" group-title="Peliculas",Shrek 2 (2004)
+https://cdn.jwplayer.com/manifests/ZMs8PDl2.m3u8
+
 #EXTINF:-1 tvg-id="34" tvg-logo="https://cdn.jwplayer.com/thumbs/7Eu0eQCZ-1280.jpg" group-title="Peliculas",¿...y dónde están las rubias? (2004)
 https://cdn.jwplayer.com/thumbs/7Eu0eQCZ-1280.jpg
+
+#EXTINF:-1 tvg-id="Como si fuera la primera vez (2004)" tvg-logo="https://content.jwplatform.com/v2/media/NcJjoWbE/poster.jpg?width=720" group-title="Peliculas",Como si fuera la primera vez (2004)
+https://cdn.jwplayer.com/manifests/NcJjoWbE.m3u8
 
 #EXTINF:-1 tvg-id="35" tvg-logo="https://cdn.jwplayer.com/thumbs/03q5ktEp-1920.jpg" group-title="Peliculas",Constantine (2005)
 https://cdn.jwplayer.com/manifests/03q5ktEp.m3u8
@@ -135,8 +141,8 @@ https://cdn.jwplayer.com/manifests/03q5ktEp.m3u8
 #EXTINF:-1 tvg-id="36" tvg-logo="https://cdn.jwplayer.com/thumbs/CH9QRKbd-1280.jpg" group-title="Peliculas",Sr. Y Sra. Smith (2005)
 https://cdn.jwplayer.com/manifests/CH9QRKbd.m3u8
 
-#EXTINF:-1 tvg-id="37" tvg-logo="https://cdn.jwplayer.com/thumbs/qB9s74iJ-960.jpg" group-title="Peliculas",Madagascar 1 HQ (2005)
-https://cdn.jwplayer.com/manifests/qB9s74iJ.m3u8
+#EXTINF:-1 tvg-id="37" tvg-logo="https://cdn.jwplayer.com/thumbs/qB9s74iJ-960.jpg" group-title="Peliculas",Madagascar 1 (2005)
+https://cdn.jwplayer.com/manifests/TI7ptom4.m3u8
 
 #EXTINF:-1 tvg-id="38" tvg-logo="https://cdn.jwplayer.com/thumbs/da5kxY4t-1280.jpg" group-title="Peliculas",Zathura una Aventura Espacial(2005)
 https://cdn.jwplayer.com/manifests/da5kxY4t.m3u8
@@ -481,17 +487,18 @@ https://cdn.jwplayer.com/manifests/pwT84WCZ.m3u8
 
 #EXTINF:-1 tvg-id="132" tvg-logo="https://cdn.jwplayer.com/thumbs/aHaMrXAN-1280.jpg" group-title="Peliculas",Piratas Del Caribe 1 (2003)
 https://cdn.jwplayer.com/manifests/aHaMrXAN.m3u8
-
 #EXTINF:-1 tvg-id="133" tvg-logo="https://cdn.jwplayer.com/thumbs/nbrJ066D-1280.jpg" group-title="Peliculas",Piratas Del Caribe 2 (2006)
 https://cdn.jwplayer.com/manifests/nbrJ066D.m3u8
-
 #EXTINF:-1 tvg-id="134" tvg-logo="https://cdn.jwplayer.com/thumbs/0axWMZRM-1280.jpg" group-title="Peliculas",Piratas Del Caribe 3 (2017)
 https://cdn.jwplayer.com/manifests/0axWMZRM.m3u8
 
 
-
-
-
+#EXTINF:-1 tvg-id="Volver al Futuro I (1985)" tvg-logo="https://content.jwplatform.com/v2/media/kkmQq58u/poster.jpg?width=720" group-title="Peliculas",Volver al Futuro I (1985)
+https://cdn.jwplayer.com/manifests/kkmQq58u.m3u8
+#EXTINF:-1 tvg-id="Volver al Futuro II (1989)" tvg-logo="https://content.jwplatform.com/v2/media/FlbwpnMC/poster.jpg?width=720" group-title="Peliculas",Volver al Futuro II (1989)
+https://cdn.jwplayer.com/manifests/FlbwpnMC.m3u8
+#EXTINF:-1 tvg-id="Volver al Futuro III (1990)" tvg-logo="https://content.jwplatform.com/v2/media/U973IEzA/poster.jpg?width=720" group-title="Peliculas",Volver al Futuro III (1990)
+https://cdn.jwplayer.com/manifests/U973IEzA.m3u8
 
 
 #################################################################################################################################################
@@ -513,6 +520,11 @@ https://cdn.jwplayer.com/manifests/Np4hwYaP.m3u8
 https://cdn.jwplayer.com/manifests/lhG7z4bZ.m3u8
 #EXTINF:-1 tvg-id="Game of Thrones T7 - Capitulo 7" tvg-logo="https://content.jwplatform.com/v2/media/Gz8pMnYg/poster.jpg?width=720" group-title="Game of Thrones",Game of Thrones T7 - Capitulo 7
 https://cdn.jwplayer.com/manifests/Gz8pMnYg.m3u8
+
+
+#EXTINF:-1 tvg-id="Game of Thrones - Detras de camaras" tvg-logo="https://content.jwplatform.com/v2/media/Fovre8S7/poster.jpg?width=720"  group-title="Game of Thrones",Game of Thrones - Detras de camaras
+https://cdn.jwplayer.com/manifests/Fovre8S7.m3u8
+
 
 #################################################################################################################################################
 #EXTINF:-1 tvg-id="135" tvg-logo="https://content.jwplatform.com/v2/media/mX6bReZt/poster.jpg?width=720" group-title="Rome",Rome T1 - Capitulo 1
