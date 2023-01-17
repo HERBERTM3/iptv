@@ -207,6 +207,9 @@ https://cdn.jwplayer.com/manifests/Q5r2eRdV.m3u8
 #EXTINF:-1 tvg-id="57" tvg-logo="https://content.jwplatform.com/v2/media/7VCOkBX0/poster.jpg?width=720" group-title="Peliculas",2012 (2009)
 https://cdn.jwplayer.com/manifests/7VCOkBX0.m3u8
 
+#EXTINF:-1 tvg-id="Sector 9 (2009)" tvg-logo="https://content.jwplatform.com/v2/media/fteS91Zg/poster.jpg?width=720" group-title="Peliculas",Sector 9 (2009)
+https://cdn.jwplayer.com/manifests/fteS91Zg.m3u8
+
 #EXTINF:-1 tvg-id="58" tvg-logo="https://cdn.jwplayer.com/thumbs/YhAEndMC-1280.jpg" group-title="Peliculas",Megamente (2010)
 https://cdn.jwplayer.com/manifests/YhAEndMC.m3u8
 
@@ -215,6 +218,9 @@ https://cdn.jwplayer.com/manifests/IihVkpOm.m3u8
 
 #EXTINF:-1 tvg-id="60" tvg-logo="https://cdn.jwplayer.com/thumbs/MjS0jG1y-1280.jpg" group-title="Peliculas",Wall street 2 el dinero nunca duerme (2010)
 https://cdn.jwplayer.com/manifests/MjS0jG1y.m3u8
+
+#EXTINF:-1 tvg-id="Dos Inútiles en Patrulla (2010)" tvg-logo="https://content.jwplatform.com/v2/media/PNcW3yHy/poster.jpg?width=720" group-title="Peliculas",Dos Inútiles en Patrulla (2010)
+https://cdn.jwplayer.com/manifests/PNcW3yHy.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-logo="https://cdn.jwplayer.com/thumbs/IdKvAeRu-1280.jpg" group-title="Peliculas",El precio de la codicia (2011)
 https://cdn.jwplayer.com/manifests/IdKvAeRu.m3u8
