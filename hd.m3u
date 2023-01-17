@@ -510,6 +510,25 @@ https://cdn.jwplayer.com/manifests/U973IEzA.m3u8
 #################################################################################################################################################
 #EXTINF:-1 tvg-id="Game of Thrones T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/v79poqKF/poster.jpg?width=720" group-title="Game of Thrones",Game of Thrones T1 - Capitulo 1
 https://cdn.jwplayer.com/manifests/v79poqKF.m3u8
+#EXTINF:-1 tvg-id="Game of Thrones T1 - Capitulo 2" tvg-logo="https://content.jwplatform.com/v2/media/5kdjdj2T/poster.jpg?width=720" group-title="Game of Thrones",Game of Thrones T1 - Capitulo 2
+https://cdn.jwplayer.com/manifests/5kdjdj2T.m3u8
+#EXTINF:-1 tvg-id="Game of Thrones T1 - Capitulo 3" tvg-logo="https://content.jwplatform.com/v2/media/kuNZvkah/poster.jpg?width=720" group-title="Game of Thrones",Game of Thrones T1 - Capitulo 3
+https://cdn.jwplayer.com/manifests/kuNZvkah.m3u8
+#EXTINF:-1 tvg-id="Game of Thrones T1 - Capitulo 4" tvg-logo="https://content.jwplatform.com/v2/media/hfShUYbj/poster.jpg?width=720" group-title="Game of Thrones",Game of Thrones T1 - Capitulo 4
+https://cdn.jwplayer.com/manifests/hfShUYbj.m3u8
+#EXTINF:-1 tvg-id="Game of Thrones T1 - Capitulo 5" tvg-logo="https://content.jwplatform.com/v2/media/bwO1SrPQ/poster.jpg?width=720" group-title="Game of Thrones",Game of Thrones T1 - Capitulo 5
+https://cdn.jwplayer.com/manifests/bwO1SrPQ.m3u8
+#EXTINF:-1 tvg-id="Game of Thrones T1 - Capitulo 6" tvg-logo="https://content.jwplatform.com/v2/media/8guZcsSx/poster.jpg?width=720" group-title="Game of Thrones",Game of Thrones T1 - Capitulo 6
+https://cdn.jwplayer.com/manifests/8guZcsSx.m3u8
+#EXTINF:-1 tvg-id="Game of Thrones T1 - Capitulo 7" tvg-logo="https://content.jwplatform.com/v2/media/mMfrgd3B/poster.jpg?width=720" group-title="Game of Thrones",Game of Thrones T1 - Capitulo 7
+https://cdn.jwplayer.com/manifests/mMfrgd3B.m3u8
+#EXTINF:-1 tvg-id="Game of Thrones T1 - Capitulo 8" tvg-logo="https://content.jwplatform.com/v2/media/fUXb2jBn/poster.jpg?width=720" group-title="Game of Thrones",Game of Thrones T1 - Capitulo 8
+https://cdn.jwplayer.com/manifests/fUXb2jBn.m3u8
+#EXTINF:-1 tvg-id="Game of Thrones T1 - Capitulo 9" tvg-logo="https://content.jwplatform.com/v2/media/tLgXQ4Iu/poster.jpg?width=720" group-title="Game of Thrones",Game of Thrones T1 - Capitulo 9
+https://cdn.jwplayer.com/manifests/tLgXQ4Iu.m3u8
+#EXTINF:-1 tvg-id="Game of Thrones T1 - Capitulo 10" tvg-logo="https://content.jwplatform.com/v2/media/2cSWexeO/poster.jpg?width=720" group-title="Game of Thrones",Game of Thrones T1 - Capitulo 10
+https://cdn.jwplayer.com/manifests/2cSWexeO.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Game of Thrones T7 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/Z7CJGgmq/poster.jpg?width=720" group-title="Game of Thrones",Game of Thrones T7 - Capitulo 1
