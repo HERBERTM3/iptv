@@ -189,6 +189,9 @@ https://cdn.jwplayer.com/manifests/qfHB4jAs.m3u8
 #EXTINF:-1 tvg-id="51" tvg-logo="https://content.jwplatform.com/v2/media/uoWNLRgd/poster.jpg?width=720" group-title="Peliculas",El curioso caso de benjamin button (2008)
 https://cdn.jwplayer.com/manifests/uoWNLRgd.m3u8
 
+#EXTINF:-1 tvg-id="Jumper (2008)" tvg-logo="https://content.jwplatform.com/v2/media/PGwhDLK2/poster.jpg?width=720" group-title="Peliculas",Jumper (2008)
+https://cdn.jwplayer.com/manifests/PGwhDLK2.m3u8
+
 #EXTINF:-1 tvg-id="52" tvg-logo="https://cdn.jwplayer.com/thumbs/jpaugSDb-1280.jpg" group-title="Peliculas",Avatar 1 (2009)
 https://cdn.jwplayer.com/manifests/jpaugSDb.m3u8
 
