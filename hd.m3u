@@ -637,6 +637,11 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 https://unlimited10-cl.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?nimblesessionid=277269170
 #pagina web:https://www.biobiochile.cl/biobiotv/
 
+
+#EXTINF:-1 tvg-id="Telecanal HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Telecanal.jpg" group-title="Televisión",Telecanal HD
+https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-id="La Red HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/lared.jpg" group-title="Televisión",La Red HD
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #pagina web:https://www.lared.cl/senal-online
