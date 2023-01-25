@@ -675,6 +675,10 @@ https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 #pagina web:https://www.13.cl/en-vivo
 
+#EXTINF:-1 tvg-id="13 Entretenimiento HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/13Entretencion.jpg" group-title="Televisión",13 Entretenimiento HD
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
+#pagina web:https://www.13.cl/en-vivo
+
 
 
 #EXTINF:-1 tvg-id="Tevex" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tevex.jpg" group-title="Televisión",Tevex
