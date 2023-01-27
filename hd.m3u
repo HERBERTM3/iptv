@@ -634,7 +634,7 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 #pagina web:https://www.carolina.cl/tv/
 
 #EXTINF:-1 tvg-id="Radio Bio Bio TV" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/biobio.jpg" group-title="Televisión",Radio Bio Bio TV
-https://unlimited10-cl.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?nimblesessionid=277269170
+https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
 #pagina web:https://www.biobiochile.cl/biobiotv/
 
 #EXTINF:-1 tvg-id="Radio ADN HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Radio ADN.jpg" group-title="Televisión",Radio ADN TV HD
