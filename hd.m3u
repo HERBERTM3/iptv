@@ -739,31 +739,39 @@ https://cdn.jwplayer.com/manifests/9775T5VU.m3u8
 
 #################################################################################################################################################
 
-#EXTINF:-1 tvg-id="Chernobyl T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/La75oAzj/poster.jpg?width=720" group-title="Serie: Chernobyl",Chernobyl T1 - Capitulo 1
-https://cdn.jwplayer.com/manifests/La75oAzj.m3u8
-#EXTINF:-1 tvg-id="Chernobyl T1 - Capitulo 2" tvg-logo="https://content.jwplatform.com/v2/media/qYOxYaYx/poster.jpg?width=720" group-title="Serie: Chernobyl",Chernobyl T1 - Capitulo 2
-https://cdn.jwplayer.com/manifests/qYOxYaYx.m3u8
-#EXTINF:-1 tvg-id="Chernobyl T1 - Capitulo 3" tvg-logo="https://content.jwplatform.com/v2/media/LFSly761/poster.jpg?width=720" group-title="Serie: Chernobyl",Chernobyl T1 - Capitulo 3
-https://cdn.jwplayer.com/manifests/LFSly761.m3u8
-#EXTINF:-1 tvg-id="Chernobyl T1 - Capitulo 4" tvg-logo="https://content.jwplatform.com/v2/media/La75oAzj/poster.jpg?width=720" group-title="Serie: Chernobyl",Chernobyl T1 - Capitulo 4
-https://cdn.jwplayer.com/manifests/La75oAzj.m3u8
-#EXTINF:-1 tvg-id="Chernobyl T1 - Capitulo 5" tvg-logo="https://content.jwplatform.com/v2/media/t15TZdVX/poster.jpg?width=720" group-title="Serie: Chernobyl",Chernobyl T1 - Capitulo 5
-https://cdn.jwplayer.com/manifests/t15TZdVX.m3u8
+#EXTINF:-1 tvg-id="Chernobyl T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/SpaS6IxV/poster.jpg?width=720" group-title="Serie: Chernobyl",Chernobyl T1 - Capitulo 1
+https://cdn.jwplayer.com/manifests/SpaS6IxV.m3u8
+#EXTINF:-1 tvg-id="Chernobyl T1 - Capitulo 2" tvg-logo="https://content.jwplatform.com/v2/media/ZRA17Awi/poster.jpg?width=720" group-title="Serie: Chernobyl",Chernobyl T1 - Capitulo 2
+https://cdn.jwplayer.com/manifests/ZRA17Awi.m3u8
+#EXTINF:-1 tvg-id="Chernobyl T1 - Capitulo 3" tvg-logo="https://content.jwplatform.com/v2/media/ivEKTt8Q/poster.jpg?width=720" group-title="Serie: Chernobyl",Chernobyl T1 - Capitulo 3
+https://cdn.jwplayer.com/manifests/ivEKTt8Q.m3u8
+#EXTINF:-1 tvg-id="Chernobyl T1 - Capitulo 4" tvg-logo="https://content.jwplatform.com/v2/media/ME8ohFf6/poster.jpg?width=720" group-title="Serie: Chernobyl",Chernobyl T1 - Capitulo 4
+https://cdn.jwplayer.com/manifests/ME8ohFf6.m3u8
+#EXTINF:-1 tvg-id="Chernobyl T1 - Capitulo 5" tvg-logo="https://content.jwplatform.com/v2/media/Uyioq8mI/poster.jpg?width=720" group-title="Serie: Chernobyl",Chernobyl T1 - Capitulo 5
+https://cdn.jwplayer.com/manifests/Uyioq8mI.m3u8
 
 #################################################################################################################################################
-#EXTINF:-1 tvg-id="Prison Break T1" tvg-logo="https://content.jwplatform.com/v2/media/La75oAzj/poster.jpg?width=720" group-title="Serie: Prison Break",Prison Break T1
+#EXTINF:-1 tvg-id="Prison Break T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/La75oAzj/poster.jpg?width=720" group-title="Serie: Prison Break",Prison Break T1
 https://cdn.jwplayer.com/manifests/La75oAzj.m3u8
 #################################################################################################################################################
-#EXTINF:-1 tvg-id="Suits T1" tvg-logo="https://content.jwplatform.com/v2/media/La75oAzj/poster.jpg?width=720" group-title="Serie: Suits",Suits T1
+#EXTINF:-1 tvg-id="Suits T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/La75oAzj/poster.jpg?width=720" group-title="Serie: Suits",Suits T1
 https://cdn.jwplayer.com/manifests/La75oAzj.m3u8
 
 #################################################################################################################################################
-#EXTINF:-1 tvg-id="Spartacus T1" tvg-logo="https://content.jwplatform.com/v2/media/La75oAzj/poster.jpg?width=720" group-title="Serie: Spartacus",Spartacus T1
+#EXTINF:-1 tvg-id="Spartacus T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/La75oAzj/poster.jpg?width=720" group-title="Serie: Spartacus",Spartacus T1
 https://cdn.jwplayer.com/manifests/La75oAzj.m3u8
 #################################################################################################################################################
-#EXTINF:-1 tvg-id="Spartacus T1" tvg-logo="https://content.jwplatform.com/v2/media/La75oAzj/poster.jpg?width=720" group-title="Serie: Spartacus",Spartacus T1
+#EXTINF:-1 tvg-id="Spartacus T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/La75oAzj/poster.jpg?width=720" group-title="Serie: Spartacus",Spartacus T1
 https://cdn.jwplayer.com/manifests/La75oAzj.m3u8
-
+#################################################################################################################################################
+#EXTINF:-1 tvg-id="Jesus de Nazareth T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/ilL1jMdW/poster.jpg?width=720" group-title="Serie: Jesus de Nazareth",Jesus de Nazareth T1 - Capitulo 1
+https://cdn.jwplayer.com/manifests/ilL1jMdW.m3u8
+#EXTINF:-1 tvg-id="Jesus de Nazareth T1 - Capitulo 2" tvg-logo="https://content.jwplatform.com/v2/media/q3u1mDze/poster.jpg?width=720" group-title="Serie: Jesus de Nazareth",Jesus de Nazareth T1 - Capitulo 2
+https://cdn.jwplayer.com/manifests/q3u1mDze.m3u8
+#EXTINF:-1 tvg-id="Jesus de Nazareth T1 - Capitulo 3" tvg-logo="https://content.jwplatform.com/v2/media/jLwkjcxK/poster.jpg?width=720" group-title="Serie: Jesus de Nazareth",Jesus de Nazareth T1 - Capitulo 3
+https://cdn.jwplayer.com/manifests/jLwkjcxK.m3u8
+#EXTINF:-1 tvg-id="Jesus de Nazareth T1 - Capitulo 4" tvg-logo="https://content.jwplatform.com/v2/media/5oT3Yykj/poster.jpg?width=720" group-title="Serie: Jesus de Nazareth",Jesus de Nazareth T1 - Capitulo 4
+https://cdn.jwplayer.com/manifests/5oT3Yykj.m3u8
 
 #################################################################################################################################################
 
