@@ -138,6 +138,15 @@ https://cdn.jwplayer.com/thumbs/7Eu0eQCZ-1280.jpg
 #EXTINF:-1 tvg-id="Como si fuera la primera vez (2004)" tvg-logo="https://content.jwplatform.com/v2/media/NcJjoWbE/poster.jpg?width=720" group-title="Peliculas",Como si fuera la primera vez (2004)
 https://cdn.jwplayer.com/manifests/NcJjoWbE.m3u8
 
+
+
+#EXTINF:-1 tvg-id="34" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/TpVWMt9s-720.jpg" group-title="Peliculas",El Día Después de Mañana (2004
+https://cdn.jwplayer.com/manifests/TpVWMt9s.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="35" tvg-logo="https://cdn.jwplayer.com/thumbs/03q5ktEp-1920.jpg" group-title="Peliculas",Constantine (2005)
 https://cdn.jwplayer.com/manifests/03q5ktEp.m3u8
 
