@@ -561,6 +561,21 @@ https://cdn.jwplayer.com/manifests/FlbwpnMC.m3u8
 https://cdn.jwplayer.com/manifests/U973IEzA.m3u8
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="El Padrino: Parte I" tvg-logo="https://cdn.jwplayer.com/thumbs/0axWMZRM-1280.jpg" group-title="Peliculas",El Padrino: Parte I
+https://cdn.jwplayer.com/manifests/EW2jE12m.m3u8
+
+#EXTINF:-1 tvg-id="El Padrino: Parte II" tvg-logo="https://cdn.jwplayer.com/thumbs/0axWMZRM-1280.jpg" group-title="Peliculas",El Padrino: Parte II
+https://cdn.jwplayer.com/manifests/benLIyDr.m3u8
+
+#EXTINF:-1 tvg-id="El Padrino: Parte III" tvg-logo="https://cdn.jwplayer.com/thumbs/0axWMZRM-1280.jpg" group-title="Peliculas",El Padrino: Parte III
+https://cdn.jwplayer.com/manifests/EFShqMMJ.m3u8
+
+
+
 #################################################################################################################################################
 #EXTINF:-1 tvg-id="Game of Thrones T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/v79poqKF/poster.jpg?width=720" group-title="Serie: Game of Thrones",Game of Thrones T1 - Capitulo 1
 https://cdn.jwplayer.com/manifests/v79poqKF.m3u8
