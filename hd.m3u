@@ -82,6 +82,9 @@ https://cdn.jwplayer.com/manifests/6xi76kcK.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo="https://cdn.jwplayer.com/thumbs/1SXJMmz5-960.jpg" group-title="Peliculas",El camino hacia el Dorado 1 - Netflix (2000)
 https://cdn.jwplayer.com/manifests/WsJGV881.m3u8
 
+#EXTINF:-1 tvg-id="Gladiador (2000)" tvg-logo="https://cdn.jwplayer.com/thumbs/hD8K5HXA-720.jpg" group-title="Peliculas",Gladiador (2000)
+https://cdn.jwplayer.com/manifests/hD8K5HXA.m3u8
+
 #EXTINF:-1 tvg-id="19" tvg-logo="https://cdn.jwplayer.com/thumbs/ztfljVZv-1280.jpg" group-title="Peliculas",La Caída Del Halcón Negro (2001)
 https://cdn.jwplayer.com/manifests/ztfljVZv.m3u8
 
@@ -142,18 +145,14 @@ https://cdn.jwplayer.com/manifests/ZMs8PDl2.m3u8
 #EXTINF:-1 tvg-id="34" tvg-logo="https://cdn.jwplayer.com/thumbs/7Eu0eQCZ-1280.jpg" group-title="Peliculas",¿...y dónde están las rubias? (2004)
 https://cdn.jwplayer.com/manifests/7Eu0eQCZ.m3u8
 
-
 #EXTINF:-1 tvg-id="Como si fuera la primera vez (2004)" tvg-logo="https://content.jwplatform.com/v2/media/NcJjoWbE/poster.jpg?width=720" group-title="Peliculas",Como si fuera la primera vez (2004)
 https://cdn.jwplayer.com/manifests/NcJjoWbE.m3u8
-
-
 
 #EXTINF:-1 tvg-id="El Día Después de Mañana (2004)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/TpVWMt9s-720.jpg" group-title="Peliculas",El Día Después de Mañana (2004
 https://cdn.jwplayer.com/manifests/TpVWMt9s.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="Kung Fusión (2004)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/lLU0qi9g-720.jpg" group-title="Peliculas",Kung Fusión (2004)
+https://cdn.jwplayer.com/manifests/lLU0qi9g.m3u8
 
 #EXTINF:-1 tvg-id="35" tvg-logo="https://cdn.jwplayer.com/thumbs/03q5ktEp-1920.jpg" group-title="Peliculas",Constantine (2005)
 https://cdn.jwplayer.com/manifests/03q5ktEp.m3u8
@@ -304,6 +303,13 @@ https://cdn.jwplayer.com/manifests/GVCKKdS8.m3u8
 
 #EXTINF:-1 tvg-id="Joy - el nombre del éxito (2015)" tvg-logo="https://content.jwplatform.com/v2/media/CjYhEgOX/poster.jpg?width=720" group-title="Peliculas",Joy - el nombre del éxito (2015)
 https://cdn.jwplayer.com/manifests/CjYhEgOX.m3u8
+
+#EXTINF:-1 tvg-id="Una buena receta (2015)" tvg-logo="https://content.jwplatform.com/v2/media/vEBBxohO/poster.jpg?width=720" group-title="Peliculas",Una buena receta (2015)
+https://cdn.jwplayer.com/manifests/vEBBxohO.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="69" tvg-logo="https://cdn.jwplayer.com/thumbs/0G2uwVnm-1920.jpg" group-title="Peliculas",Warcraft, el primer encuentro de dos mundos (2016)
 https://cdn.jwplayer.com/manifests/0G2uwVnm.m3u8
