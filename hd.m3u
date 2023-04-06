@@ -398,6 +398,10 @@ https://cdn.jwplayer.com/manifests/uZwRAstv.m3u8
 #EXTINF:-1 tvg-id="96" tvg-logo="https://cdn.jwplayer.com/thumbs/BAG9ZvTB-1280.jpg" group-title="Peliculas",Greyhound en la mira del enemigo (2020)
 https://cdn.jwplayer.com/manifests/BAG9ZvTB.m3u8
 
+#EXTINF:-1 tvg-id="https://assets-jpcust.jwpsrv.com/thumbs/xcPmTxGQ-720.jpg" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/xcPmTxGQ-720.jpg" group-title="Peliculas",Amor de gata (2020)
+https://cdn.jwplayer.com/manifests/xcPmTxGQ.m3u8
+
+
 #EXTINF:-1 tvg-id="97" tvg-logo="https://cdn.jwplayer.com/thumbs/nDZNfqR8-1280.jpg" group-title="Peliculas",Finch (2021)
 https://cdn.jwplayer.com/manifests/nDZNfqR8.m3u8
 
