@@ -133,14 +133,15 @@ https://cdn.jwplayer.com/manifests/wbEcUjsI.m3u8
 https://cdn.jwplayer.com/manifests/ZMs8PDl2.m3u8
 
 #EXTINF:-1 tvg-id="34" tvg-logo="https://cdn.jwplayer.com/thumbs/7Eu0eQCZ-1280.jpg" group-title="Peliculas",¿...y dónde están las rubias? (2004)
-https://cdn.jwplayer.com/thumbs/7Eu0eQCZ-1280.jpg
+https://cdn.jwplayer.com/manifests/7Eu0eQCZ.m3u8
+
 
 #EXTINF:-1 tvg-id="Como si fuera la primera vez (2004)" tvg-logo="https://content.jwplatform.com/v2/media/NcJjoWbE/poster.jpg?width=720" group-title="Peliculas",Como si fuera la primera vez (2004)
 https://cdn.jwplayer.com/manifests/NcJjoWbE.m3u8
 
 
 
-#EXTINF:-1 tvg-id="34" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/TpVWMt9s-720.jpg" group-title="Peliculas",El Día Después de Mañana (2004
+#EXTINF:-1 tvg-id="El Día Después de Mañana (2004)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/TpVWMt9s-720.jpg" group-title="Peliculas",El Día Después de Mañana (2004
 https://cdn.jwplayer.com/manifests/TpVWMt9s.m3u8
 
 
