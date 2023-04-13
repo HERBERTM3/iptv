@@ -1,8 +1,7 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-id="Tráiler Español Latino 2" tvg-logo="https://cdn.jwplayer.com/thumbs/ZkozGkIs-1280.jpg" group-title="Peliculas",Tráiler Español Latino 2
+#EXTINF:-1 tvg-id="El Poder y la Avaricia (1987)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/3xgYB1m3-720.jpg" group-title="Peliculas",El Poder y la Avaricia (1987)
 https://cdn.jwplayer.com/manifests/ZkozGkIs.m3u8
-
 
 #EXTINF:-1 tvg-id="Tráiler Español Latino 1" tvg-logo="https://cdn.jwplayer.com/thumbs/ZkozGkIs-1280.jpg" group-title="Peliculas",Tráiler Español Latino 1
 https://cdn.jwplayer.com/manifests/ZkozGkIs.m3u8
