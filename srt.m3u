@@ -1,5 +1,5 @@
 
-#EXTM3U x-tvg-url=""
+#EXTM3U:
 
 #EXTINF:-1 tvg-id="Tráiler Español Latino" tvg-logo="https://cdn.jwplayer.com/thumbs/ZkozGkIs-1280.jpg" group-title="Peliculas" subtitles="https://content.jwplatform.com/tracks/XCi3SPw1.srt",Tráiler Español Latino
 https://cdn.jwplayer.com/manifests/ZkozGkIs.m3u8
