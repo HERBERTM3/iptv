@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url=""
 
+#EXTINF:-1 tvg-id="Pinocho de Guillermo del Toro (2022)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/9W4ZRIcN-720.jpg" group-title="Peliculas",Pinocho de Guillermo del Toro (2022)
+https://cdn.jwplayer.com/manifests/9W4ZRIcN.m3u8
 
 #EXTINF:-1 tvg-id="El Poder y la Avaricia (1987)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/3xgYB1m3-720.jpg" group-title="Peliculas",El Poder y la Avaricia (1987)
 https://cdn.jwplayer.com/manifests/3xgYB1m3.m3u8
