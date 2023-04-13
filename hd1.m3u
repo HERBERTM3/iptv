@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=440000,RESOLUTION=640x360,CODECS="mp4a.40.2,avc1.4d401e",FRAME-RATE=24.0,CLOSED-CAPTIONS=NONE,AUDIO="audio"
+https://videos-cloudfront.jwpsrv.com/64391d63_bc90ae89c8897f45beef9dd1eff6d49bd18a748e/video/content/conversions/Ca547KXu/videos/gnXTRmFc-34530023.mp4.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2370000,RESOLUTION=1920x1080,CODECS="mp4a.40.2,avc1.640028",FRAME-RATE=24.0,CLOSED-CAPTIONS=NONE,AUDIO="audio"
+https://videos-cloudfront.jwpsrv.com/64391d63_756f11da01e71ba7a4a78a5fa9a1e17080dd333b/video/content/conversions/Ca547KXu/videos/gnXTRmFc-34530022.mp4.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1310000,RESOLUTION=1280x720,CODECS="mp4a.40.2,avc1.4d401f",FRAME-RATE=24.0,CLOSED-CAPTIONS=NONE,AUDIO="audio"
+https://videos-cloudfront.jwpsrv.com/64391d63_3592b21a8248bcfe4a3ecf8d3348c22c237ac5ae/video/content/conversions/Ca547KXu/videos/gnXTRmFc-34530019.mp4.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=740000,RESOLUTION=960x540,CODECS="mp4a.40.2,avc1.4d401f",FRAME-RATE=24.0,CLOSED-CAPTIONS=NONE,AUDIO="audio"
+https://videos-cloudfront.jwpsrv.com/64391d63_3d444bbea076af69c3da1f7d13ec9ab1fb05fe59/video/content/conversions/Ca547KXu/videos/gnXTRmFc-34530024.mp4.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=370000,RESOLUTION=480x270,CODECS="mp4a.40.2,avc1.42c015",FRAME-RATE=24.0,CLOSED-CAPTIONS=NONE,AUDIO="audio"
+https://videos-cloudfront.jwpsrv.com/64391d63_593fb66cecc01966724fafcfc2e2d1dd8e934c2c/video/content/conversions/Ca547KXu/videos/gnXTRmFc-34530018.mp4.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=250000,RESOLUTION=320x180,CODECS="mp4a.40.2,avc1.42c00d",FRAME-RATE=24.0,CLOSED-CAPTIONS=NONE,AUDIO="audio"
+https://videos-cloudfront.jwpsrv.com/64391d63_b4b09da4e3c52c3a9fbaafbb01c378d464a521c7/video/content/conversions/Ca547KXu/videos/gnXTRmFc-34530017.mp4.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=120000,CODECS="mp4a.40.2",AUDIO="audio"
+https://videos-cloudfront.jwpsrv.com/64391d63_70735abfba96bf44188a147f7d51dbfe9482168f/content/conversions/Ca547KXu/videos/gnXTRmFc-34530021.m4a.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Default Audio",URI="https://videos-cloudfront.jwpsrv.com/64391d63_0f79545de1033dfc81cc3c294dd6aeba4ec337a3/audio/content/conversions/Ca547KXu/videos/gnXTRmFc-34530023.mp4.m3u8",DEFAULT=YES,AUTOSELECT=YES
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Default Audio 5.1",URI="https://videos-cloudfront.jwpsrv.com/64391d63_6668e809cbce9c9890054c64ebc301fd20abe0d5/audio/content/conversions/Ca547KXu/videos/gnXTRmFc-34530022.mp4.m3u8",DEFAULT=YES,AUTOSELECT=YES
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Español",LANGUAGE="ES",URI="https://videos-cloudfront.jwpsrv.com/64391d63_c6015e5c31c64546b19cd50ef5f5b5d5412208f4/content/site/Ca547KXu/media/9W4ZRIcN/audio_rendition/oB8boXz4.m4a.m3u8",DEFAULT=NO,AUTOSELECT=NO
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Español 5.1",LANGUAGE="ES",URI="https://videos-cloudfront.jwpsrv.com/64391d63_528364d3655f4eb0c647b11747ab2a0932a98da1/content/site/Ca547KXu/media/9W4ZRIcN/audio_rendition/DLAP4b45.m4a.m3u8",DEFAULT=NO,AUTOSELECT=NO
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Inglés",LANGUAGE="EN",URI="https://videos-cloudfront.jwpsrv.com/64391d63_f13ed65a17ae31fb39fb7f62bc8b0e8b96ed318d/content/site/Ca547KXu/media/9W4ZRIcN/audio_rendition/v734OHQR.m4a.m3u8",DEFAULT=NO,AUTOSELECT=NO
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Inglés 5.1",LANGUAGE="EN",URI="https://videos-cloudfront.jwpsrv.com/64391d63_79c5b4df9964a61cd2f5508421e25b0ff991e031/content/site/Ca547KXu/media/9W4ZRIcN/audio_rendition/fNqEOtW7.m4a.m3u8",DEFAULT=NO,AUTOSELECT=NO
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Portugués",LANGUAGE="PT",URI="https://videos-cloudfront.jwpsrv.com/64391d63_19b6eadcd3f61f4a1d3ab9c02b524198b013da4a/content/site/Ca547KXu/media/9W4ZRIcN/audio_rendition/PyqbOOUx.m4a.m3u8",DEFAULT=NO,AUTOSELECT=NO
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Portugués 5.1",LANGUAGE="PT",URI="https://videos-cloudfront.jwpsrv.com/64391d63_2102c46231f82dba7f75c8b6c4c8ff1fb5508aae/content/site/Ca547KXu/media/9W4ZRIcN/audio_rendition/B48IGgqI.m4a.m3u8",DEFAULT=NO,AUTOSELECT=NO
+
