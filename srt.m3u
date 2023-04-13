@@ -2,3 +2,7 @@
 
 #EXTINF:-1 tvg-id="Tráiler Español Latino 2" tvg-logo="https://cdn.jwplayer.com/thumbs/ZkozGkIs-1280.jpg" group-title="Peliculas",Tráiler Español Latino 2
 https://cdn.jwplayer.com/manifests/ZkozGkIs.m3u8
+
+
+#EXTINF:-1 tvg-id="Tráiler Español Latino 1" tvg-logo="https://cdn.jwplayer.com/thumbs/ZkozGkIs-1280.jpg" group-title="Peliculas",Tráiler Español Latino 1
+https://cdn.jwplayer.com/manifests/ZkozGkIs.m3u8
