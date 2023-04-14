@@ -856,15 +856,12 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
 #pagina web:https://www.lared.cl/senal-online
 
-
-
 #EXTINF:-1 tvg-id="TVN HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="Televisión",TVN HD
 https://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?access_token=8NQsDpjhtrohUuxWLYi3yhfqQHa9px8F3UXAMSZabFAA0rIwwp4KIQdALoyr9qyy3ez7gi4DDo6
 #pagina web:https://www.tvn.cl/en-vivo
 
-
-
 #EXTINF:-1 tvg-id="Mega HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega HD
+https://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8?access_token=Ef7L1dXUA7JIsOJbPM25OK9V2G1vjA4HijuWPpKc2XDwCdfoJptZRcERzUxLmE7ORlr4iMwFLFl
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #pagina web:https://www.mega.cl/senal-en-vivo/
 
@@ -878,14 +875,9 @@ https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863
 https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/c324fc24-b910-4698-bba2-3b9fdbf8fade:SCL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2525600.m3u8
 #pagina web:https://www.13.cl/en-vivo
 
-
-
-
 #EXTINF:-1 tvg-id="Canal 13 HD (No 24/7)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13 HD (No 24/7)
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 #pagina web:https://www.youtube.com/@tele13
-
-
 
 #EXTINF:-1 tvg-id="13 Teleseries HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/13Teleseries.jpg" group-title="Televisión",13 Teleseries HD
 https://dai.google.com/linear/hls/pa/event/f4TrySe8SoiGF8Lu3EIq1g/stream/0837bc56-3b99-46ce-91fa-215feeed4477:SCL/variant/e9636fcc83b2a21b94fc9e738091aa8f/bandwidth/1692504.m3u8
