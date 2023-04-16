@@ -837,6 +837,9 @@ https://mdstrm.com/live-stream-playlist-v/63a06468117f42713374addd.m3u8?access_t
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/carolinatv/carolinatv.smil/playlist.m3u8
 #pagina web:https://www.carolina.cl/tv/
 
+#EXTINF:-1 tvg-id="91381" tvg-name="Radio Agricultura" tvg-logo="https://lh3.googleusercontent.com/-nMa_IsPVRQ0/Xdsii8vjPBI/AAAAAAAAsVI/py8vvCsRNGIuvDA62hxD62S6L29wmGOzACK8BGAsYHg/s0/2019-11-24.png", Radio Agricultura
+https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="Radio Bio Bio TV" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/biobio.jpg" group-title="Televisión",Radio Bio Bio TV
 https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
 #pagina web:https://www.biobiochile.cl/biobiotv/
@@ -861,6 +864,25 @@ https://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?access_t
 #pagina web:https://www.tvn.cl/en-vivo
 #token:https://live.tvn.cl
 #herramienta para ver el token:https://codebeautify.org/source-code-viewer
+
+#EXTINF:-1 tvg-id="TVN HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="Televisión",NTV HD
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#pagina web:https://mdstrm.com/live-stream/5aaabe9e2c56420918184c6d
+#Sin token
+#herramienta para ver el token:https://codebeautify.org/source-code-viewer
+
+#EXTINF:-1 tvg-id="TVN HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="Televisión",24 PLAY HD
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#pagina web:https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab
+#Sin token
+#herramienta para ver el token:https://codebeautify.org/source-code-viewer
+
+#EXTINF:-1 tvg-id="TVN HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="Televisión",TV CHILE HD
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#pagina web:https://mdstrm.com/live-stream/533adcc949386ce765657d7c
+#Sin token
+#herramienta para ver el token:https://codebeautify.org/source-code-viewer
+
 
 #EXTINF:-1 tvg-id="Mega HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega HD
 https://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8?access_token=Ef7L1dXUA7JIsOJbPM25OK9V2G1vjA4HijuWPpKc2XDwCdfoJptZRcERzUxLmE7ORlr4iMwFLFl
