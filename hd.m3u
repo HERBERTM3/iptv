@@ -857,8 +857,10 @@ https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
 #pagina web:https://www.lared.cl/senal-online
 
 #EXTINF:-1 tvg-id="TVN HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="Televisión",TVN HD
-https://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?access_token=8NQsDpjhtrohUuxWLYi3yhfqQHa9px8F3UXAMSZabFAA0rIwwp4KIQdALoyr9qyy3ez7gi4DDo6
+https://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?access_token=i023mNJiToI0xxb89lAqg1wWzp33eacyS18jlrkJpCfQ3tKLEHYVr7KYXrUJWEqNWQ5HNAdX0Jj
 #pagina web:https://www.tvn.cl/en-vivo
+#token:https://live.tvn.cl
+#herramienta para ver el token:https://codebeautify.org/source-code-viewer
 
 #EXTINF:-1 tvg-id="Mega HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega HD
 https://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8?access_token=Ef7L1dXUA7JIsOJbPM25OK9V2G1vjA4HijuWPpKc2XDwCdfoJptZRcERzUxLmE7ORlr4iMwFLFl
