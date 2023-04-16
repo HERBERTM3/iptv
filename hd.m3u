@@ -837,11 +837,12 @@ https://mdstrm.com/live-stream-playlist-v/63a06468117f42713374addd.m3u8?access_t
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/carolinatv/carolinatv.smil/playlist.m3u8
 #pagina web:https://www.carolina.cl/tv/
 
-#EXTINF:-1 tvg-id="91381" tvg-name="Radio Agricultura" tvg-logo="https://lh3.googleusercontent.com/-nMa_IsPVRQ0/Xdsii8vjPBI/AAAAAAAAsVI/py8vvCsRNGIuvDA62hxD62S6L29wmGOzACK8BGAsYHg/s0/2019-11-24.png", Radio Agricultura
-https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Radio Agricultura" tvg-logo="https://lh3.googleusercontent.com/-nMa_IsPVRQ0/Xdsii8vjPBI/AAAAAAAAsVI/py8vvCsRNGIuvDA62hxD62S6L29wmGOzACK8BGAsYHg/s0/2019-11-24.png" group-title="Televisión",Radio Agricultura
+https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8
+#pagina web:
 
 #EXTINF:-1 tvg-id="Radio Bio Bio TV" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/biobio.jpg" group-title="Televisión",Radio Bio Bio TV
-https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8
 #pagina web:https://www.biobiochile.cl/biobiotv/
 
 #EXTINF:-1 tvg-id="Radio ADN HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Radio ADN.jpg" group-title="Televisión",Radio ADN TV HD
