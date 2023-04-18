@@ -958,7 +958,7 @@ https://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?access_t
 #token:https://live.tvn.cl
 #herramienta para ver el token:https://codebeautify.org/source-code-viewer
 
-#EXTINF:-1 tvg-id="TVN HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="Televisión",NTV HD
+#EXTINF:-1 tvg-id="TVN HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/ntv.jpg" group-title="Televisión",NTV HD
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #pagina web:https://mdstrm.com/live-stream/5aaabe9e2c56420918184c6d
 #Sin token
