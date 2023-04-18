@@ -997,12 +997,9 @@ https://mdstrm.com/live-stream-playlist-v/5c928b7f6d6f41084bdae898.m3u8?access_t
 https://i.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
 #pagina web:https://pluto.tv/es/live-tv/chilevision-noticias
 
-
-#EXTINF:-1 tvg-id="Chilevisión contigo (Pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Chilevisión_contigo.jpg" group-title="Televisión",Chilevisión contigo (pluto tv)
+#EXTINF:-1 tvg-id="Chilevisión contigo (Pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Chilevisi%C3%B3n_contigo.jpg" group-title="Televisión",Chilevisión contigo (pluto tv)
 https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
 #pagina web:https://pluto.tv/es/live-tv/chilevision-contigo
-
-
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13
 https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8?dpssid=b216282632363ab4a6657ffb&sid=bh4cl126054111963ac3d195c92b&ref=www.13.cl
