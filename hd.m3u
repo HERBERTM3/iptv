@@ -849,7 +849,26 @@ https://cdn.jwplayer.com/manifests/3n1adsLM.m3u8
 #EXTINF:-1 tvg-id="Prison Break T1 - Capitulo 22" tvg-logo="https://content.jwplatform.com/v2/media/e0znR1EW/poster.jpg?width=720" group-title="Serie: Prison Break",Prison Break T1 - Capitulo 22
 https://cdn.jwplayer.com/manifests/e0znR1EW.m3u8
 
-
+#EXTINF:-1 tvg-id="Prison Break T2 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/7FCG0E5x/poster.jpg?width=720" group-title="Serie: Prison Break",Prison Break T2 - Capitulo 1
+https://cdn.jwplayer.com/manifests/7FCG0E5x.m3u8
+#EXTINF:-1 tvg-id="Prison Break T2 - Capitulo 2" tvg-logo="https://content.jwplatform.com/v2/media/6ZzjQoVz/poster.jpg?width=720" group-title="Serie: Prison Break",Prison Break T2 - Capitulo 2
+https://cdn.jwplayer.com/manifests/6ZzjQoVz.m3u8
+#EXTINF:-1 tvg-id="Prison Break T2 - Capitulo 3" tvg-logo="https://content.jwplatform.com/v2/media/MTBwm9Nt/poster.jpg?width=720" group-title="Serie: Prison Break",Prison Break T2 - Capitulo 3
+https://cdn.jwplayer.com/manifests/MTBwm9Nt.m3u8
+#EXTINF:-1 tvg-id="Prison Break T2 - Capitulo 4" tvg-logo="https://content.jwplatform.com/v2/media/mrVZcG9e/poster.jpg?width=720" group-title="Serie: Prison Break",Prison Break T2 - Capitulo 4
+https://cdn.jwplayer.com/manifests/mrVZcG9e.m3u8
+#EXTINF:-1 tvg-id="Prison Break T2 - Capitulo 5" tvg-logo="https://content.jwplatform.com/v2/media/0V7i7bdz/poster.jpg?width=720" group-title="Serie: Prison Break",Prison Break T2 - Capitulo 5
+https://cdn.jwplayer.com/manifests/0V7i7bdz.m3u8
+#EXTINF:-1 tvg-id="Prison Break T2 - Capitulo 6" tvg-logo="https://content.jwplatform.com/v2/media/fMxQVJZl/poster.jpg?width=720" group-title="Serie: Prison Break",Prison Break T2 - Capitulo 6
+https://cdn.jwplayer.com/manifests/fMxQVJZl.m3u8
+#EXTINF:-1 tvg-id="Prison Break T2 - Capitulo 7" tvg-logo="https://content.jwplatform.com/v2/media/dB52ePtV/poster.jpg?width=720" group-title="Serie: Prison Break",Prison Break T2 - Capitulo 7
+https://cdn.jwplayer.com/manifests/dB52ePtV.m3u8
+#EXTINF:-1 tvg-id="Prison Break T2 - Capitulo 8" tvg-logo="https://content.jwplatform.com/v2/media/D74Mqzwn/poster.jpg?width=720" group-title="Serie: Prison Break",Prison Break T2 - Capitulo 8
+https://cdn.jwplayer.com/manifests/D74Mqzwn.m3u8
+#EXTINF:-1 tvg-id="Prison Break T2 - Capitulo 9" tvg-logo="https://content.jwplatform.com/v2/media/exAFPy6u/poster.jpg?width=720" group-title="Serie: Prison Break",Prison Break T2 - Capitulo 9
+https://cdn.jwplayer.com/manifests/exAFPy6u.m3u8
+#EXTINF:-1 tvg-id="Prison Break T2 - Capitulo 10" tvg-logo="https://content.jwplatform.com/v2/media/On99jysj/poster.jpg?width=720" group-title="Serie: Prison Break",Prison Break T2 - Capitulo 10
+https://cdn.jwplayer.com/manifests/On99jysj.m3u8
 
 #################################################################################################################################################
 #EXTINF:-1 tvg-id="Suits T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/La75oAzj/poster.jpg?width=720" group-title="Serie: Suits",Suits T1
