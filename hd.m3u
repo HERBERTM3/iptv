@@ -964,13 +964,13 @@ https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #Sin token
 #herramienta para ver el token:https://codebeautify.org/source-code-viewer
 
-#EXTINF:-1 tvg-id="TVN HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/24 play.jpg" group-title="Televisión",24 PLAY HD
+#EXTINF:-1 tvg-id="TVN HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/24%20play.png" group-title="Televisión",24 PLAY HD
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #pagina web:https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab
 #Sin token
 #herramienta para ver el token:https://codebeautify.org/source-code-viewer
 
-#EXTINF:-1 tvg-id="TVN HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn chile.jpg" group-title="Televisión",TV CHILE HD
+#EXTINF:-1 tvg-id="TVN HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn%20chile.png" group-title="Televisión",TV CHILE HD
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #pagina web:https://mdstrm.com/live-stream/533adcc949386ce765657d7c
 #Sin token
