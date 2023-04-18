@@ -993,12 +993,12 @@ https://mdstrm.com/live-stream-playlist-v/5c928b7f6d6f41084bdae898.m3u8?access_t
 #pagina web:https://www.chilevision.cl/senal-online
 #pagina token:https://www.chilevision.cl/ms_player_src_01/live_1/5c928b7f6d6f41084bdae898/1681435537.js
 
-#EXTINF:-1 tvg-id="Chilevisión noticias (Pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chilevisión noticias.jpg" group-title="Televisión",Chilevisión noticias (pluto tv)
+#EXTINF:-1 tvg-id="Chilevisión noticias (Pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chilevisión_noticias.jpg" group-title="Televisión",Chilevisión noticias (pluto tv)
 https://i.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
 #pagina web:https://pluto.tv/es/live-tv/chilevision-noticias
 
 
-#EXTINF:-1 tvg-id="Chilevisión contigo (Pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Chilevisión contigo.jpg" group-title="Televisión",Chilevisión contigo (pluto tv)
+#EXTINF:-1 tvg-id="Chilevisión contigo (Pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chilevisión_contigo.jpg" group-title="Televisión",Chilevisión contigo (pluto tv)
 https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
 #pagina web:https://pluto.tv/es/live-tv/chilevision-contigo
 
@@ -1068,7 +1068,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Pan
 #pagina web 2:https://panamericana.pe/tvenvivo
 
 
-#EXTINF:-1 tvg-id="Hogar (pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/PanamericanaTV.png" group-title="Televisión",Hogar (pluto tv)
+#EXTINF:-1 tvg-id="Hogar (pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/pluto_tv_hogar.jpg" group-title="Televisión",Hogar (pluto tv)
 https://i.mjh.nz/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8
 #pagina web 1:https://pluto.tv/es/live-tv/pluto-tv-hogar
 
