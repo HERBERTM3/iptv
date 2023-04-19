@@ -1046,6 +1046,13 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@France
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream01/streamPlaylist.m3u8
 #pagina web:https://www.dw.com/es/tv-en-vivo/s-100837
 
+
+#EXTINF:-1 tvg-id="Euro news (español/distro tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/cd0be2c05a6e9ac2632eaa3279ffb4d99fc5a4b2/euro_news_espa%C3%B1ol.png" group-title="Televisión",Euro news (español/distro tv)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/d3d3683e-3289-4eab-afe9-4cc5842378ce/0.m3u8
+#pagina web:https://distro.tv/live/euronews-spa/
+
+
+
 #EXTINF:-1 tvg-id="DW (Español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dwe.jpg" group-title="Televisión",DW (español)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #pagina web:https://www.dw.com/es/tv-en-vivo/s-100837
