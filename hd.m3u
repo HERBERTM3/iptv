@@ -1085,6 +1085,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/adde9b33-81ed-4c76-893f-325cb42ccfda/4.m3u8
 #pagina web 1:https://distro.tv/live/saber-mas/
 
+#EXTINF:-1 tvg-id="Wapp tv (español/distrotv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/wapp.jpg" group-title="Televisión",Wapp tv (español/distrotv)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/6b126d74-9d53-4e56-8c30-98c7f2041f29/2.m3u8
+#pagina web 1:https://distro.tv/live/wapptv/
 #################################################################################################################################################
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
