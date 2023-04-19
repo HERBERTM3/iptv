@@ -1088,6 +1088,12 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/add
 #EXTINF:-1 tvg-id="Wapp tv (español/distrotv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/wapp.jpg" group-title="Televisión",Wapp tv (español/distrotv)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/6b126d74-9d53-4e56-8c30-98c7f2041f29/2.m3u8
 #pagina web 1:https://distro.tv/live/wapptv/
+
+
+#EXTINF:-1 tvg-id="kids tv (español/distrotv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/kids_tv.jpg" group-title="Televisión",kids tv (español/distrotv)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/8ee00b1c-6aaa-4ac4-b4aa-e9695079ec0f/2.m3u8
+#pagina web 1:https://distro.tv/live/kids-tv-espanol/
+
 #################################################################################################################################################
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
