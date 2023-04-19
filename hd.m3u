@@ -1081,6 +1081,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/191fa3d4-073a-4ecc-b1a0-620fcb73fe6d/4.m3u8
 #pagina web 1:https://distro.tv/live/tu-cine-latam/
 
+#EXTINF:-1 tvg-id="Saber más (español/distrotv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/saber_m%C3%A1s.jpg" group-title="Televisión",Saber más (español/distrotv)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/adde9b33-81ed-4c76-893f-325cb42ccfda/4.m3u8
+#pagina web 1:https://distro.tv/live/saber-mas/
 
 #################################################################################################################################################
 
