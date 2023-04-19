@@ -1064,23 +1064,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Pan
 #pagina web 1:https://www.dailymotion.com/PanamericanaPTV
 #pagina web 2:https://panamericana.pe/tvenvivo
 
-
-#EXTINF:-1 tvg-id="Hogar (pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/pluto_tv_hogar.jpg" group-title="Televisión",Hogar (pluto tv)
-https://i.mjh.nz/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8
-#pagina web 1:https://pluto.tv/es/live-tv/pluto-tv-hogar
-
-
 #EXTINF:-1 tvg-id="Dramas coreanos (pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dramas_coreanos.jpg" group-title="Televisión",Dramas coreanos (pluto tv)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PS
 #pagina web 1:https://pluto.tv/es/live-tv/pluto-tv-dramas-coreanos
 
-
-
-
-
-
-
-
+#################################################################################################################################################
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 
