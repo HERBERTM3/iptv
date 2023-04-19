@@ -1047,11 +1047,9 @@ https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream01/strea
 #pagina web:https://www.dw.com/es/tv-en-vivo/s-100837
 
 
-#EXTINF:-1 tvg-id="Euro news (español/distro tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/cd0be2c05a6e9ac2632eaa3279ffb4d99fc5a4b2/euro_news_espa%C3%B1ol.png" group-title="Televisión",Euro news (español/distro tv)
+#EXTINF:-1 tvg-id="Euro news (español/distro tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/euro_news_espa%C3%B1ol.jpg" group-title="Televisión",Euro news (español/distro tv)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/d3d3683e-3289-4eab-afe9-4cc5842378ce/0.m3u8
 #pagina web:https://distro.tv/live/euronews-spa/
-
-
 
 #EXTINF:-1 tvg-id="DW (Español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dwe.jpg" group-title="Televisión",DW (español)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -1074,6 +1072,15 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Pan
 #EXTINF:-1 tvg-id="Dramas coreanos (pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dramas_coreanos.jpg" group-title="Televisión",Dramas coreanos (pluto tv)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PS
 #pagina web 1:https://pluto.tv/es/live-tv/pluto-tv-dramas-coreanos
+
+#EXTINF:-1 tvg-id="Glewed tv (spanish/distrotv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/glewed_tv_spanish.jpg" group-title="Televisión",Glewed tv (spanish/distrotv)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b62bb37f-d16a-4255-8c9e-4b9c6fb85e47/2.m3u8
+#pagina web 1:https://distro.tv/live/glewedtv-spanish/
+
+#EXTINF:-1 tvg-id="Tu cine(español/distrotv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tu_cine.jpg" group-title="Televisión",Tu cine(español/distrotv)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/191fa3d4-073a-4ecc-b1a0-620fcb73fe6d/4.m3u8
+#pagina web 1:https://distro.tv/live/tu-cine-latam/
+
 
 #################################################################################################################################################
 
