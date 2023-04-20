@@ -993,11 +993,11 @@ https://mdstrm.com/live-stream-playlist-v/5c928b7f6d6f41084bdae898.m3u8?access_t
 #pagina web:https://www.chilevision.cl/senal-online
 #pagina token:https://www.chilevision.cl/ms_player_src_01/live_1/5c928b7f6d6f41084bdae898/1681435537.js
 
-#EXTINF:-1 tvg-id="Chilevisión noticias (Pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chilevisión_noticias.jpg" group-title="Televisión",Chilevisión noticias (pluto tv)
+#EXTINF:-1 tvg-id="pluto-627d1b936d4ded0007d7642f" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chilevisión_noticias.jpg" group-title="Televisión",Chilevisión noticias (pluto tv)
 https://i.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
 #pagina web:https://pluto.tv/es/live-tv/chilevision-noticias
 
-#EXTINF:-1 tvg-id="Chilevisión contigo (Pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Chilevisión_contigo.jpg" group-title="Televisión",Chilevisión contigo (pluto tv)
+#EXTINF:-1 tvg-id="pluto-62aa5740a47b6c000769f407" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Chilevisión_contigo.jpg" group-title="Televisión",Chilevisión contigo (pluto tv)
 https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
 #pagina web:https://pluto.tv/es/live-tv/chilevision-contigo
 
@@ -1046,11 +1046,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@France
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream01/streamPlaylist.m3u8
 #pagina web:https://www.dw.com/es/tv-en-vivo/s-100837
 
-
-#EXTINF:-1 tvg-id="Euro news (español/distro tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/euro_news_espa%C3%B1ol.jpg" group-title="Televisión",Euro news (español/distro tv)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/d3d3683e-3289-4eab-afe9-4cc5842378ce/0.m3u8
-#pagina web:https://distro.tv/live/euronews-spa/
-
 #EXTINF:-1 tvg-id="DW (Español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dwe.jpg" group-title="Televisión",DW (español)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #pagina web:https://www.dw.com/es/tv-en-vivo/s-100837
@@ -1072,27 +1067,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Pan
 #EXTINF:-1 tvg-id="Dramas coreanos (pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dramas_coreanos.jpg" group-title="Televisión",Dramas coreanos (pluto tv)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PS
 #pagina web 1:https://pluto.tv/es/live-tv/pluto-tv-dramas-coreanos
-
-#EXTINF:-1 tvg-id="Glewed tv (distro tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/glewed_tv_spanish.jpg" group-title="Televisión",Glewed tv (distro tv)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b62bb37f-d16a-4255-8c9e-4b9c6fb85e47/2.m3u8
-#pagina web 1:https://distro.tv/live/glewedtv-spanish/
-
-#EXTINF:-1 tvg-id="Tu cine(distro tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tu_cine.jpg" group-title="Televisión",Tu cine(distro tv)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/191fa3d4-073a-4ecc-b1a0-620fcb73fe6d/4.m3u8
-#pagina web 1:https://distro.tv/live/tu-cine-latam/
-
-#EXTINF:-1 tvg-id="Saber más (distro tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/saber_m%C3%A1s.jpg" group-title="Televisión",Saber más (distro tv)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/adde9b33-81ed-4c76-893f-325cb42ccfda/4.m3u8
-#pagina web 1:https://distro.tv/live/saber-mas/
-
-#EXTINF:-1 tvg-id="Wapp tv (distro tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/wapp.jpg" group-title="Televisión",Wapp tv (distro tv)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/6b126d74-9d53-4e56-8c30-98c7f2041f29/2.m3u8
-#pagina web 1:https://distro.tv/live/wapptv/
-
-
-#EXTINF:-1 tvg-id="kids tv (distro tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/kids_tv.jpg" group-title="Televisión",kids tv (distro tv)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/8ee00b1c-6aaa-4ac4-b4aa-e9695079ec0f/2.m3u8
-#pagina web 1:https://distro.tv/live/kids-tv-espanol/
 
 #################################################################################################################################################
 
@@ -1284,8 +1258,6 @@ https://i.mjh.nz/PlutoTV/60c8a24e17da110007eed4fd-alt.m3u8
 https://i.mjh.nz/PlutoTV/6231ede1be5b460007f91bc1-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60d3583ef310610007fb02b1" tvg-id="60d3583ef310610007fb02b1" tvg-chno="650" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="Televisión" , Euronews
 https://i.mjh.nz/PlutoTV/60d3583ef310610007fb02b1-alt.m3u8
-#EXTINF:-1 channel-id="pluto-627d1b936d4ded0007d7642f" tvg-id="627d1b936d4ded0007d7642f" tvg-chno="651" tvg-logo="https://images.pluto.tv/channels/627d1b936d4ded0007d7642f/colorLogoPNG.png" group-title="Televisión" , Chilevision Noticias
-https://i.mjh.nz/PlutoTV/627d1b936d4ded0007d7642f-alt.m3u8
 #EXTINF:-1 channel-id="pluto-627d1b12c8540700073b3f39" tvg-id="627d1b12c8540700073b3f39" tvg-chno="652" tvg-logo="https://images.pluto.tv/channels/627d1b12c8540700073b3f39/colorLogoPNG.png" group-title="Televisión" , Telefe Noticias
 https://i.mjh.nz/PlutoTV/627d1b12c8540700073b3f39-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f1abf5fafb5ee0007d4d0ca" tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-chno="700" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="Televisión" , FailArmy
@@ -1404,8 +1376,6 @@ https://i.mjh.nz/PlutoTV/61f159209fcc3800076ed4a1-alt.m3u8
 https://i.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
 #EXTINF:-1 channel-id="pluto-604bdf4e6d0abc0007ba77ad" tvg-id="604bdf4e6d0abc0007ba77ad" tvg-chno="130" tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" group-title="Televisión" , Sin Tetas No Hay Paraíso
 https://i.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62aa5740a47b6c000769f407" tvg-id="62aa5740a47b6c000769f407" tvg-chno="134" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Televisión" , Chilevision Contigo
-https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6320ddef274b1b0007b2ee88" tvg-id="6320ddef274b1b0007b2ee88" tvg-chno="141" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="Televisión" , Reviví Gran Hermano
 https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5de91cf02fc07c0009910465" tvg-id="5de91cf02fc07c0009910465" tvg-chno="149" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="Televisión" , Telefe Hits
@@ -1456,8 +1426,7 @@ https://i.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
 https://i.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f523aa5523ae000074745ec" tvg-id="5f523aa5523ae000074745ec" tvg-chno="205" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="Televisión" , Telefe Noticias
 https://i.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
-#EXTINF:-1 channel-id="pluto-61f94a2866401100074e9dee" tvg-id="61f94a2866401100074e9dee" tvg-chno="208" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" group-title="Televisión" , Chilevision Noticias
-https://i.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-63d2c140c111bc0008cb890b" tvg-id="63d2c140c111bc0008cb890b" tvg-chno="212" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" group-title="Televisión" , TeleFórmula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde197f6591d0009839e04" tvg-id="5dcde197f6591d0009839e04" tvg-chno="251" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Televisión" , Pluto TV Reality
