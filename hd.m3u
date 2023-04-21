@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=""
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 
 #EXTINF:-1 tvg-id="Pinocho de Guillermo del Toro (2022)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/9W4ZRIcN-720.jpg" group-title="Peliculas",Pinocho de Guillermo del Toro (2022)
 https://cdn.jwplayer.com/manifests/9W4ZRIcN.m3u8
@@ -189,14 +189,8 @@ https://cdn.jwplayer.com/manifests/TaQmewjt.m3u8
 #EXTINF:-1 tvg-id="En Busca De La Felicidad (2006)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/bIRpEBV0-720.jpg" group-title="Peliculas",En Busca De La Felicidad (2006)
 https://cdn.jwplayer.com/manifests/Z0DGfjYz.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="Cuentos de Terramar (2006)" tvg-logo="https://content.jwplatform.com/v2/media/lI9a46OZ/poster.jpg?width=720" group-title="Peliculas",Cuentos de Terramar (2006)
 https://cdn.jwplayer.com/manifests/bIRpEBV0.m3u8
-
-
 
 #EXTINF:-1 tvg-id="45" tvg-logo="https://cdn.jwplayer.com/thumbs/Up95l49F-1280.jpg" group-title="Peliculas",Soy Leyenda (2007)
 https://cdn.jwplayer.com/manifests/Up95l49F.m3u8
@@ -210,7 +204,7 @@ https://cdn.jwplayer.com/manifests/Y3zmTE15.m3u8
 #EXTINF:-1 tvg-id="48" tvg-logo="https://cdn.jwplayer.com/thumbs/fdwZYCLC-1280.jpg" group-title="Peliculas",Wall-e (2008)
 https://cdn.jwplayer.com/manifests/fdwZYCLC.m3u8
 
-#EXTINF:-1 tvg-id="49" tvg-logo="https://cdn.jwplayer.com/thumbs/YqkDEnAb-1280.jpg" group-title="Peliculas",¡Sí, Señor! (2008)
+#EXTINF:-1 tvg-id="49" tvg-logo="https://cdn.jwplayer.com/thumbs/YqkDEnAb-1280.jpg" group-title="Peliculas",¡Sí. Señor! (2008)
 https://cdn.jwplayer.com/manifests/YqkDEnAb.m3u8
 
 #EXTINF:-1 tvg-id="50" tvg-logo="https://cdn.jwplayer.com/thumbs/QroHqRIx-1280.jpg" group-title="Peliculas",Una loca película de esparta (2008)
@@ -225,7 +219,7 @@ https://cdn.jwplayer.com/manifests/uoWNLRgd.m3u8
 #EXTINF:-1 tvg-id="Jumper (2008)" tvg-logo="https://content.jwplatform.com/v2/media/PGwhDLK2/poster.jpg?width=720" group-title="Peliculas",Jumper (2008)
 https://cdn.jwplayer.com/manifests/PGwhDLK2.m3u8
 
-#EXTINF:-1 tvg-id="10,000 A.C (2008)" tvg-logo="https://content.jwplatform.com/v2/media/YY96606i/poster.jpg?width=720" group-title="Peliculas",10,000 A.C (2008)
+#EXTINF:-1 tvg-id="10,000 A.C (2008)" tvg-logo="https://content.jwplatform.com/v2/media/YY96606i/poster.jpg?width=720" group-title="Peliculas",10.000 A.C (2008)
 https://cdn.jwplayer.com/manifests/YY96606i.m3u8
 
 #EXTINF:-1 tvg-id="No te Metas con Zohan (2008)" tvg-logo="https://content.jwplatform.com/v2/media/4nblcI2J/poster.jpg?width=720" group-title="Peliculas",No te Metas con Zohan (2008)
@@ -308,10 +302,6 @@ https://cdn.jwplayer.com/manifests/CjYhEgOX.m3u8
 
 #EXTINF:-1 tvg-id="Una buena receta (2015)" tvg-logo="https://content.jwplatform.com/v2/media/vEBBxohO/poster.jpg?width=720" group-title="Peliculas",Una buena receta (2015)
 https://cdn.jwplayer.com/manifests/vEBBxohO.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-id="69" tvg-logo="https://cdn.jwplayer.com/thumbs/0G2uwVnm-1920.jpg" group-title="Peliculas",Warcraft, el primer encuentro de dos mundos (2016)
 https://cdn.jwplayer.com/manifests/0G2uwVnm.m3u8
@@ -1070,7 +1060,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de51
 
 #################################################################################################################################################
 
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
+
 
 #EXTINF:-1 channel-id="pluto-63eb93cea995710008989e3a" tvg-id="63eb93cea995710008989e3a" tvg-chno="50" tvg-logo="https://images.pluto.tv/channels/63eb93cea995710008989e3a/colorLogoPNG.png" group-title="Televisión" , Los Ángeles de Charlie
 https://i.mjh.nz/PlutoTV/63eb93cea995710008989e3a-alt.m3u8
