@@ -418,6 +418,8 @@ https://cdn.jwplayer.com/manifests/QSjZusGW.m3u8
 #EXTINF:-1 tvg-id="103" tvg-logo="https://content.jwplatform.com/v2/media/xGFGJBJQ/poster.jpg?width=720" group-title="Peliculas",Operación Cerveza (2022)
 https://cdn.jwplayer.com/manifests/xGFGJBJQ.m3u8
 
+#EXTINF:-1 tvg-id="1033" tvg-logo="https://content.jwplatform.com/v2/media/O0wOIbAk/poster.jpg?width=720" group-title="Peliculas",Super Mario Bros (2023)
+https://cdn.jwplayer.com/manifests/O0wOIbAk.m3u8
 
 
 
@@ -1074,11 +1076,11 @@ https://mdstrm.com/live-stream-playlist-v/5c928b7f6d6f41084bdae898.m3u8?access_t
 #pagina web:https://www.chilevision.cl/senal-online
 #pagina token:https://www.chilevision.cl/ms_player_src_01/live_1/5c928b7f6d6f41084bdae898/1681435537.js
 
-#EXTINF:-1 tvg-id="pluto-627d1b936d4ded0007d7642f" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chilevisión_noticias.jpg" group-title="Televisión",Chilevisión noticias (pluto tv)
+#EXTINF:-1 tvg-id="627d1b936d4ded0007d7642f" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chilevisión_noticias.jpg" group-title="Televisión",Chilevisión noticias (pluto tv)
 https://i.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
 #pagina web:https://pluto.tv/es/live-tv/chilevision-noticias
 
-#EXTINF:-1 tvg-id="pluto-62aa5740a47b6c000769f407" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Chilevisión_contigo.jpg" group-title="Televisión",Chilevisión contigo (pluto tv)
+#EXTINF:-1 tvg-id="62aa5740a47b6c000769f407" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Chilevisión_contigo.jpg" group-title="Televisión",Chilevisión contigo (pluto tv)
 https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
 #pagina web:https://pluto.tv/es/live-tv/chilevision-contigo
 
@@ -1337,8 +1339,6 @@ https://i.mjh.nz/PlutoTV/63d9144fc111bc0008d5c126-alt.m3u8
 https://i.mjh.nz/PlutoTV/60c8a24e17da110007eed4fd-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6231ede1be5b460007f91bc1" tvg-id="6231ede1be5b460007f91bc1" tvg-chno="623" tvg-logo="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png" group-title="Televisión" , CBS News
 https://i.mjh.nz/PlutoTV/6231ede1be5b460007f91bc1-alt.m3u8
-#EXTINF:-1 channel-id="pluto-60d3583ef310610007fb02b1" tvg-id="60d3583ef310610007fb02b1" tvg-chno="650" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="Televisión" , Euronews
-https://i.mjh.nz/PlutoTV/60d3583ef310610007fb02b1-alt.m3u8
 #EXTINF:-1 channel-id="pluto-627d1b12c8540700073b3f39" tvg-id="627d1b12c8540700073b3f39" tvg-chno="652" tvg-logo="https://images.pluto.tv/channels/627d1b12c8540700073b3f39/colorLogoPNG.png" group-title="Televisión" , Telefe Noticias
 https://i.mjh.nz/PlutoTV/627d1b12c8540700073b3f39-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f1abf5fafb5ee0007d4d0ca" tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-chno="700" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="Televisión" , FailArmy
@@ -1405,8 +1405,6 @@ https://i.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
 https://i.mjh.nz/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="Televisión" , Pluto TV Cine Comedia
 https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5dcddfcb229eff00091b6bdf" tvg-id="5dcddfcb229eff00091b6bdf" tvg-chno="63" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="Televisión" , Pluto TV Cine Drama
-https://i.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dd7ea2aeab5230009986735" tvg-id="5dd7ea2aeab5230009986735" tvg-chno="66" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="Televisión" , Pluto TV Cine Romance
 https://i.mjh.nz/PlutoTV/5dd7ea2aeab5230009986735-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5ddc4e8bcbb9010009b4e84f" tvg-id="5ddc4e8bcbb9010009b4e84f" tvg-chno="69" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="Televisión" , Pluto TV Cine Suspenso
