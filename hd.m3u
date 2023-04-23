@@ -225,6 +225,9 @@ https://cdn.jwplayer.com/manifests/YY96606i.m3u8
 #EXTINF:-1 tvg-id="No te Metas con Zohan (2008)" tvg-logo="https://content.jwplatform.com/v2/media/4nblcI2J/poster.jpg?width=720" group-title="Peliculas",No te Metas con Zohan (2008)
 https://cdn.jwplayer.com/manifests/4nblcI2J.m3u8
 
+#EXTINF:-1 tvg-id="Quisiera ser millonario (2008)" tvg-logo="https://content.jwplatform.com/v2/media/3J8JohBs/poster.jpg?width=720" group-title="Peliculas",Quisiera ser millonario (2008)
+https://cdn.jwplayer.com/manifests/3J8JohBs.m3u8
+
 #EXTINF:-1 tvg-id="52" tvg-logo="https://cdn.jwplayer.com/thumbs/jpaugSDb-1280.jpg" group-title="Peliculas",Avatar 1 (2009)
 https://cdn.jwplayer.com/manifests/jpaugSDb.m3u8
 
@@ -420,6 +423,7 @@ https://cdn.jwplayer.com/manifests/xGFGJBJQ.m3u8
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://content.jwplatform.com/v2/media/O0wOIbAk/poster.jpg?width=720" group-title="Peliculas",Super Mario Bros (2023)
 https://cdn.jwplayer.com/manifests/O0wOIbAk.m3u8
+
 
 
 
@@ -1331,8 +1335,6 @@ https://i.mjh.nz/PlutoTV/60f16986acb81b0007c384ac-alt.m3u8
 https://i.mjh.nz/PlutoTV/60db37b8b919720007c07fa4-alt.m3u8
 #EXTINF:-1 channel-id="pluto-600ad4ad6537680007be2ea6" tvg-id="600ad4ad6537680007be2ea6" tvg-chno="608" tvg-logo="https://images.pluto.tv/channels/600ad4ad6537680007be2ea6/colorLogoPNG.png" group-title="Televisión" , Clubbing TV
 https://i.mjh.nz/PlutoTV/600ad4ad6537680007be2ea6-alt.m3u8
-#EXTINF:-1 channel-id="pluto-63d7a8e5a9957100086bfc23" tvg-id="63d7a8e5a9957100086bfc23" tvg-chno="620" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" group-title="Televisión" , South Park Versión Original
-https://i.mjh.nz/PlutoTV/63d7a8e5a9957100086bfc23-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63d9144fc111bc0008d5c126" tvg-id="63d9144fc111bc0008d5c126" tvg-chno="621" tvg-logo="https://images.pluto.tv/channels/63d9144fc111bc0008d5c126/colorLogoPNG.png" group-title="Televisión" , Best of The Drew Barrymore Show
 https://i.mjh.nz/PlutoTV/63d9144fc111bc0008d5c126-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60c8a24e17da110007eed4fd" tvg-id="60c8a24e17da110007eed4fd" tvg-chno="622" tvg-logo="https://images.pluto.tv/channels/60c8a24e17da110007eed4fd/colorLogoPNG.png" group-title="Televisión" , Rakuten Viki
