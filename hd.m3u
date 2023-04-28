@@ -801,6 +801,18 @@ https://cdn.jwplayer.com/manifests/Uyioq8mI.m3u8
 #################################################################################################################################################
 #EXTINF:-1 tvg-id="Breaking Bad T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/5zUrHPdp/poster.jpg?width=720" group-title="Serie: Breaking Bad",Breaking Bad T1 - Capitulo 1
 https://cdn.jwplayer.com/manifests/5zUrHPdp.m3u8
+#EXTINF:-1 tvg-id="Breaking Bad T1 - Capitulo 2" tvg-logo="https://content.jwplatform.com/v2/media/ue6VHBL2/poster.jpg?width=720" group-title="Serie: Breaking Bad",Breaking Bad T1 - Capitulo 2
+https://cdn.jwplayer.com/manifests/ue6VHBL2.m3u8
+#EXTINF:-1 tvg-id="Breaking Bad T1 - Capitulo 3" tvg-logo="https://content.jwplatform.com/v2/media/jUH174af/poster.jpg?width=720" group-title="Serie: Breaking Bad",Breaking Bad T1 - Capitulo 3
+https://cdn.jwplayer.com/manifests/jUH174af.m3u8
+#EXTINF:-1 tvg-id="Breaking Bad T1 - Capitulo 4" tvg-logo="https://content.jwplatform.com/v2/media/YvlOssir/poster.jpg?width=720" group-title="Serie: Breaking Bad",Breaking Bad T1 - Capitulo 4
+https://cdn.jwplayer.com/manifests/YvlOssir.m3u8
+#EXTINF:-1 tvg-id="Breaking Bad T1 - Capitulo 5" tvg-logo="https://content.jwplatform.com/v2/media/2l7TC2OB/poster.jpg?width=720" group-title="Serie: Breaking Bad",Breaking Bad T1 - Capitulo 5
+https://cdn.jwplayer.com/manifests/2l7TC2OB.m3u8
+#EXTINF:-1 tvg-id="Breaking Bad T1 - Capitulo 6" tvg-logo="https://content.jwplatform.com/v2/media/S5DZJL5f/poster.jpg?width=720" group-title="Serie: Breaking Bad",Breaking Bad T1 - Capitulo 6
+https://cdn.jwplayer.com/manifests/S5DZJL5f.m3u8
+#EXTINF:-1 tvg-id="Breaking Bad T1 - Capitulo 7" tvg-logo="https://content.jwplatform.com/v2/media/kwlzNon5/poster.jpg?width=720" group-title="Serie: Breaking Bad",Breaking Bad T1 - Capitulo 7
+https://cdn.jwplayer.com/manifests/kwlzNon5.m3u8
 
 #################################################################################################################################################
 #EXTINF:-1 tvg-id="Prison Break T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/Krnui3SW/poster.jpg?width=720" group-title="Serie: Prison Break",Prison Break T1 - Capitulo 1
