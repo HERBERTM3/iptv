@@ -111,6 +111,9 @@ https://cdn.jwplayer.com/manifests/y42yIqqU.m3u8
 #EXTINF:-1 tvg-id="24" tvg-logo="https://cdn.jwplayer.com/thumbs/FOQryG5o-1280.jpg" group-title="Peliculas",Pandillas de nueva york (2002)
 https://cdn.jwplayer.com/manifests/FOQryG5o.m3u8
 
+#EXTINF:-1 tvg-id="Atrápame si puedes (2002)" tvg-logo="https://cdn.jwplayer.com/thumbs/owo04yOW-1280.jpg" group-title="Peliculas",Atrápame si puedes (2002)
+https://cdn.jwplayer.com/manifests/owo04yOW.m3u8
+
 #EXTINF:-1 tvg-id="25" tvg-logo="https://cdn.jwplayer.com/thumbs/p9O19DMJ-1280.jpg" group-title="Peliculas",Misterios Del Titanic (2003)
 https://cdn.jwplayer.com/manifests/o2E37V3E.m3u8
 
@@ -159,6 +162,9 @@ https://cdn.jwplayer.com/manifests/TpVWMt9s.m3u8
 #EXTINF:-1 tvg-id="Kung Fusión (2004)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/lLU0qi9g-720.jpg" group-title="Peliculas",Kung Fusión (2004)
 https://cdn.jwplayer.com/manifests/lLU0qi9g.m3u8
 
+#EXTINF:-1 tvg-id="Machuca (2004)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/FP7ubImX-720.jpg" group-title="Peliculas",Machuca (2004)
+https://cdn.jwplayer.com/manifests/FP7ubImX.m3u8
+
 #EXTINF:-1 tvg-id="35" tvg-logo="https://cdn.jwplayer.com/thumbs/03q5ktEp-1920.jpg" group-title="Peliculas",Constantine (2005)
 https://cdn.jwplayer.com/manifests/03q5ktEp.m3u8
 
@@ -177,6 +183,9 @@ https://cdn.jwplayer.com/manifests/gK29Whf2.m3u8
 #EXTINF:-1 tvg-id="40" tvg-logo="https://cdn.jwplayer.com/thumbs/fVy6BGsJ-1280.jpg" group-title="Peliculas",Danny el perro (2005)
 https://cdn.jwplayer.com/manifests/fVy6BGsJ.m3u8
 
+#EXTINF:-1 tvg-id="Rico o Muerto (2005)" tvg-logo="https://cdn.jwplayer.com/thumbs/JzBbRcre-1280.jpg" group-title="Peliculas",Rico o Muerto (2005)
+https://cdn.jwplayer.com/manifests/JzBbRcre.m3u8
+
 #EXTINF:-1 tvg-id="41" tvg-logo="https://cdn.jwplayer.com/thumbs/Jqxa6aUH-1920.jpg" group-title="Peliculas",300 (2006)
 https://cdn.jwplayer.com/manifests/Jqxa6aUH.m3u8
 
@@ -194,6 +203,9 @@ https://cdn.jwplayer.com/manifests/Z0DGfjYz.m3u8
 
 #EXTINF:-1 tvg-id="Cuentos de Terramar (2006)" tvg-logo="https://content.jwplatform.com/v2/media/lI9a46OZ/poster.jpg?width=720" group-title="Peliculas",Cuentos de Terramar (2006)
 https://cdn.jwplayer.com/manifests/bIRpEBV0.m3u8
+
+#EXTINF:-1 tvg-id="Chiquito pero peligroso (2006)" tvg-logo="https://content.jwplatform.com/v2/media/LDcTw1ac/poster.jpg?width=720" group-title="Peliculas",Chiquito pero peligroso (2006)
+https://cdn.jwplayer.com/manifests/LDcTw1ac.m3u8
 
 #EXTINF:-1 tvg-id="45" tvg-logo="https://cdn.jwplayer.com/thumbs/Up95l49F-1280.jpg" group-title="Peliculas",Soy Leyenda (2007)
 https://cdn.jwplayer.com/manifests/Up95l49F.m3u8
@@ -240,8 +252,8 @@ https://cdn.jwplayer.com/manifests/jpaugSDb.m3u8
 #EXTINF:-1 tvg-id="53" tvg-logo="https://cdn.jwplayer.com/thumbs/LS2zp2ZO-1280.jpg" group-title="Peliculas",Avatar 1 (2009)
 https://cdn.jwplayer.com/manifests/LS2zp2ZO.m3u8
 
-#EXTINF:-1 tvg-id="54" tvg-logo="https://cdn.jwplayer.com/thumbs/SvheuftJ-1280.jpg" group-title="Peliculas",Fireball (2009)
-https://cdn.jwplayer.com/manifests/SvheuftJ.m3u8
+#EXTINF:-1 tvg-id="Fireball (2009)" tvg-logo="https://cdn.jwplayer.com/thumbs/lBYdx8T6-1280.jpg" group-title="Peliculas",Fireball (2009)
+https://cdn.jwplayer.com/manifests/lBYdx8T6.m3u8
 
 #EXTINF:-1 tvg-id="55" tvg-logo="https://content.jwplatform.com/v2/media/hLBjuVFi/poster.jpg?width=720" group-title="Peliculas",Hermanos (2009)
 https://cdn.jwplayer.com/manifests/hLBjuVFi.m3u8
@@ -279,14 +291,20 @@ https://cdn.jwplayer.com/manifests/zFQVncnu.m3u8
 #EXTINF:-1 tvg-id="63" tvg-logo="https://cdn.jwplayer.com/thumbs/CaszktLq-1280.jpg" group-title="Peliculas",Rango (2011)
 https://cdn.jwplayer.com/manifests/CaszktLq.m3u8
 
-#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/LZsPBacF/poster.jpg?width=720",Un Golpe De Altura (2011)
+#EXTINF:-0 tvg-id="Un Golpe De Altura (2011)" group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/LZsPBacF/poster.jpg?width=720",Un Golpe De Altura (2011)
 https://cdn.jwplayer.com/manifests/X52tI7gf.m3u8
+
+#EXTINF:-0 tvg-id="Una esposa de mentira (2011)" tvg-logo="https://content.jwplatform.com/v2/media/R8w2UgX8/poster.jpg?width=720" group-title="Peliculas",Una esposa de mentira (2011)
+https://cdn.jwplayer.com/manifests/R8w2UgX8.m3u8
 
 #EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/UVRP9Ghm/poster.jpg?width=720",Proyecto X (2012)
 https://cdn.jwplayer.com/manifests/UVRP9Ghm.m3u8
 
 #EXTINF:-1 tvg-id="64" tvg-logo="https://cdn.jwplayer.com/thumbs/zfUzDIU8-1280.jpg" group-title="Peliculas",El lobo de wall street  (2013)
 https://cdn.jwplayer.com/manifests/zfUzDIU8.m3u8
+
+#EXTINF:-1 tvg-id="jobs (2013)" tvg-logo="https://cdn.jwplayer.com/thumbs/BxDv4zfo-1280.jpg" group-title="Peliculas",jobs (2013)
+https://cdn.jwplayer.com/manifests/BxDv4zfo.m3u8
 
 #EXTINF:-1 tvg-id="65" tvg-logo="https://cdn.jwplayer.com/thumbs/bTkrIPIl-1280.jpg" group-title="Peliculas",La fortaleza prohibida (2014)
 https://cdn.jwplayer.com/manifests/5VpEA3Pf.m3u8
@@ -408,9 +426,11 @@ https://cdn.jwplayer.com/manifests/uZwRAstv.m3u8
 #EXTINF:-1 tvg-id="96" tvg-logo="https://cdn.jwplayer.com/thumbs/BAG9ZvTB-1280.jpg" group-title="Peliculas",Greyhound en la mira del enemigo (2020)
 https://cdn.jwplayer.com/manifests/BAG9ZvTB.m3u8
 
-#EXTINF:-1 tvg-id="https://assets-jpcust.jwpsrv.com/thumbs/xcPmTxGQ-720.jpg" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/xcPmTxGQ-720.jpg" group-title="Peliculas",Amor de gata (2020)
+#EXTINF:-1 tvg-id="Amor de gata (2020)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/xcPmTxGQ-720.jpg" group-title="Peliculas",Amor de gata (2020)
 https://cdn.jwplayer.com/manifests/xcPmTxGQ.m3u8
 
+#EXTINF:-1 tvg-id="Noticias del gran mundo (2020)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/NCgyWdEg-720.jpg" group-title="Peliculas",Noticias del gran mundo (2020)
+https://cdn.jwplayer.com/manifests/NCgyWdEg.m3u8
 
 #EXTINF:-1 tvg-id="97" tvg-logo="https://cdn.jwplayer.com/thumbs/nDZNfqR8-1280.jpg" group-title="Peliculas",Finch (2021)
 https://cdn.jwplayer.com/manifests/nDZNfqR8.m3u8
