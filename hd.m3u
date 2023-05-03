@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 
-#EXTINF:-1 tvg-id="Pinocho de Guillermo del Toro (2022)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/9W4ZRIcN-720.jpg" group-title="Peliculas",Pinocho de Guillermo del Toro (2022)
-https://cdn.jwplayer.com/manifests/9W4ZRIcN.m3u8
+#EXTINF:-1 tvg-id="Caracortada (1983)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/m5PGTYoo-720.jpg" group-title="Peliculas",Caracortada (1983)
+https://cdn.jwplayer.com/manifests/m5PGTYoo.m3u8
 
-#EXTINF:-1 tvg-id="El Poder y la Avaricia (1987)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/3xgYB1m3-720.jpg" group-title="Peliculas",El Poder y la Avaricia (1987)
+#EXTINF:-1 tvg-id="El Poder y la Avaricia (1987)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/3xgYB1m3-720.jpg" group-title="Peliculas",El Poder y la avaricia (1987)
 https://cdn.jwplayer.com/manifests/3xgYB1m3.m3u8
 
 #EXTINF:-1 tvg-id="Mississippi En Llamas (1988)" tvg-logo="https://cdn.jwplayer.com/thumbs/EBcG1lET-1280.jpg" group-title="Peliculas",Mississippi En Llamas (1988)
@@ -246,6 +246,9 @@ https://cdn.jwplayer.com/manifests/3J8JohBs.m3u8
 #EXTINF:-1 tvg-id="El curioso caso de benjamin button (2008)" tvg-logo="https://content.jwplatform.com/v2/media/2ZG4qqdz/poster.jpg?width=720" group-title="Peliculas",El curioso caso de benjamin button (2008)
 https://cdn.jwplayer.com/manifests/2ZG4qqdz.m3u8
 
+#EXTINF:-1 tvg-id="21 Black Jack (2008)" tvg-logo="https://content.jwplatform.com/v2/media/bnqjuHwh/poster.jpg?width=720" group-title="Peliculas",21 Black Jack (2008)
+https://cdn.jwplayer.com/manifests/bnqjuHwh.m3u8
+
 #EXTINF:-1 tvg-id="52" tvg-logo="https://cdn.jwplayer.com/thumbs/jpaugSDb-1280.jpg" group-title="Peliculas",Avatar 1 (2009)
 https://cdn.jwplayer.com/manifests/jpaugSDb.m3u8
 
@@ -306,19 +309,19 @@ https://cdn.jwplayer.com/manifests/zfUzDIU8.m3u8
 #EXTINF:-1 tvg-id="jobs (2013)" tvg-logo="https://cdn.jwplayer.com/thumbs/BxDv4zfo-1280.jpg" group-title="Peliculas",jobs (2013)
 https://cdn.jwplayer.com/manifests/BxDv4zfo.m3u8
 
-#EXTINF:-1 tvg-id="65" tvg-logo="https://cdn.jwplayer.com/thumbs/bTkrIPIl-1280.jpg" group-title="Peliculas",La fortaleza prohibida (2014)
-https://cdn.jwplayer.com/manifests/5VpEA3Pf.m3u8
+#EXTINF:-1 tvg-id="Rush pasión y gloria (2013)" tvg-logo="https://cdn.jwplayer.com/thumbs/hP2RB7zq-1280.jpg" group-title="Peliculas",Rush pasión y gloria (2013)
+https://cdn.jwplayer.com/manifests/hP2RB7zq.m3u8
 
-#EXTINF:-1 tvg-id="66" tvg-logo="https://cdn.jwplayer.com/thumbs/8TIBpTK6-1280.jpg" group-title="Peliculas",Non-stop  sin escalas (2014)
-https://cdn.jwplayer.com/manifests/bTkrIPIl.m3u8
-
-#EXTINF:-0 tvg-id="678" tvg-logo="https://content.jwplatform.com/v2/media/bTkrIPIl/poster.jpg?width=720" group-title="Peliculas",Non-stop Sin Escalas (2014)
+#EXTINF:-0 tvg-id="Non-stop sin escalas (2014)" tvg-logo="https://content.jwplatform.com/v2/media/bTkrIPIl/poster.jpg?width=720" group-title="Peliculas",Non-stop sin escalas (2014)
 https://cdn.jwplayer.com/manifests/QpOGAlda.m3u8
 
-#EXTINF:-0 tvg-id="Amor Eterno (2014)" tvg-logo="https://content.jwplatform.com/v2/media/Y0UX3L0Z/poster.jpg?width=720" group-title="Peliculas",Amor Eterno (2014)
+#EXTINF:-0 tvg-id="Amor eterno (2014)" tvg-logo="https://content.jwplatform.com/v2/media/Y0UX3L0Z/poster.jpg?width=720" group-title="Peliculas",Amor eterno (2014)
 https://cdn.jwplayer.com/manifests/Y0UX3L0Z.m3u8
 
-#EXTINF:-1 tvg-id="67" tvg-logo="https://cdn.jwplayer.com/thumbs/ZzJCuyhk-1280.jpg" group-title="Peliculas",En el corazón del mar (2015)
+#EXTINF:-0 tvg-id="Corazones de hierro (2014)" tvg-logo="https://content.jwplatform.com/v2/media/YwXv6H75/poster.jpg?width=720" group-title="Peliculas",Corazones de hierro (2014)
+https://cdn.jwplayer.com/manifests/YwXv6H75.m3u8
+
+#EXTINF:-1 tvg-id="En el corazón del mar (2015)" tvg-logo="https://cdn.jwplayer.com/thumbs/ZzJCuyhk-1280.jpg" group-title="Peliculas",En el corazón del mar (2015)
 https://cdn.jwplayer.com/manifests/ZzJCuyhk.m3u8
 
 #EXTINF:-1 tvg-id="68" tvg-logo="https://cdn.jwplayer.com/thumbs/GVCKKdS8-1280.jpg" group-title="Peliculas",Invierno en llamas la lucha por la libertad de ucrania (2015)
@@ -327,8 +330,8 @@ https://cdn.jwplayer.com/manifests/GVCKKdS8.m3u8
 #EXTINF:-1 tvg-id="Joy - el nombre del éxito (2015)" tvg-logo="https://content.jwplatform.com/v2/media/CjYhEgOX/poster.jpg?width=720" group-title="Peliculas",Joy - el nombre del éxito (2015)
 https://cdn.jwplayer.com/manifests/CjYhEgOX.m3u8
 
-#EXTINF:-1 tvg-id="Una buena receta (2015)" tvg-logo="https://content.jwplatform.com/v2/media/vEBBxohO/poster.jpg?width=720" group-title="Peliculas",Una buena receta (2015)
-https://cdn.jwplayer.com/manifests/vEBBxohO.m3u8
+#EXTINF:-1 tvg-id="Una buena receta (2015)" tvg-logo="https://content.jwplatform.com/v2/media/ZXoxnqZd/poster.jpg?width=720" group-title="Peliculas",Una buena receta (2015)
+https://cdn.jwplayer.com/manifests/ZXoxnqZd.m3u8
 
 #EXTINF:-1 tvg-id="69" tvg-logo="https://cdn.jwplayer.com/thumbs/0G2uwVnm-1920.jpg" group-title="Peliculas",Warcraft, el primer encuentro de dos mundos (2016)
 https://cdn.jwplayer.com/manifests/0G2uwVnm.m3u8
@@ -342,6 +345,9 @@ https://cdn.jwplayer.com/manifests/56lfqCEx.m3u8
 #EXTINF:-1 tvg-id="La Gran Muralla (2016)" tvg-logo="https://content.jwplatform.com/v2/media/mc4inRyX/poster.jpg?width=720" group-title="Peliculas",La Gran Muralla (2016)
 https://cdn.jwplayer.com/manifests/mc4inRyX.m3u8
 
+#EXTINF:-1 tvg-id="The Duel (2016)" tvg-logo="https://content.jwplatform.com/v2/media/U9seXTvg/poster.jpg?width=720" group-title="Peliculas",The Duel (2016)
+https://cdn.jwplayer.com/manifests/U9seXTvg.m3u8
+
 #EXTINF:-1 tvg-id="71" tvg-logo="https://cdn.jwplayer.com/thumbs/VBp30h86-1280.jpg" group-title="Peliculas",Dunkerque (2017)
 https://cdn.jwplayer.com/manifests/VBp30h86.m3u8
 
@@ -354,8 +360,11 @@ https://cdn.jwplayer.com/manifests/3kJmSKBc.m3u8
 #EXTINF:-1 tvg-id="74" tvg-logo="https://cdn.jwplayer.com/thumbs/e4SIq3Bv-1280.jpg" group-title="Peliculas",La muerte de stalin (2017)
 https://cdn.jwplayer.com/manifests/e4SIq3Bv.m3u8
 
-#EXTINF:-1 tvg-id="74" tvg-logo="https://cdn.jwplayer.com/thumbs/mfNVGHqK-1280.jpg" group-title="Peliculas",El secreto de la Atlántida (2017)
+#EXTINF:-1 tvg-id="El secreto de la Atlántida (2017)" tvg-logo="https://cdn.jwplayer.com/thumbs/mfNVGHqK-1280.jpg" group-title="Peliculas",El secreto de la Atlántida (2017)
 https://cdn.jwplayer.com/manifests/mfNVGHqK.m3u8
+
+#EXTINF:-1 tvg-id="Jumanji en la selva (2017)" tvg-logo="https://cdn.jwplayer.com/thumbs/pDKAJpPM-1280.jpg" group-title="Peliculas",Jumanji en la selva (2017)
+https://cdn.jwplayer.com/manifests/pDKAJpPM.m3u8
 
 #EXTINF:-1 tvg-id="75" tvg-logo="https://cdn.jwplayer.com/thumbs/pycD39fo-1280.jpg" group-title="Peliculas",Primer año (2018)
 https://cdn.jwplayer.com/manifests/pycD39fo.m3u8
@@ -441,6 +450,9 @@ https://cdn.jwplayer.com/manifests/927TOKWz.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://cdn.jwplayer.com/thumbs/qCR3UtKp-1280.jpg" group-title="Peliculas",Riesgo bajo cero (2021)
 https://cdn.jwplayer.com/manifests/qCR3UtKp.m3u8
 
+#EXTINF:-1 tvg-id="Romper los límites la ciencia de nuestro planeta (2021)" tvg-logo="https://cdn.jwplayer.com/thumbs/AZDqhiki-1280.jpg" group-title="Peliculas",Romper los límites la ciencia de nuestro planeta (2021)
+https://cdn.jwplayer.com/manifests/AZDqhiki.m3u8
+
 #EXTINF:-1 tvg-id="101" tvg-logo="https://cdn.jwplayer.com/thumbs/nU9zWYHw-1280.jpg" group-title="Peliculas",Dos Contra El Hielo (2022)
 https://cdn.jwplayer.com/manifests/nU9zWYHw.m3u8
 
@@ -450,11 +462,11 @@ https://cdn.jwplayer.com/manifests/QSjZusGW.m3u8
 #EXTINF:-1 tvg-id="103" tvg-logo="https://content.jwplatform.com/v2/media/xGFGJBJQ/poster.jpg?width=720" group-title="Peliculas",Operación Cerveza (2022)
 https://cdn.jwplayer.com/manifests/xGFGJBJQ.m3u8
 
+#EXTINF:-1 tvg-id="Pinocho de Guillermo del Toro (2022)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/9W4ZRIcN-720.jpg" group-title="Peliculas",Pinocho de Guillermo del Toro (2022)
+https://cdn.jwplayer.com/manifests/9W4ZRIcN.m3u8
+
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://content.jwplatform.com/v2/media/O0wOIbAk/poster.jpg?width=720" group-title="Peliculas",Super Mario Bros (2023)
 https://cdn.jwplayer.com/manifests/O0wOIbAk.m3u8
-
-
-
 
 
 
