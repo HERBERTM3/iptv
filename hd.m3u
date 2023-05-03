@@ -6,35 +6,38 @@ https://cdn.jwplayer.com/manifests/9W4ZRIcN.m3u8
 #EXTINF:-1 tvg-id="El Poder y la Avaricia (1987)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/3xgYB1m3-720.jpg" group-title="Peliculas",El Poder y la Avaricia (1987)
 https://cdn.jwplayer.com/manifests/3xgYB1m3.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://cdn.jwplayer.com/thumbs/EBcG1lET-1280.jpg" group-title="Peliculas",Mississippi En Llamas (1988)
+#EXTINF:-1 tvg-id="Mississippi En Llamas (1988)" tvg-logo="https://cdn.jwplayer.com/thumbs/EBcG1lET-1280.jpg" group-title="Peliculas",Mississippi En Llamas (1988)
 https://cdn.jwplayer.com/manifests/EBcG1lET.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/bGfbSwSl-720.jpg" group-title="Peliculas",Coctel (1988)
+#EXTINF:-1 tvg-id="Peliculas",Coctel (1988)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/bGfbSwSl-720.jpg" group-title="Peliculas",Coctel (1988)
 https://cdn.jwplayer.com/manifests/bGfbSwSl.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://cdn.jwplayer.com/thumbs/F11TUDhR-960.jpg" group-title="Peliculas",El regreso a la laguna azul (1991)
 https://cdn.jwplayer.com/manifests/F11TUDhR.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.jwplayer.com/thumbs/MfIx47lt-1280.jpg" group-title="Peliculas",The Firm Sin Salida (1993)
+#EXTINF:-1 tvg-id="The Firm Sin Salida (1993)" tvg-logo="https://cdn.jwplayer.com/thumbs/MfIx47lt-1280.jpg" group-title="Peliculas",The Firm Sin Salida (1993)
 https://cdn.jwplayer.com/manifests/MfIx47lt.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://cdn.jwplayer.com/thumbs/V1JkaLsY-960.jpg" group-title="Peliculas",Ganar o Morir (1993)
+#EXTINF:-1 tvg-id="Ganar o Morir (1993)" tvg-logo="https://cdn.jwplayer.com/thumbs/V1JkaLsY-960.jpg" group-title="Peliculas",Ganar o Morir (1993)
 https://cdn.jwplayer.com/manifests/V1JkaLsY.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://cdn.jwplayer.com/thumbs/MbDDABPA-1280.jpg" group-title="Peliculas",Los beverly ricos (1993)
+#EXTINF:-1 tvg-id="Los beverly ricos (1993)" tvg-logo="https://cdn.jwplayer.com/thumbs/MbDDABPA-1280.jpg" group-title="Peliculas",Los beverly ricos (1993)
 https://cdn.jwplayer.com/manifests/MbDDABPA.m3u8
 
 #EXTINF:-1 tvg-id="Parque Jurásico (1993)" tvg-logo="https://content.jwplatform.com/v2/media/qiFmlC4O/poster.jpg?width=720" group-title="Peliculas",Parque Jurásico (1993)
 https://cdn.jwplayer.com/manifests/qiFmlC4O.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://cdn.jwplayer.com/thumbs/oo1NGfNH-1280.jpg" group-title="Peliculas",La máscara 1 (1994)
+#EXTINF:-1 tvg-id="La máscara 1 (1994)" tvg-logo="https://cdn.jwplayer.com/thumbs/oo1NGfNH-1280.jpg" group-title="Peliculas",La máscara 1 (1994)
 https://cdn.jwplayer.com/manifests/oo1NGfNH.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://content.jwplatform.com/v2/media/0pNWEGAc/poster.jpg?width=720" group-title="Peliculas",La máscara 2 HBO (2005)
+#EXTINF:-1 tvg-id="La máscara 2 HBO (2005)" tvg-logo="https://content.jwplatform.com/v2/media/0pNWEGAc/poster.jpg?width=720" group-title="Peliculas",La máscara 2 HBO (2005)
 https://cdn.jwplayer.com/manifests/0pNWEGAc.m3u8
 
-#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/da5kxY4t/poster.jpg?width=720",Zathura, Una Aventura Espacial (2005)
+#EXTINF:-0 tvg-id="Zathura, Una Aventura Espacial (2005)" group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/da5kxY4t/poster.jpg?width=720",Zathura, Una Aventura Espacial (2005)
 https://cdn.jwplayer.com/manifests/boQw1bgI.m3u8
+
+#EXTINF:-0 tvg-id="Conquistando a mi suegro (2005)" group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/U8gqX7RR/poster.jpg?width=720",Conquistando a mi suegro (2005)
+https://cdn.jwplayer.com/manifests/U8gqX7RR.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://cdn.jwplayer.com/thumbs/SgUXQRft-1280.jpg" group-title="Peliculas",Balto 1 (1995)
 https://cdn.jwplayer.com/manifests/SgUXQRft.m3u8
@@ -57,19 +60,19 @@ https://cdn.jwplayer.com/manifests/G14IK4AN.m3u8
 #EXTINF:-1 tvg-id="Austin Powers- El espía seductor (1999)" tvg-logo="https://content.jwplatform.com/v2/media/FTJI05Y2/poster.jpg?width=720" group-title="Peliculas",Austin Powers- El espía seductor (1999)
 https://cdn.jwplayer.com/manifests/FTJI05Y2.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://content.jwplatform.com/v2/media/u8DGcmQi/poster.jpg?width=720" group-title="Peliculas",El abogado del diablo - HBO (1997)
+#EXTINF:-1 tvg-id="El abogado del diablo - HBO (1997)" tvg-logo="https://content.jwplatform.com/v2/media/u8DGcmQi/poster.jpg?width=720" group-title="Peliculas",El abogado del diablo - HBO (1997)
 https://cdn.jwplayer.com/manifests/u8DGcmQi.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-logo="https://cdn.jwplayer.com/thumbs/YyEbpfZG-1280.jpg" group-title="Peliculas",El hombre de la máscara de hierro (1998)
+#EXTINF:-1 tvg-id="El hombre de la máscara de hierro (1998)" tvg-logo="https://cdn.jwplayer.com/thumbs/YyEbpfZG-1280.jpg" group-title="Peliculas",El hombre de la máscara de hierro (1998)
 https://cdn.jwplayer.com/manifests/YyEbpfZG.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-logo="https://cdn.jwplayer.com/thumbs/ZITfGiUA-960.jpg" group-title="Peliculas",De ladrón a policía (1999)
+#EXTINF:-1 tvg-id="De ladrón a policía (1999)" tvg-logo="https://cdn.jwplayer.com/thumbs/ZITfGiUA-960.jpg" group-title="Peliculas",De ladrón a policía (1999)
 https://cdn.jwplayer.com/manifests/ZITfGiUA.m3u8
 
-#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/xz58ji8I/poster.jpg?width=720",El Club De La Pelea (1999)
+#EXTINF:-0 tvg-id="El Club De La Pelea (1999)" tvg-logo="https://content.jwplatform.com/v2/media/xz58ji8I/poster.jpg?width=720" group-title="Peliculas" ,El Club De La Pelea (1999)
 https://cdn.jwplayer.com/manifests/hSssAluF.m3u8
 
-#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/oiCuRlDq/poster.jpg?width=720",Cielo de octubre (1999)
+#EXTINF:-0 tvg-id="Cielo de octubre (1999)" group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/oiCuRlDq/poster.jpg?width=720",Cielo de octubre (1999)
 https://cdn.jwplayer.com/manifests/oiCuRlDq.m3u8
 
 #EXTINF:-1 tvg-id="Las Cenizas de Ángela (1999)" tvg-logo="https://content.jwplatform.com/v2/media/0H3IjZza/poster.jpg?width=720" group-title="Peliculas",Las Cenizas de Ángela (1999)
@@ -227,6 +230,9 @@ https://cdn.jwplayer.com/manifests/4nblcI2J.m3u8
 
 #EXTINF:-1 tvg-id="Quisiera ser millonario (2008)" tvg-logo="https://content.jwplatform.com/v2/media/3J8JohBs/poster.jpg?width=720" group-title="Peliculas",Quisiera ser millonario (2008)
 https://cdn.jwplayer.com/manifests/3J8JohBs.m3u8
+
+#EXTINF:-1 tvg-id="El curioso caso de benjamin button (2008)" tvg-logo="https://content.jwplatform.com/v2/media/2ZG4qqdz/poster.jpg?width=720" group-title="Peliculas",El curioso caso de benjamin button (2008)
+https://cdn.jwplayer.com/manifests/2ZG4qqdz.m3u8
 
 #EXTINF:-1 tvg-id="52" tvg-logo="https://cdn.jwplayer.com/thumbs/jpaugSDb-1280.jpg" group-title="Peliculas",Avatar 1 (2009)
 https://cdn.jwplayer.com/manifests/jpaugSDb.m3u8
