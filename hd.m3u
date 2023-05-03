@@ -330,6 +330,9 @@ https://cdn.jwplayer.com/manifests/3kJmSKBc.m3u8
 #EXTINF:-1 tvg-id="74" tvg-logo="https://cdn.jwplayer.com/thumbs/e4SIq3Bv-1280.jpg" group-title="Peliculas",La muerte de stalin (2017)
 https://cdn.jwplayer.com/manifests/e4SIq3Bv.m3u8
 
+#EXTINF:-1 tvg-id="74" tvg-logo="https://cdn.jwplayer.com/thumbs/mfNVGHqK-1280.jpg" group-title="Peliculas",El secreto de la Atlántida (2017)
+https://cdn.jwplayer.com/manifests/mfNVGHqK.m3u8
+
 #EXTINF:-1 tvg-id="75" tvg-logo="https://cdn.jwplayer.com/thumbs/pycD39fo-1280.jpg" group-title="Peliculas",Primer año (2018)
 https://cdn.jwplayer.com/manifests/pycD39fo.m3u8
 
