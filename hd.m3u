@@ -1119,7 +1119,6 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #Sin token
 #herramienta para ver el token:https://codebeautify.org/source-code-viewer
 
-
 #EXTINF:-1 tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #pagina web:https://www.mega.cl/senal-en-vivo/
@@ -1153,26 +1152,6 @@ https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/c324fc2
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 #pagina web:https://www.youtube.com/@tele13
 
-#EXTINF:-1 tvg-id="13 Teleseries" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/13Teleseries.jpg" group-title="Televisión",13 Teleseries
-https://dai.google.com/linear/hls/pa/event/f4TrySe8SoiGF8Lu3EIq1g/stream/0837bc56-3b99-46ce-91fa-215feeed4477:SCL/variant/e9636fcc83b2a21b94fc9e738091aa8f/bandwidth/1692504.m3u8
-https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
-#pagina web:https://www.13.cl/13t
-
-#EXTINF:-1 tvg-id="13 Prime" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/13Prime.jpg" group-title="Televisión",13 Prime
-https://dai.google.com/linear/hls/pa/event/p4mmBxEzSmKAxY1GusOHrw/stream/bd6f99d8-d59b-4a5d-85a7-6e4dccedcfad:SCL/variant/a6fa47b2c9ff83a9aa84af88be89db5f/bandwidth/1620432.m3u8
-https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
-#pagina web:https://www.13.cl/13p
-
-#EXTINF:-1 tvg-id="13 Entretenimiento" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/13Entretencion.jpg" group-title="Televisión",13 Entretención
-https://dai.google.com/linear/hls/pa/event/BBp0VeP6QtOOlH8nu3bWTg/stream/4110f132-fa70-4cca-b632-eab0aa111bdd:SCL/variant/7b8aa50baaec6aa0efd701762764e62e/bandwidth/2263303.m3u8
-https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
-#pagina web:https://www.13.cl/13e
-
-#EXTINF:-1 tvg-id="13 Cultura" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/13Cultura.jpg" group-title="Televisión",13 Cultura
-https://dai.google.com/linear/hls/pa/event/GI-9cp_bT8KcerLpZwkuhw/stream/6e5fa09a-12fa-4cd9-91db-3dac950b0c08:SCL/variant/65728ae2b0f4bd85de84d63c8cfda3b4/bandwidth/1519881.m3u8
-https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
-#pagina web:https://www.13.cl/13cultura
-
 #EXTINF:-1 tvg-id="Tevex" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tevex.jpg" group-title="Televisión",Tevex
 https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.m3u8
 #pagina web:https://tevex.cl/en-vivo/
@@ -1180,10 +1159,6 @@ https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Canal 9 bío-bío" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal9.jpg" group-title="Televisión",Canal 9 bío-bío
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #pagina web:https://www.canal9.cl/envivo/
-
-#EXTINF:-1 tvg-id="France 24 (Español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/fr24es.jpg" group-title="Televisión",France 24 (español)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@France24_es/live
-#pagina web:https://www.france24.com/es/en-vivo
 
 #EXTINF:-1 tvg-id="DW (Deutsch)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dwd.jpg" group-title="Televisión",DW (deutsch)
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream01/streamPlaylist.m3u8
@@ -1197,20 +1172,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
 #pagina web:https://actualidad.rt.com/en_vivo2
 
-#EXTINF:-1 tvg-id="Willax tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/willax.png" group-title="Televisión",Willax tv
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
-#pagina web 1:https://www.dailymotion.com/WillaxTV
-#pagina web 2:https://willax.pe/en-vivo
-
-#EXTINF:-1 tvg-id="Panamericana tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/PanamericanaTV.png" group-title="Televisión",Panamericana tv
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
-#pagina web 1:https://www.dailymotion.com/PanamericanaPTV
-#pagina web 2:https://panamericana.pe/tvenvivo
-
 #EXTINF:-1 tvg-id="Dramas coreanos (pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dramas_coreanos.jpg" group-title="Televisión",Dramas coreanos (pluto tv)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PS
 #pagina web 1:https://pluto.tv/es/live-tv/pluto-tv-dramas-coreanos
-
+#pagina web 2:https://github.com/iptv-org/awesome-iptv
 #################################################################################################################################################
 
 
