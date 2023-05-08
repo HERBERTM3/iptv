@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
+#http://m3u4u.com
 
 #EXTINF:-1 tvg-id="Caracortada (1983)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/m5PGTYoo-720.jpg" group-title="Peliculas",Caracortada (1983)
 https://cdn.jwplayer.com/manifests/m5PGTYoo.m3u8
@@ -1096,7 +1097,7 @@ https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
 #pagina web:https://www.lared.cl/senal-online
 
 #EXTINF:-1 tvg-id="Tvn" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="Televisión",Tvn
-https://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?access_token=i023mNJiToI0xxb89lAqg1wWzp33eacyS18jlrkJpCfQ3tKLEHYVr7KYXrUJWEqNWQ5HNAdX0Jj
+https://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?access_token=FmNotzoOXDoZWaHupBbLurn8Ijrjq1C1gAOHRTaBvcLr3K6T00meQLanhm4zCOLXtFHlVUR8wAc
 #pagina web:https://www.tvn.cl/en-vivo
 #token:https://live.tvn.cl
 #herramienta para ver el token:https://codebeautify.org/source-code-viewer
@@ -1120,6 +1121,7 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #herramienta para ver el token:https://codebeautify.org/source-code-viewer
 
 #EXTINF:-1 tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #pagina web:https://www.mega.cl/senal-en-vivo/
 
