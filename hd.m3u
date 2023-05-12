@@ -10,7 +10,7 @@ https://cdn.jwplayer.com/manifests/3xgYB1m3.m3u8
 #EXTINF:-1 tvg-id="Mississippi En Llamas (1988)" tvg-logo="https://cdn.jwplayer.com/thumbs/EBcG1lET-1280.jpg" group-title="Peliculas",Mississippi En Llamas (1988)
 https://cdn.jwplayer.com/manifests/EBcG1lET.m3u8
 
-#EXTINF:-1 tvg-id="Peliculas",Coctel (1988)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/bGfbSwSl-720.jpg" group-title="Peliculas",Coctel (1988)
+#EXTINF:-1 tvg-id="Peliculas"Coctel (1988)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/bGfbSwSl-720.jpg" group-title="Peliculas",Coctel (1988)
 https://cdn.jwplayer.com/manifests/bGfbSwSl.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://cdn.jwplayer.com/thumbs/F11TUDhR-960.jpg" group-title="Peliculas",El regreso a la laguna azul (1991)
