@@ -871,7 +871,6 @@ https://cdn.jwplayer.com/manifests/gBuVdFvO.m3u8
 https://cdn.jwplayer.com/manifests/9775T5VU.m3u8
 
 #################################################################################################################################################
-
 #EXTINF:-1 tvg-id="Chernobyl T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/SpaS6IxV/poster.jpg?width=720" group-title="Serie: Chernobyl",Chernobyl T1 - Capitulo 1
 https://cdn.jwplayer.com/manifests/SpaS6IxV.m3u8
 #EXTINF:-1 tvg-id="Chernobyl T1 - Capitulo 2" tvg-logo="https://content.jwplatform.com/v2/media/ZRA17Awi/poster.jpg?width=720" group-title="Serie: Chernobyl",Chernobyl T1 - Capitulo 2
@@ -882,6 +881,26 @@ https://cdn.jwplayer.com/manifests/ivEKTt8Q.m3u8
 https://cdn.jwplayer.com/manifests/ME8ohFf6.m3u8
 #EXTINF:-1 tvg-id="Chernobyl T1 - Capitulo 5" tvg-logo="https://content.jwplatform.com/v2/media/Uyioq8mI/poster.jpg?width=720" group-title="Serie: Chernobyl",Chernobyl T1 - Capitulo 5
 https://cdn.jwplayer.com/manifests/Uyioq8mI.m3u8
+#################################################################################################################################################
+#EXTINF:-1 tvg-id="Merlina T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/VFdzZVNs/poster.jpg?width=720" group-title="Serie: Merlina",Merlina T1 - Capitulo 1
+https://cdn.jwplayer.com/manifests/VFdzZVNs.m3u8
+#EXTINF:-1 tvg-id="Merlina T1 - Capitulo 2" tvg-logo="https://content.jwplatform.com/v2/media/zgw9Bpkj/poster.jpg?width=720" group-title="Serie: Merlina",Merlina T1 - Capitulo 2
+https://cdn.jwplayer.com/manifests/zgw9Bpkj.m3u8
+#EXTINF:-1 tvg-id="Merlina T1 - Capitulo 3" tvg-logo="https://content.jwplatform.com/v2/media/nLESC22h/poster.jpg?width=720" group-title="Serie: Merlina",Merlina T1 - Capitulo 3
+https://cdn.jwplayer.com/manifests/nLESC22h.m3u8
+#EXTINF:-1 tvg-id="Merlina T1 - Capitulo 4" tvg-logo="https://content.jwplatform.com/v2/media/9aSjCd92/poster.jpg?width=720" group-title="Serie: Merlina",Merlina T1 - Capitulo 4
+https://cdn.jwplayer.com/manifests/9aSjCd92.m3u8
+#EXTINF:-1 tvg-id="Merlina T1 - Capitulo 5" tvg-logo="https://content.jwplatform.com/v2/media/KcEBMfVy/poster.jpg?width=720" group-title="Serie: Merlina",Merlina T1 - Capitulo 5
+https://cdn.jwplayer.com/manifests/KcEBMfVy.m3u8
+#EXTINF:-1 tvg-id="Merlina T1 - Capitulo 6" tvg-logo="https://content.jwplatform.com/v2/media/UmfhGLgj/poster.jpg?width=720" group-title="Serie: Merlina",Merlina T1 - Capitulo 6
+https://cdn.jwplayer.com/manifests/UmfhGLgj.m3u8
+#EXTINF:-1 tvg-id="Merlina T1 - Capitulo 7" tvg-logo="https://content.jwplatform.com/v2/media/fVc1so7q/poster.jpg?width=720" group-title="Serie: Merlina",Merlina T1 - Capitulo 7
+https://cdn.jwplayer.com/manifests/fVc1so7q.m3u8
+#EXTINF:-1 tvg-id="Merlina T1 - Capitulo 8" tvg-logo="https://content.jwplatform.com/v2/media/DjdjaCbw/poster.jpg?width=720" group-title="Serie: Merlina",Merlina T1 - Capitulo 8
+https://cdn.jwplayer.com/manifests/DjdjaCbw.m3u8
+
+
+
 #################################################################################################################################################
 #EXTINF:-1 tvg-id="Breaking Bad T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/5zUrHPdp/poster.jpg?width=720" group-title="Serie: Breaking Bad",Breaking Bad T1 - Capitulo 1
 https://cdn.jwplayer.com/manifests/5zUrHPdp.m3u8
