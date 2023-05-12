@@ -259,11 +259,14 @@ https://cdn.jwplayer.com/manifests/2ZG4qqdz.m3u8
 #EXTINF:-1 tvg-id="21 Black Jack (2008)" tvg-logo="https://content.jwplatform.com/v2/media/bnqjuHwh/poster.jpg?width=720" group-title="Peliculas",21 Black Jack (2008)
 https://cdn.jwplayer.com/manifests/bnqjuHwh.m3u8
 
-#EXTINF:-1 tvg-id="52" tvg-logo="https://cdn.jwplayer.com/thumbs/jpaugSDb-1280.jpg" group-title="Peliculas",Avatar 1 (2009)
+#EXTINF:-1 tvg-id="Avatar opcion 1 (2009)" tvg-logo="https://cdn.jwplayer.com/thumbs/jpaugSDb-1280.jpg" group-title="Peliculas",Avatar opcion 1 (2009)
 https://cdn.jwplayer.com/manifests/jpaugSDb.m3u8
 
-#EXTINF:-1 tvg-id="53" tvg-logo="https://cdn.jwplayer.com/thumbs/LS2zp2ZO-1280.jpg" group-title="Peliculas",Avatar 1 (2009)
+#EXTINF:-1 tvg-id="Avatar opcion 2 (2009)" tvg-logo="https://cdn.jwplayer.com/thumbs/LS2zp2ZO-1280.jpg" group-title="Peliculas",Avatar opcion 2 (2009)
 https://cdn.jwplayer.com/manifests/LS2zp2ZO.m3u8
+
+#EXTINF:-1 tvg-id="Avatar opcion 3 (2009)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/QJUgnjUH-720.jpg" group-title="Peliculas",Avatar opcion 3 (2009)
+https://cdn.jwplayer.com/manifests/QJUgnjUH.m3u8
 
 #EXTINF:-1 tvg-id="Fireball (2009)" tvg-logo="https://cdn.jwplayer.com/thumbs/lBYdx8T6-1280.jpg" group-title="Peliculas",Fireball (2009)
 https://cdn.jwplayer.com/manifests/lBYdx8T6.m3u8
@@ -279,9 +282,6 @@ https://cdn.jwplayer.com/manifests/7VCOkBX0.m3u8
 
 #EXTINF:-1 tvg-id="Sector 9 (2009)" tvg-logo="https://content.jwplatform.com/v2/media/fteS91Zg/poster.jpg?width=720" group-title="Peliculas",Sector 9 (2009)
 https://cdn.jwplayer.com/manifests/fteS91Zg.m3u8
-
-#EXTINF:-1 tvg-id="Avatar (2009)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/QJUgnjUH-720.jpg" group-title="Peliculas",Avatar opcion 1 (2009)
-https://cdn.jwplayer.com/manifests/QJUgnjUH.m3u8
 
 #EXTINF:-1 tvg-id="58" tvg-logo="https://cdn.jwplayer.com/thumbs/YhAEndMC-1280.jpg" group-title="Peliculas",Megamente (2010)
 https://cdn.jwplayer.com/manifests/YhAEndMC.m3u8
