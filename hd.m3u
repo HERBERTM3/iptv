@@ -91,6 +91,9 @@ https://cdn.jwplayer.com/manifests/WsJGV881.m3u8
 #EXTINF:-1 tvg-id="Gladiador (2000)" tvg-logo="https://cdn.jwplayer.com/thumbs/hD8K5HXA-720.jpg" group-title="Peliculas",Gladiador (2000)
 https://cdn.jwplayer.com/manifests/hD8K5HXA.m3u8
 
+#EXTINF:-1 tvg-id="La película de Tigger (2000)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/e9vkQf2v-720.jpg" group-title="Peliculas",La película de Tigger (2000)
+https://cdn.jwplayer.com/manifests/e9vkQf2v.m3u8
+
 #EXTINF:-1 tvg-id="19" tvg-logo="https://cdn.jwplayer.com/thumbs/ztfljVZv-1280.jpg" group-title="Peliculas",La Caída Del Halcón Negro (2001)
 https://cdn.jwplayer.com/manifests/ztfljVZv.m3u8
 
@@ -166,6 +169,9 @@ https://cdn.jwplayer.com/manifests/lLU0qi9g.m3u8
 #EXTINF:-1 tvg-id="Machuca (2004)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/FP7ubImX-720.jpg" group-title="Peliculas",Machuca (2004)
 https://cdn.jwplayer.com/manifests/FP7ubImX.m3u8
 
+#EXTINF:-1 tvg-id="La pasión de Cristo (2004)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/GlKOsKnn-720.jpg" group-title="Peliculas",La pasión de Cristo (2004)
+https://cdn.jwplayer.com/manifests/GlKOsKnn.m3u8
+
 #EXTINF:-1 tvg-id="35" tvg-logo="https://cdn.jwplayer.com/thumbs/03q5ktEp-1920.jpg" group-title="Peliculas",Constantine (2005)
 https://cdn.jwplayer.com/manifests/03q5ktEp.m3u8
 
@@ -207,6 +213,9 @@ https://cdn.jwplayer.com/manifests/bIRpEBV0.m3u8
 
 #EXTINF:-1 tvg-id="Chiquito pero peligroso (2006)" tvg-logo="https://content.jwplatform.com/v2/media/LDcTw1ac/poster.jpg?width=720" group-title="Peliculas",Chiquito pero peligroso (2006)
 https://cdn.jwplayer.com/manifests/LDcTw1ac.m3u8
+
+#EXTINF:-1 tvg-id="The da vinci code (2006)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/ljlXNjSu-720.jpg" group-title="Peliculas",The da vinci code (2006)
+https://cdn.jwplayer.com/manifests/ljlXNjSu.m3u8
 
 #EXTINF:-1 tvg-id="45" tvg-logo="https://cdn.jwplayer.com/thumbs/Up95l49F-1280.jpg" group-title="Peliculas",Soy Leyenda (2007)
 https://cdn.jwplayer.com/manifests/Up95l49F.m3u8
@@ -271,8 +280,8 @@ https://cdn.jwplayer.com/manifests/7VCOkBX0.m3u8
 #EXTINF:-1 tvg-id="Sector 9 (2009)" tvg-logo="https://content.jwplatform.com/v2/media/fteS91Zg/poster.jpg?width=720" group-title="Peliculas",Sector 9 (2009)
 https://cdn.jwplayer.com/manifests/fteS91Zg.m3u8
 
-#EXTINF:-1 tvg-id="Peleador Callejero (2009)" tvg-logo="https://content.jwplatform.com/v2/media/sRC4giMe/poster.jpg?width=720" group-title="Peliculas",Peleador Callejero (2009)
-https://cdn.jwplayer.com/manifests/sRC4giMe.m3u8
+#EXTINF:-1 tvg-id="Avatar (2009)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/QJUgnjUH-720.jpg" group-title="Peliculas",Avatar opcion 1 (2009)
+https://cdn.jwplayer.com/manifests/QJUgnjUH.m3u8
 
 #EXTINF:-1 tvg-id="58" tvg-logo="https://cdn.jwplayer.com/thumbs/YhAEndMC-1280.jpg" group-title="Peliculas",Megamente (2010)
 https://cdn.jwplayer.com/manifests/YhAEndMC.m3u8
@@ -301,8 +310,17 @@ https://cdn.jwplayer.com/manifests/X52tI7gf.m3u8
 #EXTINF:-0 tvg-id="Una esposa de mentira (2011)" tvg-logo="https://content.jwplatform.com/v2/media/R8w2UgX8/poster.jpg?width=720" group-title="Peliculas",Una esposa de mentira (2011)
 https://cdn.jwplayer.com/manifests/R8w2UgX8.m3u8
 
+#EXTINF:-1 tvg-id="Historias Cruzadas (2011)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/1N30Xv36-720.jpg" group-title="Peliculas",Historias Cruzadas (2011)
+https://cdn.jwplayer.com/manifests/1N30Xv36.m3u8
+
+#EXTINF:-1 tvg-id="Winnie the Pooh (2011)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/PqeHBl7X-720.jpg" group-title="Peliculas",Winnie the Pooh (2011)
+https://cdn.jwplayer.com/manifests/PqeHBl7X.m3u8
+
 #EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/UVRP9Ghm/poster.jpg?width=720",Proyecto X (2012)
 https://cdn.jwplayer.com/manifests/UVRP9Ghm.m3u8
+
+#EXTINF:-1 tvg-id="John Carter: Entre dos mundos (2012)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/waRnV2ow-720.jpg" group-title="Peliculas",John Carter: Entre dos mundos (2012)
+https://cdn.jwplayer.com/manifests/waRnV2ow.m3u8
 
 #EXTINF:-1 tvg-id="64" tvg-logo="https://cdn.jwplayer.com/thumbs/zfUzDIU8-1280.jpg" group-title="Peliculas",El lobo de wall street  (2013)
 https://cdn.jwplayer.com/manifests/zfUzDIU8.m3u8
@@ -312,6 +330,12 @@ https://cdn.jwplayer.com/manifests/BxDv4zfo.m3u8
 
 #EXTINF:-1 tvg-id="Rush pasión y gloria (2013)" tvg-logo="https://cdn.jwplayer.com/thumbs/hP2RB7zq-1280.jpg" group-title="Peliculas",Rush pasión y gloria (2013)
 https://cdn.jwplayer.com/manifests/hP2RB7zq.m3u8
+
+#EXTINF:-1 tvg-id="Elysium (2013)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/IU5rUGjU-720.jpg" group-title="Peliculas",Elysium (2013)
+https://cdn.jwplayer.com/manifests/IU5rUGjU.m3u8
+
+#EXTINF:-1 tvg-id="Carrie (2013)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/Z6yd14PS-720.jpg" group-title="Peliculas",Carrie (2013)
+https://cdn.jwplayer.com/manifests/Z6yd14PS.m3u8
 
 #EXTINF:-0 tvg-id="Non-stop sin escalas (2014)" tvg-logo="https://content.jwplatform.com/v2/media/bTkrIPIl/poster.jpg?width=720" group-title="Peliculas",Non-stop sin escalas (2014)
 https://cdn.jwplayer.com/manifests/QpOGAlda.m3u8
@@ -334,6 +358,12 @@ https://cdn.jwplayer.com/manifests/CjYhEgOX.m3u8
 #EXTINF:-1 tvg-id="Una buena receta (2015)" tvg-logo="https://content.jwplatform.com/v2/media/ZXoxnqZd/poster.jpg?width=720" group-title="Peliculas",Una buena receta (2015)
 https://cdn.jwplayer.com/manifests/ZXoxnqZd.m3u8
 
+#EXTINF:-1 tvg-id="Spectre (2015)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/y5vdiyp3-720.jpg" group-title="Peliculas",Spectre (2015)
+https://cdn.jwplayer.com/manifests/y5vdiyp3.m3u8
+
+#EXTINF:-1 tvg-id="The revenant (2015)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/vHNXvadM-720.jpg" group-title="Peliculas",The revenant (2015)
+https://cdn.jwplayer.com/manifests/vHNXvadM.m3u8
+
 #EXTINF:-1 tvg-id="69" tvg-logo="https://cdn.jwplayer.com/thumbs/0G2uwVnm-1920.jpg" group-title="Peliculas",Warcraft, el primer encuentro de dos mundos (2016)
 https://cdn.jwplayer.com/manifests/0G2uwVnm.m3u8
 
@@ -348,6 +378,12 @@ https://cdn.jwplayer.com/manifests/mc4inRyX.m3u8
 
 #EXTINF:-1 tvg-id="The Duel (2016)" tvg-logo="https://content.jwplatform.com/v2/media/U9seXTvg/poster.jpg?width=720" group-title="Peliculas",The Duel (2016)
 https://cdn.jwplayer.com/manifests/U9seXTvg.m3u8
+
+#EXTINF:-1 tvg-id="Capitán América: Civil War (2016)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/sCanhcYc-720.jpg" group-title="Peliculas",Capitán América: Civil War (2016)
+https://cdn.jwplayer.com/manifests/sCanhcYc.m3u8
+
+#EXTINF:-1 tvg-id="Assassins creed (2016)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/AOw3wnqF-720.jpg" group-title="Peliculas",Assassins creed (2016)
+https://cdn.jwplayer.com/manifests/AOw3wnqF.m3u8
 
 #EXTINF:-1 tvg-id="71" tvg-logo="https://cdn.jwplayer.com/thumbs/VBp30h86-1280.jpg" group-title="Peliculas",Dunkerque (2017)
 https://cdn.jwplayer.com/manifests/VBp30h86.m3u8
@@ -454,6 +490,9 @@ https://cdn.jwplayer.com/manifests/qCR3UtKp.m3u8
 #EXTINF:-1 tvg-id="Romper los límites la ciencia de nuestro planeta (2021)" tvg-logo="https://cdn.jwplayer.com/thumbs/AZDqhiki-1280.jpg" group-title="Peliculas",Romper los límites la ciencia de nuestro planeta (2021)
 https://cdn.jwplayer.com/manifests/AZDqhiki.m3u8
 
+#EXTINF:-1 tvg-id="Tutankamón a color (2021)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/d0xkm1jn-720.jpg" group-title="Peliculas",Tutankamón a color (2021)
+https://cdn.jwplayer.com/manifests/d0xkm1jn.m3u8
+
 #EXTINF:-1 tvg-id="101" tvg-logo="https://cdn.jwplayer.com/thumbs/nU9zWYHw-1280.jpg" group-title="Peliculas",Dos Contra El Hielo (2022)
 https://cdn.jwplayer.com/manifests/nU9zWYHw.m3u8
 
@@ -465,6 +504,9 @@ https://cdn.jwplayer.com/manifests/xGFGJBJQ.m3u8
 
 #EXTINF:-1 tvg-id="Pinocho de Guillermo del Toro (2022)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/9W4ZRIcN-720.jpg" group-title="Peliculas",Pinocho de Guillermo del Toro (2022)
 https://cdn.jwplayer.com/manifests/9W4ZRIcN.m3u8
+
+#EXTINF:-1 tvg-id="Doctor strange (2022)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/5bhYIMys-720.jpg" group-title="Peliculas",Doctor strange (2022)
+https://cdn.jwplayer.com/manifests/5bhYIMys.m3u8
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://content.jwplatform.com/v2/media/O0wOIbAk/poster.jpg?width=720" group-title="Peliculas",Super Mario Bros (2023)
 https://cdn.jwplayer.com/manifests/O0wOIbAk.m3u8
