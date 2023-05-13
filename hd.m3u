@@ -1188,12 +1188,20 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #pagina web:https://www.mega.cl/senal-en-vivo/
+https://mdstrm.com/live-stream-playlist-v/60ca5d9a4721a43eebc87865.m3u8?access_token=xSSFZVTjBNCAacEsDDncnPAgQhQpaNxw7eUOXYShYoaLCiFCiLxWc8ETBhiimWM3PfG6e1tuqU2
+#token:https://api-mds.megamedia.cl/mds/api/v1/token/live/60ca5d9a4721a43eebc87865
+#Playe:https://www.megago.cl/player/live/608848fb45a01919d1a3352e
 
 #EXTINF:-1 tvg-id="Mega (No 24/7)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega (no 24/7)
 http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8?access_token=Ef7L1dXUA7JIsOJbPM25OK9V2G1vjA4HijuWPpKc2XDwCdfoJptZRcERzUxLmE7ORlr4iMwFLFl
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #pagina web:https://www.mega.cl/senal-en-vivo/
+
+#opcion 2 del mismo canal pero esta vez con token
+https://mdstrm.com/live-stream-playlist-v/60ca63f2d983c04051f22bbc.m3u8?access_token=xSSFZVTjBNCAacEsDDncnPAgQhQpaNxw7eUOXYShYoaLCiFCiLxWc8ETBhiimWM3PfG6e1tuqU2
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#token:https://api-mds.megamedia.cl/mds/api/v1/token/live/60ca63f2d983c04051f22bbc
+#Player:https://www.megago.cl/player/live/60ae965b11ce5700075ed01d
 
 #EXTINF:-1 tvg-id="Chilevision" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chv.jpg" group-title="Televisión",Chilevision
 https://cvthmk.000webhostapp.com/chvhd.php
