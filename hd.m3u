@@ -1192,6 +1192,7 @@ https://mdstrm.com/live-stream-playlist-v/60ca5d9a4721a43eebc87865.m3u8?access_t
 https://mdstrm.com/live-stream-playlist-v/60ca5d9a4721a43eebc87865.m3u8?access_token=xSSFZVTjBNCAacEsDDncnPAgQhQpaNxw7eUOXYShYoaLCiFCiLxWc8ETBhiimWM3PfG6e1tuqU2
 #token:https://api-mds.megamedia.cl/mds/api/v1/token/live/60ca5d9a4721a43eebc87865
 #Playe:https://www.megago.cl/player/live/608848fb45a01919d1a3352e
+#Playe:https://mdstrm.com/live-stream/561430ae330428c223687e1e
 
 #EXTINF:-1 tvg-id="Mega (No 24/7)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega (no 24/7)
 http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
