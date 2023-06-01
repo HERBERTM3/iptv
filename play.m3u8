@@ -3,7 +3,7 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-TARGETDURATION:10
 #EXTINF:10.0,
-https://cvthmk.000webhostapp.com/1.mp4
+https://cvthmk.000webhostapp.com/1.ts
 #EXTINF:10.0,
-https://cvthmk.000webhostapp.com/2.mp4
+https://cvthmk.000webhostapp.com/2.ts
 #EXT-X-ENDLIST
