@@ -1104,12 +1104,14 @@ https://cdn.jwplayer.com/manifests/H6x7OmSa.m3u8
 https://cdn.jwplayer.com/manifests/qSfqspQC.m3u8
 
 #################################################################################################################################################
-#EXTINF:-1 tvg-id="Suits T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/La75oAzj/poster.jpg?width=720" group-title="Serie: Suits",Suits T1 - Capitulo 1
-https://www.mediafire.com/file_premium/7399kvbvwj4nwz7/La_ley_de_los_audaces_S01E01_Piloto_%2528Partes_1_y_2%2529.mp4/La_ley_de_los_audaces_S01E01_Piloto
+#EXTINF:-1 tvg-id="Suits T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/qSfqspQC/poster.jpg?width=720" group-title="Serie: Suits",Suits T1 - Capitulo 1
+https://www.mediafire.com/file_premium/7399kvbvwj4nwz7/La_ley_de_los_audaces_S01E01_Piloto_%2528Partes_1_y_2%2529.mp4
 #EXTINF:-1 tvg-id="Suits T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/qSfqspQC/poster.jpg?width=720" group-title="Serie: Suits",Suits T1 - Capitulo 2
-https://www.mediafire.com/file_premium/mb94zww49mc6ay4/La_ley_de_los_audaces_S01E02_Errores_y_omisiones.mp4/La_ley_de_los_audaces_S01E02_Errores_y_omisiones
+https://www.mediafire.com/file_premium/mb94zww49mc6ay4/La_ley_de_los_audaces_S01E02_Errores_y_omisiones.mp4
 #EXTINF:-1 tvg-id="Suits T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/qSfqspQC/poster.jpg?width=720" group-title="Serie: Suits",Suits T1 - Capitulo 3
-https://www.mediafire.com/file_premium/yzuin8e9dxhfbgy/La_ley_de_los_audaces_S01E03_V%25C3%25ADa_r%25C3%25A1pida.mp4/La_ley_de_los_audaces_S01E03
+https://www.mediafire.com/file_premium/yzuin8e9dxhfbgy/La_ley_de_los_audaces_S01E03_V%25C3%25ADa_r%25C3%25A1pida.mp4
+#EXTINF:-1 tvg-id="Suits T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/qSfqspQC/poster.jpg?width=720" group-title="Serie: Suits",Suits T1 - Capitulo 4
+https://www.mediafire.com/file_premium/64z5h4ijbaxjk4v/La_ley_de_los_audaces_S01E04_Secretos_sucios.mp4
 #################################################################################################################################################
 #EXTINF:-1 tvg-id="Spartacus T1 - Capitulo 1" tvg-logo="https://content.jwplatform.com/v2/media/La75oAzj/poster.jpg?width=720" group-title="Serie: Spartacus",Spartacus T1
 https://cdn.jwplayer.com/manifests/La75oAzj.m3u8
