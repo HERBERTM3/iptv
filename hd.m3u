@@ -1243,9 +1243,6 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #pagina web:https://www.latina.pe/tvenvivo
 
 
-#EXTINF:-1 tvg-id="demo" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/latina_peru.jpg" group-title="Televisión",demo
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd?k=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
-
 #EXTINF:-1 tvg-id="Tevex" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tevex.jpg" group-title="Televisión",Tevex
 https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.m3u8
 #pagina web:https://tevex.cl/en-vivo/
