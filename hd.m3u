@@ -1161,6 +1161,12 @@ https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
 #Playe:https://rudo.video/live/lared
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="La Ucv HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/ucv3.jpg" group-title="Televisión",La ucv
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#pagina web:https://ucvtv.cl/tv-directo.php
+#Playe:https://rudo.video/live/ucvtv2
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Tvn" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="Televisión",Tvn
 https://cvthmk.000webhostapp.com/tvnhd.php
 https://cvthmk.000webhostapp.com/tvn.php
