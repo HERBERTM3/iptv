@@ -1158,6 +1158,8 @@ https://logos.fandom.com/es/wiki/Categoría:Chile
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
 #pagina web:https://www.lared.cl/senal-online
+#Playe:https://rudo.video/live/lared
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvn" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="Televisión",Tvn
 https://cvthmk.000webhostapp.com/tvnhd.php
@@ -1242,7 +1244,8 @@ https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/c324fc2
 https://jireh-1-hls-video-cl-claro.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?dpssid=b2313505257645ef57c4f21d&sid=ba5t1l1xb41430774448647ea8c91a8ae&ndvc=0
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 #pagina web:https://www.youtube.com/@tele13
-
+#Player:https://rudo.video/live/t13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Latina Televisión" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/latina_peru.jpg" group-title="Televisión",Latina Televisión
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
