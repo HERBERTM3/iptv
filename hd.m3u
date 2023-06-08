@@ -1304,7 +1304,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de51
 #pagina web 1:https://pluto.tv/es/live-tv/pluto-tv-dramas-coreanos
 #pagina web 2:https://github.com/iptv-org/awesome-iptv
 
-#EXTINF:-1 tvg-id="Cgtn español" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/cgtn_espa%C3%B1ol.jpg" group-title="Televisión",Cgtn español
+#EXTINF:-1 tvg-id="CGTN (español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/cgtn_espa%C3%B1ol.jpg" group-title="Televisión",CGTN (español)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #Pagina web:https://www.cgtn.com/
 #Player:https://espanol.cgtn.com/en-directo
