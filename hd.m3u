@@ -1148,6 +1148,10 @@ https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8
 #pagina web:https://www.biobiochile.cl/biobiotv/
 
+#EXTINF:-1 tvg-id="Radio cooperativa tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/cooperativa.jpg" group-title="Televisión",Radio cooperativa tv
+http://unlimited2-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
+#Player:http://rudo.video/live/coopetv
+
 #EXTINF:-1 tvg-id="Radio adn tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Radio ADN.jpg" group-title="Televisión",Radio adn tv
 https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
 http://www.sudannews.de/tv2/iptv.html
