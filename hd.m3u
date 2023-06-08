@@ -1143,7 +1143,8 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 
 #EXTINF:-1 tvg-id="Radio agricultura" tvg-logo="https://lh3.googleusercontent.com/-nMa_IsPVRQ0/Xdsii8vjPBI/AAAAAAAAsVI/py8vvCsRNGIuvDA62hxD62S6L29wmGOzACK8BGAsYHg/s0/2019-11-24.png" group-title="Televisión",Radio agricultura
 https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8
-#pagina web:
+#Player:https://rudo.video/live/921tv
+#Pagina web:https://www.radioagricultura.cl/agricultura-tv/
 
 #EXTINF:-1 tvg-id="Radio cooperativa tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/cooperativa.jpg" group-title="Televisión",Radio cooperativa tv
 http://unlimited2-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
