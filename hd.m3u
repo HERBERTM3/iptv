@@ -1261,6 +1261,12 @@ https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 #Player:https://rudo.video/live/t13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Holvoet tv
+http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#Pagina web:https://holvoet.cl/en-vivo/
+#Player:https://rudo.video/live/holvoettv
+
 #EXTINF:-1 tvg-id="Latina Televisión" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/latina_peru.jpg" group-title="Televisión",Latina Televisión
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
 #pagina web:https://www.latina.pe/tvenvivo
