@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 #http://m3u4u.com
+#https://logos.fandom.com/es/wiki/Categor%C3%ADa:Chile
 
 #EXTINF:-1 tvg-id="Caracortada (1983)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/m5PGTYoo-720.jpg" group-title="Peliculas",Caracortada (1983)
 https://cdn.jwplayer.com/manifests/m5PGTYoo.m3u8
