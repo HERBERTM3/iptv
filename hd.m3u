@@ -1223,8 +1223,8 @@ https://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8?access_t
 #pagina web:https://www.mega.cl/senal-en-vivo/
 
 
-#EXTINF:-1 tvg-id="Mega_demo" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega HD
-
+#EXTINF:-1 tvg-id="Mega_demo" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega HDk
+https://cvthmk.000webhostapp.com/streaming.m3u8
 
 #opcion 2 del mismo canal pero esta vez con token
 https://mdstrm.com/live-stream-playlist-v/60ca63f2d983c04051f22bbc.m3u8?access_token=xSSFZVTjBNCAacEsDDncnPAgQhQpaNxw7eUOXYShYoaLCiFCiLxWc8ETBhiimWM3PfG6e1tuqU2
