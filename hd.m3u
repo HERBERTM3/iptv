@@ -1151,8 +1151,10 @@ http://unlimited2-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 #Player:http://rudo.video/live/coopetv
 
 #EXTINF:-1 tvg-id="Radio bio bio tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/biobio.jpg" group-title="Televisión",Radio bio bio tv
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8
 #pagina web:https://www.biobiochile.cl/biobiotv/
+#Player:https://rudo.video/live/bbtv
 
 #EXTINF:-1 tvg-id="Radio adn tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Radio ADN.jpg" group-title="Televisión",Radio adn tv
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
