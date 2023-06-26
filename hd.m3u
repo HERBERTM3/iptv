@@ -1129,11 +1129,11 @@ https://cdn.jwplayer.com/manifests/5oT3Yykj.m3u8
 #################################################################################################################################################
 
 #EXTINF:-1 tvg-id="Radio hoy" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/radiohoy.jpg" group-title="Televisión",Radio hoy tv
-https://panel.dattalive.com:443/8146/8146/playlist.m3u8
+https://panel.dattalive.com:443/8146/8146/playlist.m3u8?res=true&at=android-app&dnt=true
 #pagina web:https://radiohoy.cl
 
 #EXTINF:-1 tvg-id="Radio Carolina TV" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/carolinatv.jpg" group-title="Televisión",Radio carolina tv
-https://mdstrm.com/live-stream-playlist-v/63a06468117f42713374addd.m3u8?access_token=iPnyykMIIxHQYthuvZ8snSQVJ4iKIvqY
+https://mdstrm.com/live-stream-playlist-v/63a06468117f42713374addd.m3u8?access_token=iPnyykMIIxHQYthuvZ8snSQVJ4iKIvqY&res=true&at=android-app&dnt=true
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/carolinatv/carolinatv.smil/playlist.m3u8
 #pagina web:https://www.carolina.cl/tv/
 
@@ -1142,12 +1142,12 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 #Player:https://rudo.video/live/carolinatv2
 
 #EXTINF:-1 tvg-id="Radio agricultura" tvg-logo="https://lh3.googleusercontent.com/-nMa_IsPVRQ0/Xdsii8vjPBI/AAAAAAAAsVI/py8vvCsRNGIuvDA62hxD62S6L29wmGOzACK8BGAsYHg/s0/2019-11-24.png" group-title="Televisión",Radio agricultura
-https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8
+https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?res=true&at=android-app&dnt=true
 #Player:https://rudo.video/live/921tv
 #Pagina web:https://www.radioagricultura.cl/agricultura-tv/
 
 #EXTINF:-1 tvg-id="Radio cooperativa tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/cooperativa.jpg" group-title="Televisión",Radio cooperativa tv
-http://unlimited2-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
+http://unlimited2-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?res=true&at=android-app&dnt=true
 #Player:http://rudo.video/live/coopetv
 
 #EXTINF:-1 tvg-id="Radio bio bio tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/biobio.jpg" group-title="Televisión",Radio bio bio tv
@@ -1157,7 +1157,7 @@ https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8
 #Player:https://rudo.video/live/bbtv
 
 #EXTINF:-1 tvg-id="Radio adn tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Radio ADN.jpg" group-title="Televisión",Radio adn tv
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?res=true&at=android-app&dnt=true
 https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
 http://www.sudannews.de/tv2/iptv.html
 https://logos.fandom.com/es/wiki/Categoría:Chile
@@ -1165,19 +1165,19 @@ https://logos.fandom.com/es/wiki/Categoría:Chile
 #https://register.rudo.video/mix/register/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/stream.js
 
 #EXTINF:-1 tvg-id="Telecanal" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Telecanal.jpg" group-title="Televisión",Telecanal
-https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8?res=true&at=android-app&dnt=true
 http://www.sudannews.de/tv2/iptv.html
 https://logos.fandom.com/es/wiki/Categoría:Chile
 
 #EXTINF:-1 tvg-id="La Red HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/lared.jpg" group-title="Televisión",La red
-https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?res=true&at=android-app&dnt=true
 https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
 #pagina web:https://www.lared.cl/senal-online
 #Playe:https://rudo.video/live/lared
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La Ucv HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/ucv3.jpg" group-title="Televisión",La ucv
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?res=true&at=android-app&dnt=true
 #pagina web:https://ucvtv.cl/tv-directo.php
 #Playe:https://rudo.video/live/ucvtv2
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
@@ -1192,25 +1192,25 @@ https://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?access_t
 #herramienta para ver el token:https://codebeautify.org/source-code-viewer
 
 #EXTINF:-1 tvg-id="Ntv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/ntv.jpg" group-title="Televisión",Ntv
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?res=true&at=android-app&dnt=true
 #pagina web:https://mdstrm.com/live-stream/5aaabe9e2c56420918184c6d
 #Sin token
 #herramienta para ver el token:https://codebeautify.org/source-code-viewer
 
 #EXTINF:-1 tvg-id="24 Play" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/24 play.jpg" group-title="Televisión",24 Play
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?res=true&at=android-app&dnt=true
 #pagina web:https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab
 #Sin token
 #herramienta para ver el token:https://codebeautify.org/source-code-viewer
 
 #EXTINF:-1 tvg-id="Tv chile" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn chile.jpg" group-title="Televisión",Tv chile
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?res=true&at=android-app&dnt=true
 #pagina web:https://mdstrm.com/live-stream/533adcc949386ce765657d7c
 #Sin token
 #herramienta para ver el token:https://codebeautify.org/source-code-viewer
 
 #EXTINF:-1 tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?res=true&at=android-app&dnt=true
 https://cvthmk.000webhostapp.com/mega.php
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #pagina web:https://www.mega.cl/senal-en-vivo/
@@ -1248,16 +1248,16 @@ https://mdstrm.com/live-stream-playlist-v/5c928b7f6d6f41084bdae898.m3u8?access_t
 #pagina token:https://www.chilevision.cl/ms_player_src_01/live_1/5c928b7f6d6f41084bdae898/1681435537.js
 
 #EXTINF:-1 tvg-id="627d1b936d4ded0007d7642f" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chilevisión_noticias.jpg" group-title="Televisión",Chilevisión noticias (pluto tv)
-https://i.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
+https://i.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8?&res=true&at=android-app&dnt=true
 #pagina web:https://pluto.tv/es/live-tv/chilevision-noticias
 
 #EXTINF:-1 tvg-id="62aa5740a47b6c000769f407" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Chilevisión_contigo.jpg" group-title="Televisión",Chilevisión contigo (pluto tv)
-https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
+https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8?&res=true&at=android-app&dnt=true
 #pagina web:https://pluto.tv/es/live-tv/chilevision-contigo
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13
+https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8?&res=true&at=android-app&dnt=true
 https://canal-13--24df53d9e0.repl.co/
-https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8
 https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8?dpssid=b216282632363ab4a6657ffb&sid=bh4cl126054111963ac3d195c92b&ref=www.13.cl
 https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/c324fc24-b910-4698-bba2-3b9fdbf8fade:SCL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2525600.m3u8
 #pagina web:https://www.13.cl/en-vivo
