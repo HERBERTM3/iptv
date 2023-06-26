@@ -1304,6 +1304,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #pagina web:https://www.dw.com/es/tv-en-vivo/s-100837
 
 #EXTINF:-1 tvg-id="RT (Español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/rt.jpg" group-title="Televisión",RT (español)
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
 #pagina web:https://actualidad.rt.com/en_vivo2
 
