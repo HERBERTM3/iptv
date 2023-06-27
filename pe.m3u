@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png" group-title="Televisión",Panamericana
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFhsdbT85DdDXJIxsBl1VK3faDTFTLo9iMF4CRL9wRgvA)/dm/3/x774s7s/s/live-3.m3u8
 
+#EXTINF:-1 tvg-id="Latina television" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="Televisión",Latina television
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?res=true&at=android-app&dnt=true
+
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atv-player.png" group-title="Televisión",ATV
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 
