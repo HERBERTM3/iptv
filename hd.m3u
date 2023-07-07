@@ -1184,7 +1184,7 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?res=true&at=
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvn" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="Televisión",Tvn
-http://tvn-m3u.24df53d9e0.repl.co/
+https://tvn-m3u--24df53d9e0.repl.co/
 https://cvthmk.000webhostapp.com/tvnhd.php
 https://cvthmk.000webhostapp.com/tvn.php
 https://tvn--24df53d9e0.repl.co/
@@ -1259,6 +1259,7 @@ https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8?&res=true&at=android-
 #pagina web:https://pluto.tv/es/live-tv/chilevision-contigo
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13
+https://canal13-m3u--24df53d9e0.repl.co/
 https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8?&res=true&at=android-app&dnt=true
 https://canal-13--24df53d9e0.repl.co/
 https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8?dpssid=b216282632363ab4a6657ffb&sid=bh4cl126054111963ac3d195c92b&ref=www.13.cl
