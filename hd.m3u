@@ -1290,10 +1290,13 @@ http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Panamericana.png" group-title="Televisión",Panamericana
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqwJolKhP3t22QcTP1IzLf9O3ngH-loaUvr8ESfNw5XN)/dm/3/x774s7s/s/live-3.m3u8
 
-#EXTINF:-1 tvg-id="Latina" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/latina_pe.png" group-title="Televisión",Latina
+#EXTINF:-1 tvg-id="Latina" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/latina_pe.png" group-title="Televisión",Latina Televisión
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?res=true&at=android-app&dnt=true
+#https://mdstrm.com/live-stream/5ce7109c7398b977dc0744cd.json
+#hlsv: https://mdstrm.com/live-stream-playlist-v/5ce7109c7398b977dc0744cd.m3u8
+#hls: https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 
-#EXTINF:-1 tvg-id="America" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/americatvperu.jpg" group-title="Televisión",America
+#EXTINF:-1 tvg-id="America" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/americatvperu.jpg" group-title="Televisión",América Televisión
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.smil?access_token=wmwZMIiRWRhzdfUiUD9AJaFGpDXqbMH52ti55lor50V24QeBDrddO4MmjOSgEIxXTA7ZsnO1fvS
 #https://mdstrm.com/live-stream-playlist-v/6099b04d9418ac082441dd74.m3u8?access_token=uL8Z9s2LgyJbKc5FhDbg7r5BV1uP52ow5OKvTwn7VMeFEXpcHcJkDPMtLXuQzfoZsWun85PYRlZ
 #https://mdstrm.com/live-stream/6099b04d9418ac082441dd74.json
