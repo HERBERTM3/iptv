@@ -1299,7 +1299,8 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-id="America" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/americatvperu.jpg" group-title="Televisión",América Televisión
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.smil?access_token=wmwZMIiRWRhzdfUiUD9AJaFGpDXqbMH52ti55lor50V24QeBDrddO4MmjOSgEIxXTA7ZsnO1fvS
 #https://mdstrm.com/live-stream-playlist-v/6099b04d9418ac082441dd74.m3u8?access_token=uL8Z9s2LgyJbKc5FhDbg7r5BV1uP52ow5OKvTwn7VMeFEXpcHcJkDPMtLXuQzfoZsWun85PYRlZ
-#https://mdstrm.com/live-stream/6099b04d9418ac082441dd74.json
+#streaming 1 hd:https://mdstrm.com/live-stream/6099b04d9418ac082441dd74.json
+#streaming 2 hq:https://mdstrm.com/live-stream/5ce7109c7398b977dc0744cd.json
 #https://platform-static.cdn.mdstrm.com/events/6099b04d9418ac082441dd74.json
 #https://media.tvgo.americatv.com.pe/web/live/6099b04d9418ac082441dd74/MTM1MDQ2MjU=?format=json&_=1688869429282
 
