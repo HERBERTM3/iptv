@@ -1290,6 +1290,7 @@ http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #Player:https://rudo.video/live/holvoettv
 
 #EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Panamericana.png" group-title="Televisión",Panamericana
+https://canal-panamericana.48f948c322.repl.co
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqwJolKhP3t22QcTP1IzLf9O3ngH-loaUvr8ESfNw5XN)/dm/3/x774s7s/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/latina_pe.png" group-title="Televisión",Latina Televisión
