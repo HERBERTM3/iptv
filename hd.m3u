@@ -1289,6 +1289,9 @@ http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #Pagina web:https://holvoet.cl/en-vivo/
 #Player:https://rudo.video/live/holvoettv
 
+#EXTINF:-1 tvg-id="Cartoon Network Latino" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Panamericana.png" group-title="Televisión",Panamericana
 https://canal-panamericana.48f948c322.repl.co
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqwJolKhP3t22QcTP1IzLf9O3ngH-loaUvr8ESfNw5XN)/dm/3/x774s7s/s/live-3.m3u8
