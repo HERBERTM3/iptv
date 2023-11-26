@@ -1294,7 +1294,10 @@ http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 https://live.cvnsmc80.repl.co/?url=https://www.youtube.com/@France24_es/live
 
 #EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",NMás
-https://live.cvnsmc80.repl.co/?url=https://www.youtube.com/@nmas/live
+https://live.cvnsmc80.repl.co/?url=https://www.youtube.com/@nmas
+
+#EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",CNN en Español
+https://live.cvnsmc80.repl.co/?url=https://www.youtube.com/@cnnee
 
 #EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",EL PAÍS
 https://live.cvnsmc80.repl.co/?url=https://www.youtube.com/@elpais/live
