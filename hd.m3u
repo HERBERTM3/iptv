@@ -1139,11 +1139,11 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 #pagina web:https://www.carolina.cl/tv/
 
 #EXTINF:-1 tvg-id="Radio Carolina 2 TV" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/carolinatv.jpg" group-title="Televisión",Radio carolina 2 tv
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
+https://live.cvnsmc80.repl.co/?url=https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
 #Player:https://rudo.video/live/carolinatv2
 
 #EXTINF:-1 tvg-id="Radio agricultura" tvg-logo="https://lh3.googleusercontent.com/-nMa_IsPVRQ0/Xdsii8vjPBI/AAAAAAAAsVI/py8vvCsRNGIuvDA62hxD62S6L29wmGOzACK8BGAsYHg/s0/2019-11-24.png" group-title="Televisión",Radio agricultura
-https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?res=true&at=android-app&dnt=true
+https://live.cvnsmc80.repl.co/?url=https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?res=true&at=android-app&dnt=true
 #Player:https://rudo.video/live/921tv
 #Pagina web:https://www.radioagricultura.cl/agricultura-tv/
 
@@ -1212,7 +1212,7 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?res=true&a
 #herramienta para ver el token:https://codebeautify.org/source-code-viewer
 
 #EXTINF:-1 tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?res=true&at=android-app&dnt=true
+https://live.cvnsmc80.repl.co/?url=https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?res=true&at=android-app&dnt=true
 https://cvthmk.000webhostapp.com/mega.php
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #pagina web:https://www.mega.cl/senal-en-vivo/
@@ -1335,27 +1335,27 @@ https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.smil?access_tok
 
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atv-player.png" group-title="Televisión",ATV
-https://canal-atv.48f948c322.repl.co
+https://live.cvnsmc80.repl.co/?url=https://canal-atv.48f948c322.repl.co
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv_720.m3u8
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 
 #EXTINF:-1 tvg-id="ATV+" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" group-title="Televisión",ATV+
-https://canal-atv-1.48f948c322.repl.co
+https://live.cvnsmc80.repl.co/?url=https://canal-atv-1.48f948c322.repl.co
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
 
 #EXTINF:-1 tvg-id="ATV SUR" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="Televisión",ATV SUR
-https://canal-atv-sur.48f948c322.repl.co
+https://live.cvnsmc80.repl.co/?url=https://canal-atv-sur.48f948c322.repl.co
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TVPE" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Televisión",TVPE
-https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8
+https://live.cvnsmc80.repl.co/?url=https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8
 
 #EXTINF:-1 tvg-id="TVPE Noticias" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png" group-title="Televisión",TVPE Noticias
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_1.m3u8
