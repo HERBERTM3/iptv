@@ -1292,16 +1292,19 @@ http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",France 24
 https://live.cvnsmc80.repl.co/?url=https://www.youtube.com/@France24_es/live
-https://live.cvnsmc80.repl.co/?url=https://www.youtube.com/@latinanoticias/live
+
+#EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",NMás
+https://live.cvnsmc80.repl.co/?url=https://www.youtube.com/@nmas/live
+
+#EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",EL PAÍS
+https://live.cvnsmc80.repl.co/?url=https://www.youtube.com/@elpais/live
 
 
 #EXTINF:-1 tvg-id="Cartoon Network Latino" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Panamericana.png" group-title="Televisión",Panamericana
-http://livefrance24.48f948c322.repl.co/?url=https://www.dailymotion.com/PanamericanaPTV/live
-
-http://ggggg.48f948c322.repl.co/
+https://live.cvnsmc80.repl.co/?url=https://www.dailymotion.com/PanamericanaPTV/live
 http://livepanamericana.48f948c322.repl.co/live.m3u8
 http://c.48f948c322.repl.co/
 https://canal-test.cvnsmc80.repl.co/
@@ -1309,7 +1312,7 @@ https://canal-panamericana.48f948c322.repl.co
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqwJolKhP3t22QcTP1IzLf9O3ngH-loaUvr8ESfNw5XN)/dm/3/x774s7s/s/live-3.m3u8
 
 
-#EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Latina Televisión / Yuotube
+#EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Latina Televisión / Youtube
 https://live.cvnsmc80.repl.co/?url=https://www.youtube.com/@latinanoticias/live
 
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/latina_pe.png" group-title="Televisión",Latina Televisión
