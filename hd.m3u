@@ -1293,11 +1293,21 @@ http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Todo Noticias
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@todonoticias/live
 
+#EXTINF:-1 tvg-id="Noticias Telemundo" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Noticias Telemundo
+https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@noticias/live
+
+#EXTINF:-1 tvg-id="RTVE Noticias" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",RTVE Noticias
+https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@rtvenoticias/live
+
+#EXTINF:-1 tvg-id="adn40Mx" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",adn40Mx
+https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@ADN40MX/live
+
+
+#EXTINF:-1 tvg-id="Azteca Noticias" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Azteca Noticias
+https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@aztecanoticias/liv
+
 #EXTINF:-1 tvg-id="France 24" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",France 24
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@France24_es/live
-
-#EXTINF:-1 tvg-id="NMás" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",NMás
-https://bash.48f948c322.repl.co//?url=https://www.youtube.com/@nmas/live
 
 #EXTINF:-1 tvg-id="Cartoon Network Latino" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
