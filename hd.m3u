@@ -1293,6 +1293,9 @@ http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://yt3.googleusercontent.com/xmtKSyua-A54JzaZRXWtrQDVXmY87abFUXVpzRMgv42QZ7EdP9ZcntY8eWmhIeP6HBBqn6SQPw" group-title="Televisión",Todo Noticias
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@todonoticias/live
 
+#EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://yt3.googleusercontent.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa" group-title="Televisión",C5N
+https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@c5n/live
+
 #EXTINF:-1 tvg-id="Noticias Telemundo" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYOfR02li9LrjPT8xnxXChi80UDpwleazhvUzkDbA" group-title="Televisión",Noticias Telemundo
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@noticias/live
 
