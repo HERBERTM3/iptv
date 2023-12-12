@@ -1309,7 +1309,8 @@ https://bash.48f948c322.repl.co/?url=https://www.twitch.tv/simpsonsviejostv2
 #EXTINF:-1 tvg-id="El Chavo del 8" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8aBSvwA5eGpzwrB2elmFM9zsUWUyG1RImLV9sl0c8rqSf0PRx" group-title="Televisión",El Chavo del 8
 https://bash.48f948c322.repl.co/?url=https://www.twitch.tv/chavito8tv24
 
-
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/18dabcf/2147483647/strip/true/crop/2527x3000+0+0/resize/1024x1216!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2F8d%2F04f59eaeea2bdd52001c9660fceb%2Fc1d8842f670d40f28bf740ddd91caa1a" group-title="Televisión",Peliculas
+https://bash.48f948c322.repl.co/?url=https://www.twitch.tv/peliculasfigueredo6
 
 
 #EXTINF:-1 tvg-id="RTVE Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYqX8DR9ghfZqTsy5ZsmKs4LdS_qzJwVHd91KU3SA" group-title="Televisión",RTVE Noticias
