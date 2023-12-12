@@ -1290,23 +1290,23 @@ http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #Pagina web:https://holvoet.cl/en-vivo/
 #Player:https://rudo.video/live/holvoettv
 
-#EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Todo Noticias
+#EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://yt3.googleusercontent.com/xmtKSyua-A54JzaZRXWtrQDVXmY87abFUXVpzRMgv42QZ7EdP9ZcntY8eWmhIeP6HBBqn6SQPw" group-title="Televisión",Todo Noticias
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@todonoticias/live
 
-#EXTINF:-1 tvg-id="Noticias Telemundo" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Noticias Telemundo
+#EXTINF:-1 tvg-id="Noticias Telemundo" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYOfR02li9LrjPT8xnxXChi80UDpwleazhvUzkDbA" group-title="Televisión",Noticias Telemundo
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@noticias/live
 
-#EXTINF:-1 tvg-id="RTVE Noticias" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",RTVE Noticias
+#EXTINF:-1 tvg-id="RTVE Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYqX8DR9ghfZqTsy5ZsmKs4LdS_qzJwVHd91KU3SA" group-title="Televisión",RTVE Noticias
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@rtvenoticias/live
 
-#EXTINF:-1 tvg-id="adn40Mx" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",adn40Mx
+#EXTINF:-1 tvg-id="adn40Mx" tvg-logo="https://yt3.googleusercontent.com/DgGenE88XX-G0NldK5vx5NnoiM-UidXoetB0ufkH-GMVxIAVmBmV0K4AR_ABK0boTJiNjoBgDQ" group-title="Televisión",adn40Mx
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@ADN40MX/live
 
 
-#EXTINF:-1 tvg-id="Azteca Noticias" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Azteca Noticias
+#EXTINF:-1 tvg-id="Azteca Noticias" tvg-logo="https://yt3.googleusercontent.com/wRhlauwnC0AGOh4q2yailAwfcpL4EMmruBi8EnQu0Y-IiuXiimBI2gd6w1ULWG9rIb9wSq48" group-title="Televisión",Azteca Noticias
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@aztecanoticias/liv
 
-#EXTINF:-1 tvg-id="France 24" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",France 24
+#EXTINF:-1 tvg-id="France 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSzHjloNHGe1LAKKjXgapPDsxZISPQe4sFHcg13" group-title="Televisión",France 24
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@France24_es/live
 
 #EXTINF:-1 tvg-id="Cartoon Network Latino" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Cartoon Network Latino
