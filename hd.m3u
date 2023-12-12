@@ -1291,23 +1291,23 @@ http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",France 24
-https://live.cvnsmc80.repl.co/?url=https://www.youtube.com/@France24_es/live
+https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@France24_es/live
 
 #EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",NMás
-https://live.cvnsmc80.repl.co/?url=https://www.youtube.com/@nmas
+https://bash.48f948c322.repl.co//?url=https://www.youtube.com/@nmas/live
 
 #EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",CNN en Español
-https://live.cvnsmc80.repl.co/?url=https://www.youtube.com/@cnnee
+https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@cnnee/live
 
 #EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",EL PAÍS
-https://live.cvnsmc80.repl.co/?url=https://www.youtube.com/@elpais/live
+https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@elpais/live
 
 
 #EXTINF:-1 tvg-id="Cartoon Network Latino" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Panamericana.png" group-title="Televisión",Panamericana
-https://live.cvnsmc80.repl.co/?url=https://www.dailymotion.com/PanamericanaPTV
+https://bash.48f948c322.repl.co/?url=https://www.dailymotion.com/PanamericanaPTV
 http://livepanamericana.48f948c322.repl.co/live.m3u8
 http://c.48f948c322.repl.co/
 https://canal-test.cvnsmc80.repl.co/
@@ -1316,7 +1316,7 @@ https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqwJolKhP3t22QcTP1
 
 
 #EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Latina Televisión / Youtube
-https://live.cvnsmc80.repl.co/?url=https://www.youtube.com/@latinanoticias/live
+https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@latinanoticias/live
 
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/latina_pe.png" group-title="Televisión",Latina Televisión
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?res=true&at=android-app&dnt=true
@@ -1335,27 +1335,27 @@ https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.smil?access_tok
 
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atv-player.png" group-title="Televisión",ATV
-https://live.cvnsmc80.repl.co/?url=https://canal-atv.48f948c322.repl.co
+https://bash.48f948c322.repl.co/?url=https://canal-atv.48f948c322.repl.co
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv_720.m3u8
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 
 #EXTINF:-1 tvg-id="ATV+" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" group-title="Televisión",ATV+
-https://live.cvnsmc80.repl.co/?url=https://canal-atv-1.48f948c322.repl.co
+https://bash.48f948c322.repl.co/?url=https://canal-atv-1.48f948c322.repl.co
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
 
 #EXTINF:-1 tvg-id="ATV SUR" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="Televisión",ATV SUR
-https://live.cvnsmc80.repl.co/?url=https://canal-atv-sur.48f948c322.repl.co
+https://bash.48f948c322.repl.co/?url=https://canal-atv-sur.48f948c322.repl.co
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TVPE" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Televisión",TVPE
-https://live.cvnsmc80.repl.co/?url=https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8
+https://bash.48f948c322.repl.co/?url=https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8
 
 #EXTINF:-1 tvg-id="TVPE Noticias" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png" group-title="Televisión",TVPE Noticias
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_1.m3u8
