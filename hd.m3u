@@ -1293,18 +1293,26 @@ http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://yt3.googleusercontent.com/xmtKSyua-A54JzaZRXWtrQDVXmY87abFUXVpzRMgv42QZ7EdP9ZcntY8eWmhIeP6HBBqn6SQPw" group-title="Televisión",Todo Noticias
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@todonoticias/live
 
-#EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://yt3.googleusercontent.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa" group-title="Televisión",C5N
+#EXTINF:-1 tvg-id="C5N" tvg-logo="https://yt3.googleusercontent.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa" group-title="Televisión",C5N
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@c5n/live
 
-#EXTINF:-1 tvg-id="Noticias Telemundo" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYOfR02li9LrjPT8xnxXChi80UDpwleazhvUzkDbA" group-title="Televisión",Noticias Telemundo
-https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@noticias/live
+#EXTINF:-1 tvg-id="Televisión Pública tvg-logo="https://yt3.googleusercontent.com/5lHbUMHAepSNrhSsVMYkzfXNud-xXia5KHM9BP7iN-tK5ZHmyazhWcjL_r9RNgNQSkukolI_QA" group-title="Televisión",Televisión Pública
+https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@TVPublicaArgentina/live
+
+
+#EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://yt3.googleusercontent.com/RlSRDysdiCOHOZbwCkYueV_x2nyBBmTu3yni3kdEtSnBq71GOcAk2EGjBIjVADO_Fac0vdVnyv8" group-title="Televisión",Globovisión
+https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@Globovision/live
+
+
 
 #EXTINF:-1 tvg-id="RTVE Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYqX8DR9ghfZqTsy5ZsmKs4LdS_qzJwVHd91KU3SA" group-title="Televisión",RTVE Noticias
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@rtvenoticias/live
 
+#EXTINF:-1 tvg-id="Noticias Telemundo" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYOfR02li9LrjPT8xnxXChi80UDpwleazhvUzkDbA" group-title="Televisión",Noticias Telemundo
+https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@noticias/live
+
 #EXTINF:-1 tvg-id="adn40Mx" tvg-logo="https://yt3.googleusercontent.com/DgGenE88XX-G0NldK5vx5NnoiM-UidXoetB0ufkH-GMVxIAVmBmV0K4AR_ABK0boTJiNjoBgDQ" group-title="Televisión",adn40Mx
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@ADN40MX/live
-
 
 #EXTINF:-1 tvg-id="Azteca Noticias" tvg-logo="https://yt3.googleusercontent.com/wRhlauwnC0AGOh4q2yailAwfcpL4EMmruBi8EnQu0Y-IiuXiimBI2gd6w1ULWG9rIb9wSq48" group-title="Televisión",Azteca Noticias
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@aztecanoticias/live
