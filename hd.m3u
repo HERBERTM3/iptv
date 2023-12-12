@@ -1303,7 +1303,8 @@ https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@TVPublicaArgentina
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://yt3.googleusercontent.com/RlSRDysdiCOHOZbwCkYueV_x2nyBBmTu3yni3kdEtSnBq71GOcAk2EGjBIjVADO_Fac0vdVnyv8" group-title="Televisión",Globovisión
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@Globovision/live
 
-
+#EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Televisión",Los Simpson
+https://www.twitch.tv/simpsonsviejostv2/live
 
 #EXTINF:-1 tvg-id="RTVE Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYqX8DR9ghfZqTsy5ZsmKs4LdS_qzJwVHd91KU3SA" group-title="Televisión",RTVE Noticias
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@rtvenoticias/live
