@@ -1264,6 +1264,7 @@ https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8?&res=true&at=android-
 #pagina web:https://pluto.tv/es/live-tv/chilevision-contigo
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13
+http://bash-canal13.48f948c322.repl.co/
 https://canal13-m3u--24df53d9e0.repl.co/
 https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8?&res=true&at=android-app&dnt=true
 https://canal-13--24df53d9e0.repl.co/
