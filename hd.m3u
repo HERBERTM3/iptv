@@ -1298,6 +1298,9 @@ http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://yt3.googleusercontent.com/xmtKSyua-A54JzaZRXWtrQDVXmY87abFUXVpzRMgv42QZ7EdP9ZcntY8eWmhIeP6HBBqn6SQPw" group-title="Televisión",Todo Noticias
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@todonoticias/live
 
+#EXTINF:-1 tvg-id="ImagenTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT9wMThHIuk0FUtXleSv9Xp4zfDGi-mv4hfoCxdSg" group-title="Televisión",ImagenTV
+https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@imagentv/live
+
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://yt3.googleusercontent.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa" group-title="Televisión",C5N
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@c5n/live
 
@@ -1316,7 +1319,7 @@ https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@Globovision/live
 #EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Televisión",Los Simpson
 https://bash.48f948c322.repl.co/?url=https://www.twitch.tv/simpsonsenlatino
 
-#EXTINF:-1 tvg-id="Pocoyo" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8aBSvwA5eGpzwrB2elmFM9zsUWUyG1RImLV9sl0c8rqSf0PRx" group-title="Televisión",Pocoyo
+#EXTINF:-1 tvg-id="Pocoyo" tvg-logo="https://yt3.googleusercontent.com/RGMkF_JihEVdzs3vdOxUGuECqUCMG_vfFaNKOtj5c48fIbCRk9ZTkP7WLvgdXoioIc6zkpI3" group-title="Televisión",Pocoyo
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@pocoyo/live
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/18dabcf/2147483647/strip/true/crop/2527x3000+0+0/resize/1024x1216!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2F8d%2F04f59eaeea2bdd52001c9660fceb%2Fc1d8842f670d40f28bf740ddd91caa1a" group-title="Televisión",Peliculas
