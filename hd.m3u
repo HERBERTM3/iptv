@@ -1304,10 +1304,8 @@ https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@imagentv/live
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://yt3.googleusercontent.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa" group-title="Televisión",C5N
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@c5n/live
 
-
 #EXTINF:-1 tvg-id="CGTN Español" tvg-logo="https://yt3.googleusercontent.com/P3IX94NB_2IJ3ihTOrllW50aTlED8cY6lvfop_hxZ2g6UftPggEbIRazcWmOl3ECVNkgpYOp_A" group-title="Televisión",CGTN Español
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@cgtnespanol/live
-
 
 #EXTINF:-1 tvg-id="Televisión Pública tvg-logo="https://yt3.googleusercontent.com/5lHbUMHAepSNrhSsVMYkzfXNud-xXia5KHM9BP7iN-tK5ZHmyazhWcjL_r9RNgNQSkukolI_QA" group-title="Televisión",Televisión Pública
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@TVPublicaArgentina/live
@@ -1321,6 +1319,9 @@ https://bash.48f948c322.repl.co/?url=https://www.twitch.tv/simpsonsenlatino
 
 #EXTINF:-1 tvg-id="Pocoyo" tvg-logo="https://yt3.googleusercontent.com/RGMkF_JihEVdzs3vdOxUGuECqUCMG_vfFaNKOtj5c48fIbCRk9ZTkP7WLvgdXoioIc6zkpI3" group-title="Televisión",Pocoyo
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@pocoyo/live
+
+#EXTINF:-1 tvg-id="Nick Jr. en Español" tvg-logo="https://yt3.googleusercontent.com/YDp7l0bjkbUxzVFESmFqCl7csIUntX2nHmyDJX0y6Y6xVk106OGckYRuBaLfnG7kyQEW5PvdQis" group-title="Televisión",Nick Jr. en Español
+https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@nickjrespanol/live
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/18dabcf/2147483647/strip/true/crop/2527x3000+0+0/resize/1024x1216!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2F8d%2F04f59eaeea2bdd52001c9660fceb%2Fc1d8842f670d40f28bf740ddd91caa1a" group-title="Televisión",Peliculas
 https://bash.48f948c322.repl.co/?url=https://www.twitch.tv/peliculasfigueredo6
