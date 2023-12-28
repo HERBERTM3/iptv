@@ -1301,6 +1301,9 @@ https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@todonoticias/live
 #EXTINF:-1 tvg-id="ImagenTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT9wMThHIuk0FUtXleSv9Xp4zfDGi-mv4hfoCxdSg" group-title="Televisión",ImagenTV
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@imagentv/live
 
+#EXTINF:-1 tvg-id="Canal E" tvg-logo="https://yt3.googleusercontent.com/mi1RkS9WALMF-7Lo0OjtWuOkO_iwiZsYmykvoSLFPrHGp22zZ_zD2yuLZ-YfpWN7owYUwjrTlw" group-title="Televisión",Canal E
+https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@canaldeeconomia/live
+
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://yt3.googleusercontent.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa" group-title="Televisión",C5N
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@c5n/live
 
