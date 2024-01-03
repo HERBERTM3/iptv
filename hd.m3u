@@ -1297,54 +1297,52 @@ http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #Pagina web:https://holvoet.cl/en-vivo/
 #Player:https://rudo.video/live/holvoettv
 
-#EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://yt3.googleusercontent.com/xmtKSyua-A54JzaZRXWtrQDVXmY87abFUXVpzRMgv42QZ7EdP9ZcntY8eWmhIeP6HBBqn6SQPw" group-title="Televisión",Todo Noticias
+#EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://yt3.googleusercontent.com/xmtKSyua-A54JzaZRXWtrQDVXmY87abFUXVpzRMgv42QZ7EdP9ZcntY8eWmhIeP6HBBqn6SQPw" group-title="Televisión",Todo Noticias (no 24/7)
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@todonoticias/live
 
-#EXTINF:-1 tvg-id="ImagenTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT9wMThHIuk0FUtXleSv9Xp4zfDGi-mv4hfoCxdSg" group-title="Televisión",ImagenTV
+#EXTINF:-1 tvg-id="ImagenTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT9wMThHIuk0FUtXleSv9Xp4zfDGi-mv4hfoCxdSg" group-title="Televisión",ImagenTV (no 24/7)
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@imagentv/live
 
-#EXTINF:-1 tvg-id="Canal E" tvg-logo="https://yt3.googleusercontent.com/mi1RkS9WALMF-7Lo0OjtWuOkO_iwiZsYmykvoSLFPrHGp22zZ_zD2yuLZ-YfpWN7owYUwjrTlw" group-title="Televisión",Canal E
+#EXTINF:-1 tvg-id="Canal E" tvg-logo="https://yt3.googleusercontent.com/mi1RkS9WALMF-7Lo0OjtWuOkO_iwiZsYmykvoSLFPrHGp22zZ_zD2yuLZ-YfpWN7owYUwjrTlw" group-title="Televisión",Canal E (no 24/7)
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@canaldeeconomia/live
 
-#EXTINF:-1 tvg-id="C5N" tvg-logo="https://yt3.googleusercontent.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa" group-title="Televisión",C5N
+#EXTINF:-1 tvg-id="C5N" tvg-logo="https://yt3.googleusercontent.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa" group-title="Televisión",C5N (no 24/7)
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@c5n/live
 
-#EXTINF:-1 tvg-id="CGTN Español" tvg-logo="https://yt3.googleusercontent.com/P3IX94NB_2IJ3ihTOrllW50aTlED8cY6lvfop_hxZ2g6UftPggEbIRazcWmOl3ECVNkgpYOp_A" group-title="Televisión",CGTN Español
+#EXTINF:-1 tvg-id="CGTN Español" tvg-logo="https://yt3.googleusercontent.com/P3IX94NB_2IJ3ihTOrllW50aTlED8cY6lvfop_hxZ2g6UftPggEbIRazcWmOl3ECVNkgpYOp_A" group-title="Televisión",CGTN (no 24/7)
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@cgtnespanol/live
 
-#EXTINF:-1 tvg-id="Televisión Pública tvg-logo="https://yt3.googleusercontent.com/5lHbUMHAepSNrhSsVMYkzfXNud-xXia5KHM9BP7iN-tK5ZHmyazhWcjL_r9RNgNQSkukolI_QA" group-title="Televisión",Televisión Pública
+#EXTINF:-1 tvg-id="Televisión Pública tvg-logo="https://yt3.googleusercontent.com/5lHbUMHAepSNrhSsVMYkzfXNud-xXia5KHM9BP7iN-tK5ZHmyazhWcjL_r9RNgNQSkukolI_QA" group-title="Televisión",Televisión Pública  (no 24/7)
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@TVPublicaArgentina/live
 
 
-#EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://yt3.googleusercontent.com/RlSRDysdiCOHOZbwCkYueV_x2nyBBmTu3yni3kdEtSnBq71GOcAk2EGjBIjVADO_Fac0vdVnyv8" group-title="Televisión",Globovisión
+#EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://yt3.googleusercontent.com/RlSRDysdiCOHOZbwCkYueV_x2nyBBmTu3yni3kdEtSnBq71GOcAk2EGjBIjVADO_Fac0vdVnyv8" group-title="Televisión",Globovisión (no 24/7)
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@Globovision/live
 
-#EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Televisión",Los Simpson
-https://bash.48f948c322.repl.co/?url=https://www.twitch.tv/simpsonsenlatino
 
-#EXTINF:-1 tvg-id="Pocoyo" tvg-logo="https://yt3.googleusercontent.com/RGMkF_JihEVdzs3vdOxUGuECqUCMG_vfFaNKOtj5c48fIbCRk9ZTkP7WLvgdXoioIc6zkpI3" group-title="Televisión",Pocoyo
+#EXTINF:-1 tvg-id="Pocoyo" tvg-logo="https://yt3.googleusercontent.com/RGMkF_JihEVdzs3vdOxUGuECqUCMG_vfFaNKOtj5c48fIbCRk9ZTkP7WLvgdXoioIc6zkpI3" group-title="Televisión",Pocoyo (no 24/7)
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@pocoyo/live
 
-#EXTINF:-1 tvg-id="Nick Jr. en Español" tvg-logo="https://yt3.googleusercontent.com/YDp7l0bjkbUxzVFESmFqCl7csIUntX2nHmyDJX0y6Y6xVk106OGckYRuBaLfnG7kyQEW5PvdQis" group-title="Televisión",Nick Jr. en Español
+#EXTINF:-1 tvg-id="Nick Jr. en Español" tvg-logo="https://yt3.googleusercontent.com/d83FgJTp4AB_v1KAuNC_WXIrS2lAYslBLRKQSRB3zFW3QSzd1Pn2NMMlKW0I-0f2qL1HNsk0" group-title="Televisión",PAW Patrol (no 24/7)
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@nickjrespanol/live
 
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/18dabcf/2147483647/strip/true/crop/2527x3000+0+0/resize/1024x1216!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2F8d%2F04f59eaeea2bdd52001c9660fceb%2Fc1d8842f670d40f28bf740ddd91caa1a" group-title="Televisión",Peliculas
 https://bash.48f948c322.repl.co/?url=https://www.twitch.tv/peliculasfigueredo6
 
 
-#EXTINF:-1 tvg-id="RTVE Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYqX8DR9ghfZqTsy5ZsmKs4LdS_qzJwVHd91KU3SA" group-title="Televisión",RTVE Noticias
+#EXTINF:-1 tvg-id="RTVE Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYqX8DR9ghfZqTsy5ZsmKs4LdS_qzJwVHd91KU3SA" group-title="Televisión",RTVE Noticias (no 24/7)
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@rtvenoticias/live
 
-#EXTINF:-1 tvg-id="Noticias Telemundo" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYOfR02li9LrjPT8xnxXChi80UDpwleazhvUzkDbA" group-title="Televisión",Noticias Telemundo
+#EXTINF:-1 tvg-id="Noticias Telemundo" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYOfR02li9LrjPT8xnxXChi80UDpwleazhvUzkDbA" group-title="Televisión",Noticias Telemundo (no 24/7)
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@noticias/live
 
-#EXTINF:-1 tvg-id="adn40Mx" tvg-logo="https://yt3.googleusercontent.com/DgGenE88XX-G0NldK5vx5NnoiM-UidXoetB0ufkH-GMVxIAVmBmV0K4AR_ABK0boTJiNjoBgDQ" group-title="Televisión",adn40Mx
+#EXTINF:-1 tvg-id="adn40Mx" tvg-logo="https://yt3.googleusercontent.com/DgGenE88XX-G0NldK5vx5NnoiM-UidXoetB0ufkH-GMVxIAVmBmV0K4AR_ABK0boTJiNjoBgDQ" group-title="Televisión",adn40Mx (no 24/7)
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@ADN40MX/live
 
-#EXTINF:-1 tvg-id="Azteca Noticias" tvg-logo="https://yt3.googleusercontent.com/wRhlauwnC0AGOh4q2yailAwfcpL4EMmruBi8EnQu0Y-IiuXiimBI2gd6w1ULWG9rIb9wSq48" group-title="Televisión",Azteca Noticias
+#EXTINF:-1 tvg-id="Azteca Noticias" tvg-logo="https://yt3.googleusercontent.com/wRhlauwnC0AGOh4q2yailAwfcpL4EMmruBi8EnQu0Y-IiuXiimBI2gd6w1ULWG9rIb9wSq48" group-title="Televisión",Azteca Noticias (no 24/7)
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@aztecanoticias/live
 
-#EXTINF:-1 tvg-id="France 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSzHjloNHGe1LAKKjXgapPDsxZISPQe4sFHcg13" group-title="Televisión",France 24
+#EXTINF:-1 tvg-id="France 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSzHjloNHGe1LAKKjXgapPDsxZISPQe4sFHcg13" group-title="Televisión",France 24 (no 24/7)
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@France24_es/live
 
 #EXTINF:-1 tvg-id="Cartoon Network Latino" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Cartoon Network Latino
@@ -1359,14 +1357,16 @@ https://canal-panamericana.48f948c322.repl.co
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqwJolKhP3t22QcTP1IzLf9O3ngH-loaUvr8ESfNw5XN)/dm/3/x774s7s/s/live-3.m3u8
 
 
-#EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Latina Televisión / Youtube
+#EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://yt3.googleusercontent.com/ZZUspTgjfU8PUamAXLY2BXtvxIyDkujDnacESGfEpLC8wiuxGX7PuH0e6im-fuGCatItFkQs" group-title="Televisión",Latina Televisión (no 24/7)
 https://bash.48f948c322.repl.co/?url=https://www.youtube.com/@latinanoticias/live
 
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/latina_pe.png" group-title="Televisión",Latina Televisión
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?res=true&at=android-app&dnt=true
 #https://mdstrm.com/live-stream/5ce7109c7398b977dc0744cd.json
 #hlsv: https://mdstrm.com/live-stream-playlist-v/5ce7109c7398b977dc0744cd.m3u8
 #hls: https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+#https://rudo.video/live/latina
 
 #EXTINF:-1 tvg-id="America" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/americatvperu.jpg" group-title="Televisión",América Televisión
 https://1011-vos.dtvott.com/DASH/manifest.mpd
@@ -1446,7 +1446,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de51
 #pagina web 1:https://pluto.tv/es/live-tv/pluto-tv-dramas-coreanos
 #pagina web 2:https://github.com/iptv-org/awesome-iptv
 
-#EXTINF:-1 tvg-id="CGTN (español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/cgtn_espa%C3%B1ol.jpg" group-title="Televisión",CGTN (español)
+#EXTINF:-1 tvg-id="CGTN (español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/cgtn_espa%C3%B1ol.jpg" group-title="Televisión",CGTN
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #Pagina web:https://www.cgtn.com/
 #Player:https://espanol.cgtn.com/en-directo
