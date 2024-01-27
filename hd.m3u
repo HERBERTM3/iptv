@@ -1283,6 +1283,9 @@ https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/c324fc2
 #ejemplo toke:https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8?auth-token=event=bFL1IVq9RNGlWQaqgiFuNw~exp=1686856512~hmac=4f510e1a8fc8019493ac03e3d3a53dd965e71a14665b0f95e995ba234db0d58a
 #ejemplo toke:https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8
 
+#EXTINF:-1 tvg-id="Canal 13 Deporte" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Televisión",Canal 13 Deporte
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
+#https://rudo.video/live/13d
 
 #EXTINF:-1 tvg-id="Canal 13 (No 24/7)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13 (no 24/7)
 https://c925bfd7-e618-4bb7-a949-538e19935c1b-00-3p0nvye5o9n5e.janeway.replit.dev/?url=https://www.youtube.com/@tele13/live
