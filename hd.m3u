@@ -1369,6 +1369,27 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #hls: https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #https://rudo.video/live/latina
 
+#EXTINF:-1 tvg-id="Best tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/BEST_TV.png" group-title="Televisión",Best tv
+https://mi.godo.net.pe/BesTv-001120zx/index.m3u8?token=8b14bdaff5921c528798afdc9ba5117b2759ceb5-f1ba23150641c8dae893aa3187deb826-1708172411-1708161611&remote=181.72.48.168
+#https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcable&stream=bestcable
+
+#EXTINF:-1 tvg-id="Best cable sports" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/BEST_CABLE_SPORTS.png" group-title="Televisión",Best cable sports
+https://mi.godo.net.pe/Best-cable-sports/index.m3u8?token=e3b122bcbc5b0039bd976f248b6e6b306b539b51-0c398c56cdfc07857feb9c5aee9383f8-1708172479-1708161679&remote=181.72.48.168
+#https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablesports&stream=bestcablesports
+
+#EXTINF:-1 tvg-id="Best cable music" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/BEST_CABLE_MUSIC.png" group-title="Televisión",Best cable music
+https://mi.godo.net.pe/best-Music-00112000050/index.m3u8?token=1d75ab866f4f49505618b65f5c15d0ad231fd383-e7644bf6da2436e652c9d4ddb813eac3-1708172524-1708161724&remote=181.72.48.168
+#https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablemusic&stream=bestcablemusic
+
+#EXTINF:-1 tvg-id="Best +cumbia" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/best_%2Bcumbia.png" group-title="Televisión",Best +cumbia
+https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8?token=30f0e5e0f5ec8412368cc375d877ba48701df8f0-ddf2635aee2402b0c3e4356e559f1135-1708172573-1708161773&remote=181.72.48.168
+#https://dattassd.com/player/index.php?puerto=19360&rtmp=mascumbiatvonline&stream=mascumbiatvonline
+
+#EXTINF:-1 tvg-id="Best hutun tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/best_hatun_tv.png" group-title="Televisión",Best hutun tv
+https://mi.godo.net.pe/Best00Hatum-0032101002/index.m3u8?token=58de52ec44ab4acb509fc10587398a1944c75879-e0e5c5bcd973754b9d31c6af31bea821-1708172609-1708161809&remote=181.72.48.168
+#https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablehatuntv&stream=bestcablehatuntv
+
+
 #EXTINF:-1 tvg-id="America" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/americatvperu.jpg" group-title="Televisión",América Televisión
 https://1011-vos.dtvott.com/DASH/manifest.mpd
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.smil?access_token=wmwZMIiRWRhzdfUiUD9AJaFGpDXqbMH52ti55lor50V24QeBDrddO4MmjOSgEIxXTA7ZsnO1fvS
@@ -1409,9 +1430,12 @@ https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/in
 https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_1.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa" tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa.svg" group-title="Televisión",Exitosa
+https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/index.fmp4.m3u8
 https://canal-exitosa.48f948c322.repl.co
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/embed.html?autoplay=0
+https://cu.onliv3.com/exitosa/
 #canal: https://cu.onliv3.com/exitosa/js/ply1.js
 
 
