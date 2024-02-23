@@ -1344,6 +1344,10 @@ http://localhost:5000/?url=https://www.youtube.com/@ADN40MX/live
 #EXTINF:-1 tvg-id="Azteca Noticias" tvg-logo="https://yt3.googleusercontent.com/wRhlauwnC0AGOh4q2yailAwfcpL4EMmruBi8EnQu0Y-IiuXiimBI2gd6w1ULWG9rIb9wSq48" group-title="Televisión",Azteca Noticias (no 24/7)
 http://localhost:5000/?url=https://www.youtube.com/@aztecanoticias/live
 
+#EXTINF:-1 tvg-id="América TV" tvg-logo="https://yt3.googleusercontent.com/ZYpWhccGuFXs7S33cXFfLCGeibSshOFM37ZZPhpPqz5cgl5ubbQ06U3xiWUupSmfqGSFcFpGgQ4" group-title="Televisión",América TV (no 24/7)
+http://localhost:5000/?url=https://www.youtube.com/@americaenvivo/live
+
+
 #EXTINF:-1 tvg-id="France 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSzHjloNHGe1LAKKjXgapPDsxZISPQe4sFHcg13" group-title="Televisión",France 24 (no 24/7)
 http://localhost:5000/?url=https://www.youtube.com/@France24_es/live
 
