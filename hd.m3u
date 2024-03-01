@@ -1184,6 +1184,7 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?res=true&at=
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvn" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="Televisión",Tvn
+http://localhost/chv.php
 http://bash-tvn.48f948c322.repl.co/
 https://tvn-m3u--24df53d9e0.repl.co/
 https://cvthmk.000webhostapp.com/tvnhd.php
@@ -1247,6 +1248,7 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #Player:https://www.megago.cl/player/live/60ae965b11ce5700075ed01d
 
 #EXTINF:-1 tvg-id="Chilevision" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chv.jpg" group-title="Televisión",Chilevision
+http://localhost/chv.php
 http://bash-chilevision.48f948c322.repl.co/
 http://chilevision.48f948c322.repl.co/
 https://chv-m3u--24df53d9e0.repl.co/
