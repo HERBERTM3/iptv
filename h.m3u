@@ -1,0 +1,55 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
+#http://m3u4u.com
+#https://logos.fandom.com/es/wiki/Categor%C3%ADa:Chile
+
+
+#EXTINF:-1 tvg-id="24_Play" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/24 play.jpg" group-title="Televisión",24 Play
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?res=true&at=android-app&dnt=true
+
+#EXTINF:-1 tvg-id="Tvn" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="Televisión",Tvn
+http://localhost/canales/tvn.php
+
+#EXTINF:-1 tvg-id="Mega_demo" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega HD
+http://localhost/canales/mega.php
+
+#EXTINF:-1 tvg-id="Chilevision" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chv.jpg" group-title="Televisión",Chilevision
+http://localhost/canales/chv.php
+
+
+#EXTINF:-1 tvg-id="Canal 13 Deporte" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Televisión",Canal 13 Deporte
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
+#https://rudo.video/live/13d
+
+#EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Holvoet tv
+http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://yt3.googleusercontent.com/ZZUspTgjfU8PUamAXLY2BXtvxIyDkujDnacESGfEpLC8wiuxGX7PuH0e6im-fuGCatItFkQs" group-title="Televisión",Latina Televisión (no 24/7)
+http://localhost:5000/?url=https://www.youtube.com/@latinanoticias/live
+
+#EXTINF:-1 tvg-id="Latina" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/latina_pe.png" group-title="Televisión",Latina Televisión
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tevex" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tevex.jpg" group-title="Televisión",Tevex
+https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Canal 9 bío-bío" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal9.jpg" group-title="Televisión",Canal 9 bío-bío
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DW (Deutsch)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dwd.jpg" group-title="Televisión",DW (deutsch)
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream01/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="DW (Español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dwe.jpg" group-title="Televisión",DW (español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="RT (Español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/rt.jpg" group-title="Televisión",RT (español)
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hispantv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/hispantv.jpg" group-title="Televisión",Hispantv
+https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
+
+
+#EXTINF:-1 tvg-id="Dramas coreanos (pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dramas_coreanos.jpg" group-title="Televisión",Dramas coreanos (pluto tv)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PS
+
+#EXTINF:-1 tvg-id="CGTN (español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/cgtn_espa%C3%B1ol.jpg" group-title="Televisión",CGTN
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
