@@ -23,9 +23,6 @@ https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 #EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Holvoet tv
 http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://yt3.googleusercontent.com/ZZUspTgjfU8PUamAXLY2BXtvxIyDkujDnacESGfEpLC8wiuxGX7PuH0e6im-fuGCatItFkQs" group-title="Televisión",Latina Televisión (no 24/7)
-http://localhost:5000/?url=https://www.youtube.com/@latinanoticias/live
-
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/latina_pe.png" group-title="Televisión",Latina Televisión
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
