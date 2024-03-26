@@ -7,6 +7,7 @@
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?res=true&at=android-app&dnt=true
 
 #EXTINF:-1 tvg-id="Space HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Space HD
+http://167.250.39.130:8000/play/space
 http://45.191.196.10:8000/play/a00k
 
 
