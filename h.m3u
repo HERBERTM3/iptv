@@ -13,7 +13,7 @@ http://localhost/canales/tvn.php
 http://localhost/canales/mega.php
 
 #EXTINF:-1 tvg-id="Chilevision" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chv.jpg" group-title="Televisión",Chilevision
-http://localhost/canales/chv.php
+https://jireh-1-hls-video-cl-claro.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Canal 13 Deporte" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Televisión",Canal 13 Deporte
