@@ -1225,6 +1225,7 @@ https://mdstrm.com/live-stream-playlist-v/60ca5d9a4721a43eebc87865.m3u8?access_t
 #Playe:https://mdstrm.com/live-stream/561430ae330428c223687e1e
 #Playe:https://rudo.video/live/mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega (No 24/7)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega (no 24/7)
 https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
@@ -1259,6 +1260,12 @@ https://mdstrm.com/live-stream-playlist-v/5c928b7f6d6f41084bdae898.m3u8?access_t
 #pagina web:https://www.chilevision.cl/senal-online
 #pagina token antes:https://www.chilevision.cl/ms_player_src_01/live_1/5c928b7f6d6f41084bdae898/1681435537.js
 #pagina token ahora:https://www.chilevision.cl:8080/token.php/ms_player_src_01/live_1/63ee47e1daeeb80a30d98ef4/1695852366571.json
+#Playe:https://rudo.video/live/chvn
+#https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
+#https://jireh-1-hls-video-cl-claro.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="627d1b936d4ded0007d7642f" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chilevisión_noticias.jpg" group-title="Televisión",Chilevisión noticias (pluto tv)
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
@@ -1285,6 +1292,8 @@ https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/c324fc2
 #Player:https://rudo.video/live/c13?tag=c13
 #ejemplo toke:https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8?auth-token=event=bFL1IVq9RNGlWQaqgiFuNw~exp=1686856512~hmac=4f510e1a8fc8019493ac03e3d3a53dd965e71a14665b0f95e995ba234db0d58a
 #ejemplo toke:https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8
+#Player:https://rudo.video/live/c13
+
 
 #EXTINF:-1 tvg-id="Canal 13 Deporte" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Televisión",Canal 13 Deporte
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
