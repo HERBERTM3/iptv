@@ -1249,6 +1249,7 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #Player:https://www.megago.cl/player/live/60ae965b11ce5700075ed01d
 
 #EXTINF:-1 tvg-id="Chilevision" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chv.jpg" group-title="Televisión",Chilevision
+https://jireh-1-hls-video-cl-claro.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 http://localhost/canales/chv.php
 http://bash-chilevision.48f948c322.repl.co/
 http://chilevision.48f948c322.repl.co/
@@ -1279,6 +1280,7 @@ https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8?&res=true&at=android-
 #pagina web:https://pluto.tv/es/live-tv/chilevision-contigo
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13
+http://201.222.44.220:4227/play/a02l
 http://bash-canal13.48f948c322.repl.co/
 https://canal13-m3u--24df53d9e0.repl.co/
 https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8?&res=true&at=android-app&dnt=true
@@ -1368,6 +1370,7 @@ http://localhost:5000/?url=https://www.youtube.com/@France24_es/live
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Panamericana.png" group-title="Televisión",Panamericana
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 http://localhost:5000/?url=https://www.dailymotion.com/PanamericanaPTV
 http://livepanamericana.48f948c322.repl.co/live.m3u8
 http://c.48f948c322.repl.co/
