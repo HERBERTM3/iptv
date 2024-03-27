@@ -25,15 +25,38 @@ http://38.41.8.1:8000/play/a009
 http://170.254.18.106/AXN/index.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Comedy Central
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Lifetime
+http://170.254.18.106/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",HBO Mundi
+http://170.254.18.106/HBO_MUNDI/index.m3u8
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",HBO Family
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",HBO 2
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1 tvg-id="STAR" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",STAR
+http://170.254.18.106/STAR/index.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",FX
+http://170.254.18.106/FX/index.m3u8
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",FX HD
+http://38.41.8.1:8000/play/a01h
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",TNT
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Animal Planet HD
+http://38.41.8.1:8000/play/a023
+#EXTINF:-1 tvg-id="Cinecanal 1 HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Cinecanal 1 HD
+http://38.41.8.1:8000/play/a01r
+#EXTINF:-1 tvg-id="Cinecanal 2 HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Cinecanal 2 HD
+http://38.41.8.1:8000/play/a00y
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Discovery Channel
+http://38.41.8.1:8000/play/a07l
+#EXTINF:-1 tvg-id="Discovery H&H HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Discovery H&H HD
+http://38.41.8.1:8000/play/a017
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Discovery Theater HD
+http://38.41.8.1:8000/play/a018
+#EXTINF:-1 tvg-id="History Channel HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",History Channel HD
+http://38.41.8.1:8000/play/a005
 
 
 
