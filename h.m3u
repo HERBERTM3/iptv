@@ -8,7 +8,36 @@ https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?res=true&a
 
 #EXTINF:-1 tvg-id="Space HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Space HD
 http://167.250.39.130:8000/play/space
+
+#EXTINF:-1 tvg-id="TCS PELICULAS" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",TCS PELICULAS
 http://45.191.196.10:8000/play/a00k
+
+
+#EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",A&E HD
+http://38.41.8.1:8000/play/a006
+#EXTINF:-1 tvg-id="AMC 1" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",AMC 1
+http://38.41.8.1:8000/play/a01s
+#EXTINF:-1 tvg-id="AMC 2" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",AMC 2
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AXN 1 HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",AXN 1 HD
+http://38.41.8.1:8000/play/a009
+#EXTINF:-1 tvg-id="AXN 2 HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",AXN 2 HD
+http://170.254.18.106/AXN/index.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Comedy Central
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="Tvn" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="Televisión",Tvn
