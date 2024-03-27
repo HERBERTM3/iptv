@@ -218,6 +218,8 @@ http://localhost/canales/mega.php
 #EXTINF:-1 tvg-id="Chilevision" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chv.jpg" group-title="Televisión",Chilevision
 https://jireh-1-hls-video-cl-claro.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal 13" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13
+http://201.222.44.220:4227/play/a02l
 
 #EXTINF:-1 tvg-id="Canal 13 Deporte" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Televisión",Canal 13 Deporte
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
@@ -226,8 +228,14 @@ https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 #EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Holvoet tv
 http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/Panamericana.png" group-title="Televisión",Panamericana
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/latina_pe.png" group-title="Televisión",Latina Televisión
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="America" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/americatvperu.jpg" group-title="Televisión",América Televisión
+https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tevex" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tevex.jpg" group-title="Televisión",Tevex
 https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.m3u8
