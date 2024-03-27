@@ -6,8 +6,10 @@
 #EXTINF:-1 tvg-id="24_Play" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/24 play.jpg" group-title="Televisión",24 Play
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?res=true&at=android-app&dnt=true
 
-#EXTINF:-1 tvg-id="Space HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Space HD
+#EXTINF:-1 tvg-id="Space 1 HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Space 1 HD
 http://167.250.39.130:8000/play/space
+#EXTINF:-1 tvg-id="Space 2 HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Space 2 HD
+http://38.41.8.1:8000/play/a00a
 
 #EXTINF:-1 tvg-id="TCS PELICULAS" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",TCS PELICULAS
 http://45.191.196.10:8000/play/a00k
@@ -57,10 +59,28 @@ http://38.41.8.1:8000/play/a017
 http://38.41.8.1:8000/play/a018
 #EXTINF:-1 tvg-id="History Channel HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",History Channel HD
 http://38.41.8.1:8000/play/a005
-
-
-
-
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Nat Geo HD
+http://38.41.8.1:8000/play/a01p
+#EXTINF:-1 tvg-id="STAR CHANNEL HD 1" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",STAR CHANNEL HD 1
+http://38.41.8.1:8000/play/a019
+#EXTINF:-1 tvg-id="STAR CHANNEL HD 2" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",STAR CHANNEL HD 2
+http://38.41.8.1:8000/play/a02s
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Studio Universal HD
+http://38.41.8.1:8000/play/a01y
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="UNIVERSAL CHANNEL HD
+http://38.41.8.1:8000/play/a01a
+#EXTINF:-1 tvg-id="Sun Channel HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Sun Channel HD
+http://38.41.8.1:8000/play/a015
+#EXTINF:-1 tvg-id="SyFy" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",SyFy
+http://38.41.8.1:8000/play/a057
+#EXTINF:-1 tvg-id="TBS" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",TBS
+http://38.41.8.1:8000/play/a074
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",TCM
+http://38.41.8.1:8000/play/a04x
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",TNT HD
+http://38.41.8.1:8000/play/a00s
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Warner Channel HD
+http://38.41.8.1:8000/play/a008
 
 
 #EXTINF:-1 tvg-id="Tvn" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="Televisión",Tvn
