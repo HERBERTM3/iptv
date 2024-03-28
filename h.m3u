@@ -118,14 +118,6 @@ http://190.61.43.117:45000/play/a03r
 http://190.61.43.117:45000/play/a044
 #EXTINF:-1 tvg-id="Canal Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/640px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="Televisión",Canal Estrellas[853x480]
 http://190.61.43.117:45000/play/a06h
-#EXTINF:-1 tvg-id="Canal Institucional" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Canal Institucional[720x540]
-http://190.61.43.117:45000/play/a039
-#EXTINF:-1 tvg-id="Canal Uno" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Canal Uno[720x540]
-http://190.61.43.117:45000/play/a036
-#EXTINF:-1 tvg-id="Canal del Congreso" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Canal del Congreso[853x480]
-http://190.61.43.117:45000/play/a03a
-#EXTINF:-1 tvg-id="Capital" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Capital[720x540]
-http://190.61.43.117:45000/play/a03g
 #EXTINF:-1 tvg-id="Caracol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Televisión",Caracol HD[1920x1080]
 http://190.61.43.117:45000/play/a02v
 #EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="Televisión",Cartoon Network HD[1920x1080]
@@ -145,7 +137,7 @@ http://190.61.43.117:45000/play/a05u
 http://190.61.43.117:45000/play/a061
 #EXTINF:-1 tvg-id="History 2 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="Televisión",History 2 Channel[720x540]
 http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
-#EXTINF:-1 tvg-id="HomeandHealth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Discovery_Home_%26_Health_logo.svg" group-title="Televisión",HomeandHealth[853x480]
+#EXTINF:-1 tvg-id="HomeandHealth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Discovery_Home_%26_Health_logo.svg" group-title="Televisión",Home and Health[853x480]
 http://190.61.43.117:45000/play/a06f
 #EXTINF:-1 tvg-id="Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="Televisión",Nat Geo[853x480]
 http://190.61.43.117:45000/play/a06i
