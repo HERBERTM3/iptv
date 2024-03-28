@@ -232,6 +232,14 @@ https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.m3u8
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="Willax" tvg-logo="https://lh3.googleusercontent.com/-zCcPYjGPBFk/ZgTYEMwLl3I/AAAAAAAABHg/DLyfreoxRGUEz2AyuvSZK0_PNGuu1-olQCNcBGAsYHQ/h120/Willax.png" group-title="Televisión",Willax
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
+#EXTINF:-1 tvg-id="Exitosa" tvg-logo="https://lh3.googleusercontent.com/-URNTBUQRzl0/ZgTZV24nmEI/AAAAAAAABHo/X5h4gjVrOGsM3eym7qKDhKJZBu9UMQV2QCNcBGAsYHQ/h120/Exitosa.png" group-title="Televisión",Exitosa
+https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://lh3.googleusercontent.com/-qhJSQi63ycM/ZgTZ0nvJ5JI/AAAAAAAABHw/EXGdHldhDh4QZSnZtwKcIgEnYKe5jVkOwCNcBGAsYHQ/h120/TV%2BPer%25C3%25BA.png" group-title="Televisión",TV Perú
+https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
+#EXTINF:-1 tvg-id="Nativa" tvg-logo="https://lh3.googleusercontent.com/-IzU1ISqWMPQ/ZgTaP88lswI/AAAAAAAABH4/-I7A3mHOsMwMVIaXnlekE1sAzP_Kayl8ACNcBGAsYHQ/h120/Nativa.png" group-title="Televisión",Nativa
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CTV TV" tvg-logo="https://lh3.googleusercontent.com/-C8EpD545q5Y/ZgTa02Z4GiI/AAAAAAAABIA/jJloGJe-ORU277XvufpOlRpl8fuV910AgCNcBGAsYHQ/h120/CTV%2BTV.png" group-title="Televisión",CTV TV
+https://live-evg4.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8
 #EXTINF:-1 tvg-id="Ovacion" tvg-logo="https://lh3.googleusercontent.com/-6ZD5WT1-3SU/ZgTW8JsL5JI/AAAAAAAABHQ/6sZrvtX2IjUq6fNkIBxjp_uMzc6wyUWpACNcBGAsYHQ/h120/Ovacion.png" group-title="Televisión",Ovacion
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 
