@@ -81,42 +81,42 @@ http://38.41.8.1:8000/play/a008
 
 
 #SD
-#EXTINF:-1 tvg-id="City TV" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",City TV[853x480]
+#EXTINF:-1 tvg-id="City TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Citytv_2023.jpg/170px-Logo_Citytv_2023.jpg" group-title="Televisión",City TV[853x480]
 http://190.61.43.117:45000/play/a03f
-#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Discovery HD[1920x1080]
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="Televisión",Discovery HD[1920x1080]
 http://190.61.43.117:45000/play/a02y
-#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Discovery ID[720x540]
+#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="Televisión",Discovery ID[720x540]
 http://190.61.43.117:45000/play/a06e
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Discovery Kids HD[1920x1080]
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Televisión",Discovery Kids HD[1920x1080]
 http://190.61.43.117:45000/play/a019
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Discovery Turbo[853x480]
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="Televisión",Discovery Turbo[853x480]
 http://190.61.43.117:45000/play/a040
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Disney Channel[853x480]
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="Televisión",Disney Channel[853x480]
 http://190.61.43.117:45000/play/a06b
-#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Disney Jr[853x480]
+#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/315.png" group-title="Televisión",Disney Junior[853x480]
 http://190.61.43.117:45000/play/a045
-#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",ESPN 2 HD[1280x720]
-http://190.61.43.117:45000/play/a053
-#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",ESPN 3 HD[1280x720]
-http://190.61.43.117:45000/play/a051
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",ESPN 4[853x480]
-http://190.61.43.117:45000/play/a06w
-#EXTINF:-1 tvg-id="ESPN EXTRA HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",ESPN EXTRA HD[1280x720]
-http://190.61.43.117:45000/play/a01v
-#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",ESPN HD[1280x720]
+#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Televisión",ESPN HD[1280x720]
 http://190.61.43.117:45000/play/a01l
-#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",FOX Sports 2 HD[1920x1080]
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Televisión",ESPN 2 HD[1280x720]
+http://190.61.43.117:45000/play/a053
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Televisión",ESPN 3 HD[1280x720]
+http://190.61.43.117:45000/play/a051
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN4_Logo.png" group-title="Televisión",ESPN 4[853x480]
+http://190.61.43.117:45000/play/a06w
+#EXTINF:-1 tvg-id="ESPN EXTRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="Televisión",ESPN EXTRA HD[1280x720]
+http://190.61.43.117:45000/play/a01v
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" group-title="Televisión",FOX Sports 2 HD[1920x1080]
 http://190.61.43.117:45000/play/a01g
-#EXTINF:-1 tvg-id="FX HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",FX HD[1920x1080]
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Televisión",FX HD[1920x1080]
 http://190.61.43.117:45000/play/a01k
-#EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Fox Sports 3[853x480]
+#EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/a/a9/20170519075100%21Fox_sports_3_logo.svg" group-title="Televisión",Fox Sports 3[853x480]
 http://190.61.43.117:45000/play/a060
 #SD
-#EXTINF:-1 tvg-id="Baby TV" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Baby TV[720x540]
+#EXTINF:-1 tvg-id="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="Televisión",Baby TV[720x540]
 http://190.61.43.117:45000/play/a03r
-#EXTINF:-1 tvg-id="CNN Espanol" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",CNN Espanol[720x540]
+#EXTINF:-1 tvg-id="CNN Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="Televisión",CNN Espanol[720x540]
 http://190.61.43.117:45000/play/a044
-#EXTINF:-1 tvg-id="Canal Estrellas" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Canal Estrellas[853x480]
+#EXTINF:-1 tvg-id="Canal Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/640px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="Televisión",Canal Estrellas[853x480]
 http://190.61.43.117:45000/play/a06h
 #EXTINF:-1 tvg-id="Canal Institucional" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Canal Institucional[720x540]
 http://190.61.43.117:45000/play/a039
@@ -126,38 +126,40 @@ http://190.61.43.117:45000/play/a036
 http://190.61.43.117:45000/play/a03a
 #EXTINF:-1 tvg-id="Capital" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Capital[720x540]
 http://190.61.43.117:45000/play/a03g
-#EXTINF:-1 tvg-id="Caracol HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Caracol HD[1920x1080]
+#EXTINF:-1 tvg-id="Caracol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Televisión",Caracol HD[1920x1080]
 http://190.61.43.117:45000/play/a02v
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Cartoon Network HD[1920x1080]
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="Televisión",Cartoon Network HD[1920x1080]
 http://190.61.43.117:45000/play/a01y
 #SD
-#EXTINF:-1 tvg-id="Golden HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Golden HD[1920x1080]
+#EXTINF:-1 tvg-id="Golden HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="Televisión",Golden HD[1920x1080]
 http://190.61.43.117:45000/play/a029
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",HBO 2 HD[1920x1080]
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="Televisión",HBO 2 HD[1920x1080]
 http://190.61.43.117:45000/play/a023
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",HBO Family[853x480]
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="Televisión",HBO Family[853x480]
 http://190.61.43.117:45000/play/a05y
-#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",HBO HD[1920x1080]
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="Televisión",HBO HD[1920x1080]
 http://190.61.43.117:45000/play/a01w
-#EXTINF:-1 tvg-id="HBO XTREME SD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",HBO XTREME SD[853x480]
+#EXTINF:-1 tvg-id="HBO XTREME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/640px-HBO_Xtreme.svg.png" group-title="Televisión",HBO XTREME SD[853x480]
 http://190.61.43.117:45000/play/a05u
-#EXTINF:-1 tvg-id="History Channel" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",History Channel[720x540]
+#EXTINF:-1 tvg-id="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="Televisión",History Channel[720x540]
 http://190.61.43.117:45000/play/a061
-#EXTINF:-1 tvg-id="HomeandHealth" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",HomeandHealth[853x480]
+#EXTINF:-1 tvg-id="History 2 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="Televisión",History 2 Channel[720x540]
+http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
+#EXTINF:-1 tvg-id="HomeandHealth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Discovery_Home_%26_Health_logo.svg" group-title="Televisión",HomeandHealth[853x480]
 http://190.61.43.117:45000/play/a06f
-#EXTINF:-1 tvg-id="Nat Geo" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Nat Geo[853x480]
+#EXTINF:-1 tvg-id="Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="Televisión",Nat Geo[853x480]
 http://190.61.43.117:45000/play/a06i
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Nickelodeon[720x540]
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="Televisión",Nickelodeon[720x540]
 http://190.61.43.117:45000/play/a03u
-#EXTINF:-1 tvg-id="Pasiones HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Pasiones HD[1920x1080]
+#EXTINF:-1 tvg-id="Pasiones HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="Televisión",Pasiones HD[1920x1080]
 http://190.61.43.117:45000/play/a04x
-#EXTINF:-1 tvg-id="RCN HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",RCN HD[1920x1080]
+#EXTINF:-1 tvg-id="RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Televisión",RCN HD[1920x1080]
 http://190.61.43.117:45000/play/a01m
-#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",RCN Novelas[853x480]
+#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="Televisión",RCN Novelas[853x480]
 http://190.61.43.117:45000/play/a06d
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",STAR CHANNEL[853x480]
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Televisión",STAR CHANNEL[853x480]
 http://190.61.43.117:45000/play/a05h
-#EXTINF:-1 tvg-id="Senal Colombia" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Senal Colombia[720x540]
+#EXTINF:-1 tvg-id="Senal Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1280px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Televisión",Senal Colombia[720x540]
 http://190.61.43.117:45000/play/a03b
 #EXTINF:-1 tvg-id="Space" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Space[853x480]
 http://190.61.43.117:45000/play/a06l
