@@ -267,6 +267,9 @@ https://spottvod.akamaized.net/i/hdflash/rlaxx/naturestream_tv/S6I6061VT_,premiu
 #EXTINF:-1 tvg-id="Soni Centric" tvg-logo="https://api.rlaxxtv.com/images/channels/sonicentric_colour.png" group-title="Televisión",Soni Centric
 https://spottvod.akamaized.net/i/hdflash/rlaxx/sonicentric/Campfire_at_Sunset_,premium,high,regular,.mp4.csmil/master.m3u8
 
+#EXTINF:-1 tvg-id="Alacocina" tvg-logo="https://api.rlaxxtv.com/images/channels/alacocinatv_colour.png" group-title="Televisión",Alacocina
+https://spottvod.akamaized.net/i/hdflash/rlaxx/alacocina_tv/fuera_de_carta_e8_t2_,premium,high,regular,.mp4.csmil/master.m3u8
+
 
 #EXTINF:-1 tvg-id="RT (Español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/rt.jpg" group-title="Televisión",RT (español)
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
