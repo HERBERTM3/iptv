@@ -258,6 +258,9 @@ https://spottvod.akamaized.net/i/hdflash/rlaxx/thesoul_publishing/0c4c7e59aeb04d
 #EXTINF:-1 tvg-id="Deluxe Lounge" tvg-logo="https://api.rlaxxtv.com/images/channels/deluxeloungehd_colour.png" group-title="Televisión",Deluxe Lounge
 https://spottvod.akamaized.net/i/hdflash/rlaxx/high_view/812032_,premium,high,regular,.mp4.csmil/master.m3u8
 
+#EXTINF:-1 tvg-id="Deluxe Lounge" tvg-logo="https://api.rlaxxtv.com/images/channels/naturestreamtv_colour.png" group-title="Televisión",Nature Stream
+https://spottvod.akamaized.net/i/hdflash/rlaxx/naturestream_tv/S6I6061VT_,premium,high,regular,.mp4.csmil/master.m3u8
+
 
 #EXTINF:-1 tvg-id="RT (Español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/rt.jpg" group-title="Televisión",RT (español)
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
