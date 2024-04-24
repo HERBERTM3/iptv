@@ -270,6 +270,9 @@ https://spottvod.akamaized.net/i/hdflash/rlaxx/sonicentric/Campfire_at_Sunset_,p
 #EXTINF:-1 tvg-id="Alacocina" tvg-logo="https://api.rlaxxtv.com/images/channels/alacocinatv_colour.png" group-title="Televisión",Alacocina
 https://spottvod.akamaized.net/i/hdflash/rlaxx/alacocina_tv/fuera_de_carta_e8_t2_,premium,high,regular,.mp4.csmil/master.m3u8
 
+#EXTINF:-1 tvg-id="Todo crimen" tvg-logo="https://api.rlaxxtv.com/images/channels/todocrimen_colour.png" group-title="Televisión",Todo crimen
+https://spottvod.akamaized.net/i/hdflash/rlaxx/indigenius/12_VICTIMAS_DEL_MI_012__DG00045125_VICTIMAS_DEL_MIS_1_V1_7_,premium,high,regular,.mp4.csmil/master.m3u8
+
 
 #EXTINF:-1 tvg-id="RT (Español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/rt.jpg" group-title="Televisión",RT (español)
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
