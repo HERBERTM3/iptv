@@ -213,6 +213,7 @@ http://localhost/canales/mega.php
 https://jireh-1-hls-video-cl-claro.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13
+https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/85823f09-4339-4874-be41-c7e94f683ed4:MRN2/variant/30eb16b8c8662667c310715d246151bc/bandwidth/1623600.m3u8
 http://201.222.44.220:4227/play/a02l
 
 #EXTINF:-1 tvg-id="Canal 13 Deporte" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Televisión",Canal 13 Deporte
